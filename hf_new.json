@@ -1,0 +1,2036 @@
+[
+  {
+    "q": "Để có thể khuếch đại các tín hiệu có tần số thấp và tăng khả năng chống nhiễu người ta thường sử dụng mạch:",
+    "o": [
+      "Khuếch đại vi sai",
+      "Darlington",
+      "Cascode",
+      "Hồi tiếp dương"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Để khử hiện tượng tự kích người ta thường dùng:",
+    "o": [
+      "Mạch AGC",
+      "Mạch AFC",
+      "Phương pháp hồi tiếp dương",
+      "Hồi tiếp âm"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Nguyên lý đổi tần dựa vào:",
+    "o": [
+      "Đặc tính tuyến tính của Transistor và Diode",
+      "Đặc tính phi tuyến của Transistor và Diode",
+      "Độ khuếch đại của Transistor",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nhiệm vụ của mạch đổi tần trong máy thu thanh AM:",
+    "o": [
+      "Đổi tần số tín hiệu cao tần cần thu",
+      "Trộn tín hiệu cao tần cần thu với dao động ngoại sai",
+      "Khuếch đại tín hiệu cao tần và dao động ngoại sai",
+      "Đổi tín hiệu cao tần AM thành tín hiệu trung tần AM có tần số sóng mang 455 KHz"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Các công đoạn của quá trình số hoá tín hiệu audio:",
+    "o": [
+      "Lấy mẫu, lượng tử hoá và mã hoá.",
+      "Lượng tử hoá, mã hoá và giải mã.",
+      "Lọc thông cao, lượng tử hoá và mã hóa.",
+      "Lọc thông thấp, mã hoá và giải mã."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mã hóa kênh (channel coding) là quá trình được thực hiện:",
+    "o": [
+      "Đối với tín hiệu audio tương tự",
+      "Khi tái tạo tín hiệu audio tương tự từ tín hiệu audio số",
+      "Trước khi lưu trữ và truyền dẫn tín hiệu audio số",
+      "Trong bộ biến đổi tương tự sang số (A/D)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Các phương tiện và kỹ thuật dùng để lưu trữ tín hiệu audio số:",
+    "o": [
+      "Compact Disc",
+      "MiniDisc",
+      "Digital Audio Tape (DAT)",
+      "Cả 1, 2 và 3 đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Mã hoá kênh trong audio số nhằm mục đích:",
+    "o": [
+      "Thích ứng với kênh truyền",
+      "Giảm sự mất mát thông tin trong thời gian truyền dẫn hay ghi âm",
+      "Làm cho dạng phổ tín hiệu âm thanh số ít bị méo nhất",
+      "Cả 1, 2 và 3 đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Transistor của mạch khuếch đại công suất thường làm việc ở:",
+    "o": [
+      "Chế độ C",
+      "Chế độ A",
+      "Chế độ B hoặc AB",
+      "Chế độ D"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Ưu điểm của cách ghép tầng khuếch đại âm tần trực tiếp là:",
+    "o": [
+      "Ngăn cách thành phần một chiều giữa các tầng",
+      "Dễ dàng trong việc tính toán và thiết kế",
+      "Dễ tích hợp trong IC và tăng độ trung thực",
+      "Tăng hiệu suất"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mạch AGC đưa đến điều khiển những khối nào trong máy thu hình",
+    "o": [
+      "Khối kênh và khuếch đại trung tần",
+      "Khối kênh và khuếch đại thị tần",
+      "Khuếch đại trung tần và khuếch đại thị tần",
+      "Khuếch đại trung tần và tách sóng thị tần"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thành phần linh kiện phần cứng nào trong cấu trúc máy thu vô tuyến đóng vai trò quyết định nhất đến Hệ số tạp âm (Noise Figure) và độ nhạy tổng thể của hệ thống",
+    "o": [
+      "Bộ khuếch đại công suất cao tần (HPA).",
+      "Mạch lọc dải thông trung tần (IF Filter).",
+      "Bộ khuếch đại tạp âm thấp đầu vào (LNA - Low Noise Amplifier).",
+      "Mạch giải điều chế tách sóng biên độ (AM Detector)."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mục đích của mã hóa nguồn tín hiệu trong truyền thông là gì",
+    "o": [
+      "Để chất lượng tín hiệu tốt hơn",
+      "Để truyền thông tin đi nhanh hơn",
+      "Để dễ dàng khôi phục thông tin bị mất ở phía thu",
+      "Để tăng hiệu quả sử dụng kênh"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Nhiệm vụ chủ yếu của ăng ten phát vô tuyến điện là:",
+    "o": [
+      "Biến đổi năng lượng tín hiệu điện thành sóng điện từ bức xạ vào không gian",
+      "Biến đổi năng lượng tín hiệu điện",
+      "khuếch đại tín hiệu cao tần"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Với một bộ khuếch đại có độ lợi 10dB thì tỉ số điện áp đầu ra/vào là bao nhiêu:",
+    "o": [
+      "10",
+      "20",
+      "2.3",
+      "3.162"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chế độ truyền mà dữ liệu có thể truyền cả hai chiều cùng lúc là:",
+    "o": [
+      "Simplex",
+      "Half duplex",
+      "Full duplex",
+      "Cả 1, 2, 3 đều đúng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong máy thu vô tuyến điện, khuếch đại trực tiếp tín hiệu thu được sau anten được đưa:",
+    "o": [
+      "Qua bộ khuếch đại cao tần trước khi vào bộ tách sóng",
+      "Qua bộ tách sóng, sau đó đến bộ khuếch đại cao tần",
+      "Qua bộ khuếch đại cao tần, không qua bộ tách sóng nào"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Độ rộng băng thông (bandwidth) của tín hiệu đầu ra bộ trộn tần:",
+    "o": [
+      "Bằng độ rộng băng thông tín hiệu đầu vào",
+      "Lớn hơn độ rộng băng thông tín hiệu đầu vào",
+      "Nhỏ hơn độ rộng băng thông tín hiệu đầu vào"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Truyền bất đồng bộ là:",
+    "o": [
+      "Xung clock lấy mẫu dữ liệu bất đồng bộ với dữ liệu",
+      "Dữ liệu được đóng gói bằng bit Start và bit Stop",
+      "Cả 1 và 2 đều đúng",
+      "Cả 1 và 2 đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nguồn thu nhận được ¼ năng lượng so với bên nguồn phát thì độ suy giảm tín hiệu là",
+    "o": [
+      "13.8dB",
+      "1.38dB",
+      "6dB",
+      "12dB"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Phương pháp điều chế nào sau đây bị ảnh hưởng nhiễu nhiều nhất",
+    "o": [
+      "ASK",
+      "PSK",
+      "FSK",
+      "QAM"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chức năng của bộ lọc thông cao là:",
+    "o": [
+      "Tín hiệu tần số cao bị suy giảm biên độ.",
+      "Tín hiệu tần số cao không bị suy giảm biên độ.",
+      "Tín hiệu tần số thấp không bị suy giảm biên độ.",
+      "Tất cả các tần số của tín hiệu đều bị suy giảm biên độ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Phát biểu nào sai về mạch khuếch đại vi sai",
+    "o": [
+      "Không có các tụ điện",
+      "Những điện áp trôi DC sẽ bị triệt",
+      "Sử dụng 2 transistor",
+      "Cấu tạo mạch đơn giản"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Đáp ứng tần số của một mạch khuếch đại là:",
+    "o": [
+      "Mô tả độ lợi thay đổi khi tần số tín hiệu vào thay đổi",
+      "Mô tả độ lợi thay đổi khi tần số tín hiệu ra thay đổi",
+      "Mô tả công suất thay đổi khi tần số tín hiệu vào thay đổi",
+      "Mô tả công suất thay đổi khi tần số tín hiệu ra thay đổi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ số khuếch đại tổng thể của bộ khuếch đại nhiều tầng được xác định như thế nào",
+    "o": [
+      "Tích các hệ số khuếch đại mỗi tầng",
+      "Tổng các hệ số khuếch đại mỗi tầng",
+      "Tổng các hệ số khuếch đại mỗi tầng chia cho số tầng khuếch đại.",
+      "Bằng ba lần hệ số khuếch đại tầng đầu tiên"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mạch khuếch đại có các độ lợi sau:",
+    "o": [
+      "Điện áp",
+      "Dòng điện",
+      "Công suất",
+      "Cả 3 câu đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Mạch khuếch đại sử dụng trong:",
+    "o": [
+      "Hệ thống âm thanh (Audio)",
+      "Các bộ thu radio và TV",
+      "Thiết bị đo lường",
+      "Cả 3 câu đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Độ lợi áp Av:",
+    "o": [
+      "Vout/Vin",
+      "Iout / Iin",
+      "Pout / Pin",
+      "Cả 3 câu đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Độ lợi công suất Ap tính theo Decibel (dB) là:",
+    "o": [
+      "20lg(Vout/ Vin)",
+      "20lg(Iout / Iin)",
+      "10lg(Pout / Pin)",
+      "10lg(Vout/ Vin)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tổng trở vào Zin là:",
+    "o": [
+      "Vin / Iin",
+      "Vout / Iin",
+      "Vin / Iout",
+      "Vout/ Vin"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Op-amp có nghĩa là:",
+    "o": [
+      "Khuếch đại thuật toán",
+      "Khuếch đại tuyến tính",
+      "Khuếch đại vi sai",
+      "Khuếch đại phi tuyến"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hồi tiếp dương có khuynh hướng:",
+    "o": [
+      "Tăng độ méo trong mạch khuếch đại",
+      "Giảm băng thông hiệu dụng",
+      "Làm mạch dễ bị dao động",
+      "Cả 3 câu đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Hồi tiếp âm có khuynh hướng:",
+    "o": [
+      "Độ lợi khuếch đại bị giảm",
+      "Độ méo giảm",
+      "Băng thông tăng",
+      "Cả 3 câu đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong trường hợp mạch có hồi tiếp dương, hãy cho biết kết luận nào sau đây là sai:",
+    "o": [
+      "Làm mạch ổn định",
+      "Làm giảm băng thông",
+      "Làm tăng tín hiệu ngõ ra.",
+      "Làm tăng độ méo."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mệnh đề nào sau đây là đúng",
+    "o": [
+      "Sóng điện từ là quá trình biến đổi năng lượng tuần hoàn giữa điện trường và từ trường làm cho điện từ lan truyền trong không gian.",
+      "Sóng điện từ là quá trình biến đổi năng lượng tuần hoàn giữa điện trường và từ trường làm cho năng lượng điện từ lan truyền trong không gian.",
+      "Sóng điện từ là quá trình biến đổi năng lượng giữa điện trường và từ trường làm cho điện từ lan truyền trong không gian.",
+      "Sóng điện từ là quá trình biến đổi tuần hoàn giữa điện trường và từ trường làm cho điện từ lan truyền trong không gian."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Sóng điện từ bao gồm mấy thành phần",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Các phương pháp lan truyền sóng điện từ gồm:",
+    "o": [
+      "Sóng đất và sóng không gian.",
+      "Sóng không gian và sóng tầng điện ly.",
+      "Sóng đất, sóng không gian, sóng tầng điện ly, sóng tự do.",
+      "Sóng tầng điện ly và sóng tự do."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Một máy phát có công suất 50W thì công suất máy phát theo đơn vị dBm và dBW là bao nhiêu",
+    "o": [
+      "15dBW và 45dBm",
+      "16dBW và 46 dBm",
+      "17 dBW và 47 dBm",
+      "18dBW và 48 dBm"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong truyền lan sóng cực ngắn người ta sử dụng phương truyền sóng nào là phù hợp nhất",
+    "o": [
+      "Truyền sóng đất",
+      "Truyền sóng không gian.",
+      "Truyền sóng tầng điện ly",
+      "Truyền sóng tự do"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Sóng điện từ là gì",
+    "o": [
+      "Là từ trường lan truyền trong không gian",
+      "Là trường điện từ biến thiên lan truyền trong không gian",
+      "Là điện trường lan truyền trong không gian",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Sự phân cực của sóng điện từ được xác định bởi:",
+    "o": [
+      "Hướng của véc tơ điện trường",
+      "Hướng của véc tơ từ trường",
+      "Hướng tổng hợp của hai véc tơ điện trường và từ trường",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Một luồng E1 tiêu chuẩn có thể truyền:",
+    "o": [
+      "30 kênh thoại",
+      "32 kênh thoại",
+      "16 kênh thoại",
+      "31 kênh thoại"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thuật ngữ ghép kênh theo thời gian là :",
+    "o": [
+      "TDM",
+      "CDM",
+      "FDM",
+      "PDM"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Nguồn nhiễu nào sau đây không phải là nguồn nhiễu tự nhiên",
+    "o": [
+      "Nhiễu phát sinh từ thiết bị điện tử",
+      "Nhiễu ngoài Trái Đất",
+      "Nhiễu bức xạ nhiệt",
+      "Nhiễu hấp thụ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Suy giảm cường độ của tín hiệu phụ thuộc vào:",
+    "o": [
+      "Môi trường truyền dẫn",
+      "Tần số truyền dẫn",
+      "Khoảng cách truyền dẫn",
+      "Cả a, b, c đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Suy giảm tín hiệu điện từ trong môi trường không khí:",
+    "o": [
+      "Tỷ lệ thuận với tần số",
+      "Tỷ lệ nghịch với khoảng cách",
+      "Tỷ lệ thuận với bước sóng",
+      "Không phụ thuộc tần số"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các yếu tố gây ra sự sai khác giữa tín hiệu thu và tín hiệu phát là:",
+    "o": [
+      "Méo trễ lan truyền",
+      "Nhiễu",
+      "Sự suy giảm cường độ",
+      "Cả a, b, c đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Phát biểu nào sau đây đúng về Nhiễu nhiệt:",
+    "o": [
+      "Gây ra bởi các chuyển động nhiệt của chất dẫn",
+      "Không đáng kể ở nhiệt độ thường",
+      "Không thể loại trừ hoàn toàn",
+      "Cả a, b, c đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Mối quan hệ giữa hệ số tăng ích (gain) và hệ số định hướng (Directivity) của anten là:",
+    "o": [
+      "Hệ số tăng ích = Hệ số định hướng * Hiệu suất bức xạ",
+      "Hệ số tăng ích = Hệ số định hướng / Hiệu suất bức xạ",
+      "Hệ số tăng ích = Hiệu suất bức xạ / Hệ số định hướng",
+      "Hệ số tăng ích = 1/(Hệ số định hướng * Hiệu suất bức xạ)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Tỷ số giữa công suất bức xạ của anten với tổng công suất vào anten là gì",
+    "o": [
+      "Hiệu suất bức xạ",
+      "Hệ số tăng ích",
+      "Hiệu suất tổng",
+      "Hệ số định hướng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Độ rộng búp sóng của anten được xác định bởi:",
+    "o": [
+      "Góc một phần hai công suất cực đại",
+      "Tất cả đều đúng",
+      "Góc một phần tư công suất cực đại",
+      "Góc một phần ba công suất cực đại"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Dải sóng dài và cực dài truyền trong không khí chủ yếu là do phương thức truyền lan nào",
+    "o": [
+      "Sóng bề mặt (sóng đất)",
+      "Sóng phản xạ từ tầng điện ly",
+      "Sóng trực tiếp",
+      "Cả ba phương án trên"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Cần liên lạc sóng ngắn (HF) giữa hai điểm ở trên trái đất có cự ly lớn hơn (lớn hơn 500 km) chủ yếu là do phương thức truyền lan nào",
+    "o": [
+      "Sóng bề mặt (sóng đất)",
+      "Sóng phản xạ từ tầng điện ly",
+      "Sóng trực tiếp",
+      "Cả ba phương án trên"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Anten phân cực tròn khi:",
+    "o": [
+      "2 thành phần ngang nhau, lệch pha 90°",
+      "2 thành phần lệch pha 45°",
+      "2 thành phần lệch pha 180°",
+      "Sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hiệu suất anten giảm khi:",
+    "o": [
+      "Điện trở suy hao tăng",
+      "Trở kháng bức xạ tăng",
+      "Điện kháng giảm",
+      "λ giảm"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Một đường truyền có trở kháng đặc tính Z0 = 50 Ω nối với tải ZL = 100 Ω (tất cả thuần trở). Hệ số sóng đứng điện áp (VSWR) trên đường truyền là:",
+    "o": [
+      "VSWR = 1,5",
+      "VSWR = 2",
+      "VSWR = 3",
+      "VSWR = 4"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khoảng tần số hoạt động được gọi là:",
+    "o": [
+      "Beamwidth",
+      "Lobe",
+      "Bandwidth",
+      "Cộng hưởng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Dải tần số từ 8 MHz - 16 MHz thuộc:",
+    "o": [
+      "Băng sóng dài",
+      "Băng sóng rất dài",
+      "Băng sóng trung",
+      "Băng sóng ngắn"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Sóng trung có thể truyền theo phương pháp:",
+    "o": [
+      "Truyền sóng đối lưu",
+      "Truyền sóng điện ly và sóng đất",
+      "Truyền sóng điện ly",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nhiễu tần số ảnh trong máy thu thanh AM có tần số được xác định bằng:",
+    "o": [
+      "2fTín hiệu + fTrung tần",
+      "2fTín hiệu + 2fTrung tần",
+      "fTín hiệu + 2fTrung tần",
+      "fTín hiệu - fTrung tần"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tín hiệu phát đi từ đài phát thanh là tín hiệu:",
+    "o": [
+      "Điều biên",
+      "Cao tần đã điều chế theo âm tần",
+      "Điều tần",
+      "Âm tần"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Tín hiệu AM có đặc điểm:",
+    "o": [
+      "Tần số sóng mang cao tần không đổi",
+      "Biên độ sóng mang cao tần không đổi",
+      "Pha của sóng mang cao tần thay đổi",
+      "Tần số của sóng mang cao tần thay đổi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Độ nhạy của một máy thu vô tuyến (Receiver Sensitivity) được định nghĩa căn bản là gì",
+    "o": [
+      "Mức công suất phát tối đa của đài đối tác để máy thu không bị quá tải mạch đầu vào.",
+      "Mức tín hiệu RF tối thiểu tại đầu vào bộ bộc lộ để máy thu có thể giải điều chế ra tín hiệu âm tần đạt chất lượng SINAD hoặc S/N quy định.",
+      "Khả năng loại bỏ các tần số nhiễu kênh lân cận của mạch lọc dải thông trung tần.",
+      "Tốc độ xử lý tối đa của các chip xử lý tín hiệu số DSP khi giải mã luồng thoại số."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi xem xét thông số độ nhạy thu được ghi bằng đơn vị dBm (ví dụ: -101 dBm và -107 dBm), khẳng định nào sau đây là chính xác",
+    "o": [
+      "Máy thu có thông số -101 dBm có độ nhạy cao hơn và tốt hơn máy thu -107 dBm.",
+      "Máy thu có thông số -107 dBm có độ nhạy cao hơn, có khả năng thu được tín hiệu yếu hơn từ khoảng cách xa hơn.",
+      "Hai thông số này có độ nhạy tương đương nhau, chỉ khác nhau về trở kháng đầu vào.",
+      "Mức chênh lệch độ nhạy giữa hai máy thu này là 6 dB, tương đương năng lực thu tín hiệu tốt hơn gấp 2 lần."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thuật ngữ 'Ngưỡng Squelch (Squelch Threshold)' được định nghĩa kỹ thuật như thế nào",
+    "o": [
+      "Mức biên độ tín hiệu RF tối đa mà máy thu có thể chịu đựng trước khi bị hỏng mạch đầu vào.",
+      "Tần số cao nhất mà mạch lọc trung tần IF cho phép đi qua.",
+      "Mức cường độ tín hiệu RF hoặc tỷ số S/N tối thiểu được cài đặt trước, mà tín hiệu thu được phải vượt qua để mạch Squelch kích mở đường âm thanh ra loa.",
+      "Thời gian trễ từ khi tàu bay dừng phát sóng cho đến khi loa hoàn toàn im lặng."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong máy thu vô tuyến điện, tách sóng trực tiếp là tín hiệu thu được sau anten được đưa:",
+    "o": [
+      "Ngay vào bộ tách sóng, không qua bộ khuếch đại cao tần nào",
+      "Qua bộ khuếch đại cao tần trước khi vào bộ tách sóng",
+      "Qua bộ tách sóng, sau đó qua bộ khuếch đại cao tần"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong máy thu vô tuyến AM, yêu cầu cơ bản đối với bộ tách sóng biên độ là:",
+    "o": [
+      "Hệ số truyền đạt cao, trở kháng vào lớn, ít gây méo",
+      "Hệ số truyền đạt cao, trở kháng vào nhỏ, ít gây méo",
+      "Trở kháng vào nhỏ, ít gây méo"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong máy thu phát vô tuyến AM, nếu điều chế quá mức (> 100%) thì:",
+    "o": [
+      "Tín hiệu sẽ bị méo và độ rộng băng tần sẽ nhỏ hơn khi không bị quá điều chế",
+      "Tín hiệu sẽ bị méo và độ rộng băng tần lớn hơn khi không bị quá điều chế",
+      "Tín hiệu đầu ra máy thu sẽ rất lớn, độ rộng băng tần như khi không bị quá điều chế"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Công suất tín hiệu AM gồm:",
+    "o": [
+      "Phần công suất hiệu ích 2 biên tần và công suất sóng mang không chứa thông tin",
+      "Phần công suất hiệu ích 2 biên tần và công suất sóng mang chứa thông tin",
+      "Phần công suất hiệu ích 2 biên tần",
+      "Công suất sóng mang chứa thông tin"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bộ đàm truyền theo kiểu:",
+    "o": [
+      "Simplex",
+      "Half duplex",
+      "Full duplex",
+      "Cả 1, 2, 3 đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong truyền dẫn, chức năng của máy phát (Transmitter) là:",
+    "o": [
+      "Cung cấp dữ liệu nguồn.",
+      "Biến đổi dữ liệu nguồn thành dạng có thể truyền đi được trên hệ thống truyền dẫn.",
+      "Mã hóa dữ liệu nguồn",
+      "Câu 2 và 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong máy phát vô tuyến, nguyên nhân gây ra sóng phản hồi là:",
+    "o": [
+      "Thời tiết thay đổi ảnh hưởng đến môi trường",
+      "Không có sự phối hợp trở kháng tốt giữa máy phát, phi đơ, ăng ten",
+      "Công suất máy phát quá lớn"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Độ lợi của anten (dBi) là lượng khuếch đại tín hiệu điện của anten so với:",
+    "o": [
+      "Nguồn thu/phát bức xạ đẳng hướng",
+      "Anten chấn tử nữa sóng",
+      "Anten Parabol",
+      "Anten dây"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chọn một trong 4 loại anten sau đây để có thể thích hợp cho việc liên lạc giữa trạm mặt đất và vệ tinh địa tĩnh:",
+    "o": [
+      "Anten dây sóng chạy",
+      "Anten Parabol",
+      "Anten loga chu kỳ",
+      "Anten Yagi"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trở kháng vào của Anten thương mại phụ thuộc vào:",
+    "o": [
+      "Số chấn tử trên anten",
+      "Độ dài của anten",
+      "Độ dài của chấn tử lớn nhất và chấn tử bé nhất",
+      "Cả A, B và C đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Giá trị độ lợi của anten là giá trị được áp dụng tính toán cho:",
+    "o": [
+      "Toàn bộ vùng phát xạ",
+      "Trong vùng cánh sóng chính",
+      "Trong vùng 1/2 công suất của cánh sóng chính",
+      "Tất cả đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khái niệm sóng trời (skywave) còn được gọi là:",
+    "o": [
+      "Sóng tầng điện ly (ionospheric wave)",
+      "Sóng tầng đối lưu (troposphenc wave)",
+      "Sóng đất (ground wave)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Ăng-ten là gì",
+    "o": [
+      "Là một linh kiện điện tử có thể bức xạ hoặc thu nhận sóng điện từ.",
+      "Là một thiết bị có cấu tạo kim loại để thu/phát sóng điện từ.",
+      "Là một thiết bị có khả năng thu/phát tín hiệu"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ số tăng ích của ăng-ten thường được tính bằng gì",
+    "o": [
+      "dB",
+      "Lần",
+      "dBi",
+      "Đáp án 1 và 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Mẫu bức xạ (hay còn được gọi là Mẫu ăng-ten) là gì",
+    "o": [
+      "Là sự biểu diễn lại tăng ích của ăng-ten theo một hướng",
+      "Là sự biểu diễn lại tăng ích của ăng-ten theo mọi hướng",
+      "Là một mẫu phát xạ của ăng-ten theo một hướng",
+      "Là một mẫu phát xạ của ăng-ten theo mọi hướng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Ăng ten có các loại phân cực nào",
+    "o": [
+      "Phân cực tuyến tính",
+      "Phân cực tròn",
+      "Phân cực chéo",
+      "Đáp án 1 và 2"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Các ăng-ten thường được thiết kế với trở kháng là bao nhiêu khi được lắp đặt với cáp đồng trục",
+    "o": [
+      "100 Ohm",
+      "50 Ohm hoặc 75 Ohm",
+      "400 Ohm",
+      "600 Ohm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Tại giá trị VSWR bằng 1.5, khoảng bao nhiêu % công suất tới đầu cuối ăng-ten bị phản xạ lại",
+    "o": [
+      "2%",
+      "4%",
+      "5%",
+      "11%"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định: Đối với Dịch vụ Kiểm soát Đường dài: Các phương tiện TT không-địa đảm bảo giữa Đơn vị cung cấp DV Kiểm soát Đường dài và tàu bay trong vùng kiểm soát:",
+    "o": [
+      "Thông tin 2 chiều.",
+      "Thông tin VHF điều khiển xa.",
+      "Thông tin VHF có thiết bị dự phòng",
+      "Thông tin HF"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định: Đối với Dịch vụ Kiểm soát Tiếp cận: Các phương tiện TT không - địa đảm bảo giữa Đơn vị cung cấp DV Kiểm soát Tiếp cận và tàu bay trong vùng kiểm soát:",
+    "o": [
+      "Thông tin 2 chiều.",
+      "Thông tin 2 chiều, trực tiếp.",
+      "Thông tin 2 chiều, trực tiếp, nhanh, liên tục, không bị nhiễu.",
+      "Thông tin HF"
+    ],
+    "a": 2
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) của hệ thống thông tin VHF A/G:",
+    "o": [
+      "Tín hiệu thoại VTĐ sử dụng loại phát xạ điều chế.",
+      "Điều chế biên độ, có 2 biên tần (double sideband - DSB), gọi là loại A3E.",
+      "Điều chế đơn biên, có nén sóng mang (single sideband - SSB), gọi là loại J3E",
+      "Cả 1, 2, 3."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (characteristics) của hệ thống thông tin VHF A/G: Các tần số VTĐ sử dụng được chọn trong dải tần:",
+    "o": [
+      "117.975 - 137 MHz",
+      "117.975 - 136 MHz.",
+      "118 - 136 MHz.",
+      "118 - 130 MHz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định về đặc tính (characteristics) của hệ thống thông tin VHF A/G: Phân cực của tín hiệu phát xạ là:",
+    "o": [
+      "Phân cực đứng (vertical).",
+      "Phân cực ngang (horizontal).",
+      "Phân cực tròn.",
+      "Phân cực tròn và phân cực ngang"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định về đặc tính (characteristics) hệ thống của thông tin VHF A/G - thiết bị mặt đất: Độ ổn định tần số Phát: Tần số VTĐ thay đổi không được vượt quá:",
+    "o": [
+      "+/- 0.005% của tần số ấn định.",
+      "+/- 0.001% của tần số ấn định.",
+      "+/- 0.002% của tần số ấn định",
+      "+/- 0.008% của tần số ấn định"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thông tin lưu động HK, theo qui định của ICAO(Annex 10, Vol.5): Đối với các loại phát xạ thoại vô tuyến (ví dụ: điều biên, đơn biên) các tần số âm thanh được giới hạn trong dải tần:",
+    "o": [
+      "300 - 2 700 Hz.",
+      "300 - 3 000 Hz.",
+      "300 - 3 400 Hz",
+      "200 - 3000Hz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thông tin lưu động HK, theo qui định của ICAO(Annex 10, Vol.5), phân cách tối thiểu giữa các tần số VHF là:",
+    "o": [
+      "8.33 KHz.",
+      "25 KHz.",
+      "50 KHz.",
+      "75 KHz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thông tin lưu động HK, theo qui định của ICAO(Annex 10, Vol.5), chế độ làm việc trong dải VHF là:",
+    "o": [
+      "1 kênh đơn công (Single channel simplex).",
+      "2 kênh đơn công (Dual channel Simplex).",
+      "1 kênh song công (Single channel Duplex).",
+      "Phương án khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO quy định công suất bức xạ hiệu dụng phải đủ để tạo ra cường độ trường tối thiểu quy định tại ranh giới vùng phủ sóng đối với thoại VHF hàng không đường dài là bao nhiêu dựa trên sự lan truyền trong không gian tự do.",
+    "o": [
+      "70μV/m",
+      "75μV/m",
+      "80μV/m",
+      "90μV/m"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tài liệu ICAO, độ giãn cách kênh 8.33 kHz được áp dụng nhằm mục đích gì",
+    "o": [
+      "Để tăng số lượng kênh tần số sẵn có trong băng tần VHF hàng không.",
+      "Để giảm giá thành thiết bị thu phát.",
+      "Để tăng công suất phát của đài.",
+      "Để làm cho thiết bị máy thu đơn giản hơn."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi muốn đo công suất phát xạ của máy phát VHF người ta cần dùng:",
+    "o": [
+      "Máy đo công suất",
+      "Máy phân tích phổ",
+      "Máy kiểm tra âm tần (ATS)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi muốn đo ngưỡng thu của máy thu VHF người ta cần dùng:",
+    "o": [
+      "Máy kiểm tra âm tần (ATS)",
+      "Máy phát tín hiệu chuẩn",
+      "Máy đo công suất"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi chọn củ đo công suất, người ta phải chú ý những thông số gì",
+    "o": [
+      "Dải tần đo",
+      "Mức công suất tối đa",
+      "Cả 1 và 2"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi đo công suất phát xạ của 1 máy phát VHF công suất 50W, người ta dùng Sensor 100W và dải tần 118 MHz-137 MHz có được không",
+    "o": [
+      "Không",
+      "Có"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi đo công suất phát xạ của máy phát VHF người ta đấu nối:",
+    "o": [
+      "Máy phát-Anten-Máy đo công suất",
+      "Máy phát-Máy đo công suất- Anten",
+      "Máy phát-Máy phân tích phổ-Anten"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi đo ngưỡng thu của máy thu VHF người ta đấu nối:",
+    "o": [
+      "Máy thu-Máy phát tín hiệu chuẩn-Anten",
+      "Máy thu-Anten-Máy phát tín hiệu chuẩn",
+      "Máy thu-Máy phát tín hiệu chuẩn"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi đo hệ số sóng đứng của 1 máy phát VHF được kết quả là 3 thì:",
+    "o": [
+      "Phối hợp trở kháng giữa máy phát và anten là tốt",
+      "Phối hợp trở kháng giữa máy phát và anten là kém",
+      "Phối hợp trở kháng giữa máy phát và anten là bình thường"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Các máy phát VHF có thể key máy liên tục trong 1 thời gian dài được không",
+    "o": [
+      "Không",
+      "Có"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi tiến hành đo độ sâu điều chế của máy phát VHF, người có thể dùng:",
+    "o": [
+      "Máy đo công suất",
+      "Máy phân tích phổ",
+      "Máy đo độ sâu điều chế",
+      "Cả 2 và 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "1 máy phát VHF đo được công suất phát xạ là 25W, khi đo công suất phản hồi được 1W thì hệ số sóng đứng bằng:",
+    "o": [
+      "1.2",
+      "1.5",
+      "2"
+    ],
+    "a": 1
+  },
+  {
+    "q": "1 máy phát VHF có công suất phát xạ là 50W, suy hao của feeder là 2 dB thì công suất lên anten là:",
+    "o": [
+      "47dBm",
+      "45dBm",
+      "49dBm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi muốn đo mức âm tần phát ra từ máy thu, người ta dùng:",
+    "o": [
+      "Máy kiểm tra âm tần (ATS)",
+      "Máy đo công suất",
+      "Đồng hồ vạn năng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi muốn key máy phát VHF ta phải:",
+    "o": [
+      "Chập chân PTT của máy vào đất",
+      "Đưa âm tần vào máy",
+      "Chập chân Select Tx vào đất"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Ta có thể tạo ra tín hiệu Squelch từ máy thu có ngõ ra SQL để kiểm tra không",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Với mô hình dùng chung anten cho 1 cặp máy thu, phát VHF (1 máy thu, 1 máy phát) thì cần phải dùng mấy rơle để điều khiển:",
+    "o": [
+      "1",
+      "2",
+      "3"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong mô hình sử dụng 1 cặp máy phát main và standby thì cổng NO trên rơle anten được nối đến máy phát:",
+    "o": [
+      "Main",
+      "Standby"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong mô hình sử dụng 1cặp máy phát main và standby thì cổng NC trên rơle anten được nối đến máy phát:",
+    "o": [
+      "Main",
+      "Standby"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Nguồn cấp cho rơle anten là nguồn:",
+    "o": [
+      "DC",
+      "AC"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trên rơle anten cổng COM được nối đến:",
+    "o": [
+      "Máy phát main",
+      "Máy phát standby",
+      "Anten phát"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi muốn kiểm tra tín hiệu thu được từ anten trước khi đưa vào máy thu người ta sử dụng:",
+    "o": [
+      "Máy phân tích phổ",
+      "Máy hiện sóng",
+      "Máy kiểm tra âm tần (ATS)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi muốn đo mức tín hiệu trước khi đưa vào máy phát người ta sử dụng:",
+    "o": [
+      "Đồng hồ vạn năng",
+      "Máy đo công suất",
+      "Máy kiểm tra âm tần (ATS)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bộ lọc phát được lắp ở vị trí nào",
+    "o": [
+      "Giữa máy phát và anten phát",
+      "Trước đầu vào máy phát",
+      "Sau anten phát"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bộ lọc thu được lắp ở vị trí nào",
+    "o": [
+      "Sau máy thu",
+      "Giữa anten thu và máy thu",
+      "Trước anten thu"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ lọc phát/thu dùng trong hệ thống VHF là:",
+    "o": [
+      "Lọc thông cao",
+      "Lọc thông thấp",
+      "Lọc thông dải",
+      "Lọc chắn dải"
+    ],
+    "a": 2
+  },
+  {
+    "q": "1W tương ứng với:",
+    "o": [
+      "30dBm",
+      "-30dBm",
+      "0dBm"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy phát VHF A có công suất phát xạ là 50W, suy hao do feeder là 3 dB. Máy phát VHF B có công suất phát xạ là 25W, suy hao do feeder là 1 dB. Hai máy VHF sử dụng cùng một loại anten phát. Vậy công suất phát xạ ra môi trường của:",
+    "o": [
+      "Máy A lớn hơn máy B",
+      "Máy A bằng máy B",
+      "Máy A nhỏ hơn máy B"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy thu VHF A có mức mở máy thu khi tắt SQL là -107 dBm. Máy thu VHF B có mức mở máy thu là -105 dBm. Khi tín hiệu âm tần thu được có cùng tỷ số S/N, máy thu A:",
+    "o": [
+      "Có độ nhạy kém hơn máy thu B",
+      "Có độ nhạy tốt hơn máy thu B",
+      "Có độ nhạy bằng máy thu B"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi muốn kiểm tra nguồn cấp cho máy VHF người ta dùng:",
+    "o": [
+      "Máy đo công suất",
+      "Đồng hồ vạn năng",
+      "Máy phân tích phổ"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trên rơle anten, bình thường cổng COM sẽ thông với cổng:",
+    "o": [
+      "Cổng NO",
+      "Cổng NC"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trên rơle anten, khi chọn sang máy standby thì cổng COM sẽ thông với cổng:",
+    "o": [
+      "Cổng NO",
+      "Cổng NC"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chân tín hiệu PTT của máy phát VHF không sử dụng nguồn key bên ngoài có điện áp hay không",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Tín hiệu nào dùng để điều khiển rơle chuyển mạch anten",
+    "o": [
+      "Tín hiệu Select",
+      "Tín hiệu Tx",
+      "Tín hiệu Rx"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Dải tần của sóng VHF:",
+    "o": [
+      "Từ 300-3000 MHz",
+      "Từ 30-300 MHz",
+      "Từ 3-30 MHz"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Tín hiệu điều khiển để mở máy phát là:",
+    "o": [
+      "Tín hiệu PTT",
+      "Tín hiệu Tx",
+      "Tín hiệu Select"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi thu được tín hiệu lớn hơn độ nhạy máy thu, máy thu sẽ đưa ra tín hiệu điều khiển gì",
+    "o": [
+      "Tín hiệu PTT",
+      "Tín hiệu Squelch",
+      "Tín hiệu Select"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trình bày các thao tác để đo công suất phát của 1 máy phát VHF:",
+    "o": [
+      "Gắn Wattmeter giữa máy phát và anten (hoặc tải giả); chọn loại element phù hợp và xoay mũi tên trên element hướng ra anten; Key máy phát đồng thời đọc giá trị đo được.",
+      "Gắn Wattmeter giữa máy phát và anten (hoặc tải giả); Key máy phát đồng thời đọc giá trị đo được.",
+      "Gắn Wattmeter vào ngõ ra máy phát không cần anten (hoặc tải giả); chọn loại và xoay hướng element phù hợp; Key máy phát đồng thời đọc giá trị đo được."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trình bày các thao tác để đo công suất sóng dội của 1 máy phát VHF:",
+    "o": [
+      "Gắn Wattmeter giữa máy phát và anten (hoặc tải giả); chọn loại element phù hợp và xoay mũi tên trên element hướng vào máy phát; Key máy phát đồng thời đọc giá trị đo được.",
+      "Gắn Wattmeter giữa máy phát và anten (hoặc tải giả); Key máy phát đồng thời đọc giá trị đo được.",
+      "Gắn Wattmeter vào ngõ ra máy phát không cần anten (hoặc tải giả); chọn loại và xoay hướng element phù hợp; Key máy phát đồng thời đọc giá trị đo được."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trình bày các thao tác để đo tần số phát của 1 máy phát VHF có công suất 50W:",
+    "o": [
+      "Gắn element có suy hao 50dB vào giữa máy phát và máy đo tần số; Key máy phát đồng thời đọc giá trị đo được trên máy đo tần số .",
+      "Gắn Wattmeter giữa máy phát và anten (hoặc tải giả); Key máy phát đồng thời đọc giá trị đo được.",
+      "Gắn Wattmeter vào ngõ ra máy phát không cần anten (hoặc tải giả); gắn element có suy hao 50dB vào Wattmeter để trích xuất tín hiệu đưa vào máy đo tần số; Key máy phát đồng thời đọc giá trị đo được."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trình bày các thao tác để đo độ nhạy của 1 máy thu VHF:",
+    "o": [
+      "Gắn máy phát sóng RF tới ngõ vào anten máy thu và máy đo SINAD vào line thoại thu của máy VHF; Chỉnh thông số máy phát RF phù hợp; Tăng dần biên độ RF cho tới khi giá trị SINAD đo được vẫn đảm bảo theo tiêu chuẩn kỹ thuật; Đọc giá trị trên máy phát RF",
+      "Gắn máy phát sóng RF tới ngõ vào anten máy thu; Chỉnh thông số máy phát RF phù hợp; Đọc giá trị trên máy phát RF",
+      "Gắn máy phát sóng RF tới ngõ vào anten máy thu và máy đo SINAD vào line thoại thu của máy VHF; Chỉnh thông số máy phát RF phù hợp; Giảm dần biên độ RF cho tới khi giá trị SINAD đo được vẫn đảm bảo theo tiêu chuẩn kỹ thuật"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Để đo hệ số điều chế máy phát VHF, người ta sử dụng công cụ đo lường nào",
+    "o": [
+      "Modulation meter",
+      "Audio analyzer",
+      "Frequency counter",
+      "Cả 1 và 2 đều đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thao tác cần thực hiện trước nhất khi một máy phát VHF bị hỏng:",
+    "o": [
+      "Kiểm tra, sửa chữa",
+      "Báo cáo lên cấp trên",
+      "Chuyển sang máy phát VHF dự phòng để duy trì thông tin liên lạc",
+      "Cả 1, 2, 3 đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thông số cần kiểm tra khi cự ly liên lạc máy phát VHF bị giảm:",
+    "o": [
+      "Công suất sóng tới, công suất phản hồi, âm tần đưa vào máy phát",
+      "Tần số máy phát",
+      "Điện áp cung cấp cho máy phát",
+      "Cả 1, 2, 3 đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khắc phục sự cố không có điện áp (AC hoặc DC. cung cấp cho máy thu/phát VHF:",
+    "o": [
+      "Nhanh chóng chuyển sang máy thu/phát VHF dự phòng để duy trì thông tin liên lạc",
+      "Kiểm tra nguồn cấp, cầu chì, thay thế nếu cần",
+      "Kết hợp cả 1 và 2"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mạch Squelch trong máy thu VHF AM hàng không có chức năng quan trọng nào sau đây",
+    "o": [
+      "Tự động tăng độ nhạy máy thu khi có bão từ",
+      "Khóa đường ra âm tần của máy thu khi không có tín hiệu sóng mang đủ mạnh từ tàu bay, tránh tiếng rít nhiễu nền liên tục ra loa của KSVKL",
+      "Giới hạn biên độ tín hiệu thoại không vượt quá mức cho phép",
+      "Đồng bộ tần số giữa máy thu mặt đất và máy phát trên tàu bay"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thiết bị Bộ lọc được lắp đặt giữa máy phát VHF và hệ thống Ăng ten tại các đài trạm nhằm mục đích gì",
+    "o": [
+      "Tăng hệ số tăng ích (Gain) của Ăng ten phát",
+      "Lọc dải thông cực hẹp để triệt tiêu các thành phần tần số nhiễu ngoài băng và ngăn chặn năng lượng từ máy phát khác rò sang gây nhiễu xuyên điều chế",
+      "Biến đổi trở kháng từ vô hạn về 50 Ohm",
+      "Ổn định điện áp DC cung cấp cho card điều khiển máy phát"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khoảng cách giãn kênh (Channel Spacing) tiêu chuẩn hiện nay đang áp dụng phổ biến tại vùng thông báo bay (FIR) của Việt Nam đối với hệ thống thoại VHF là bao nhiêu",
+    "o": [
+      "50 kHz",
+      "25 kHz",
+      "8.33 kHz",
+      "12.5 kHz"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thành phần Mạch điểu khiển độ khuếch đại tự động (AGC) trong cấu trúc máy thu VHF có vai trò cốt lõi nào",
+    "o": [
+      "Giúp mức âm tần đầu ra tương đối đồng đều",
+      "Dùng để tăng gấp đôi tần số hoạt động của hệ thống",
+      "Dùng để chuyển đổi dòng xoay chiều AC thành dòng một chiều DC",
+      "Không có vai trò gì quan trọng trong khai thác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chức năng bộ ghép nối Combiner trong cấu trúc hệ thống VHF hàng không có vai trò cốt lõi nào",
+    "o": [
+      "Dùng để tăng gấp đôi tần số hoạt động của hệ thống",
+      "Dùng để chuyển đổi dòng xoay chiều AC thành dòng một chiều DC",
+      "Dùng để cho phép nhiều máy phát hoạt động ở các tần số khác nhau dùng chung một Ăng ten phát duy nhất.",
+      "Không có vai trò gì quan trọng trong khai thác"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Nếu kỹ sư đài trạm cài đặt cấu hình ngưỡng Squelch quá cao so với tiêu chuẩn, hệ thống đài thoại VHF sẽ gặp phải hiện tượng gì",
+    "o": [
+      "Máy thu có nguy cơ bỏ sót các cuộc gọi từ tàu bay ở rất xa, tàu bay bay thấp hoặc các tín hiệu khẩn nguy có công suất yếu.",
+      "Ăng ten của đài trạm sẽ tự động chuyển đổi hướng búp sóng về phía tàu bay mạnh nhất.",
+      "Máy thu sẽ liên tục mở tiếng xèo xèo ra loa dù không có tàu bay nào gọi.",
+      "Băng thông của kênh thoại sẽ bị thu hẹp lại từ 25 kHz xuống 8.33 kHz."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Vì sao cấu trúc của cáp đồng trục lại có tên gọi là 'Đồng trục' (Coaxial)",
+    "o": [
+      "Vì cáp chỉ hoạt động khi được đấu nối đồng thời vào hai máy thu phát khác nhau.",
+      "Vì lõi dẫn trung tâm và lưới màn chắn kim loại có cùng chung một trục đối xứng hình học.",
+      "Vì tốc độ truyền tải dòng điện trong lõi và lưới bằng đúng tốc độ ánh sáng.",
+      "Vì cáp được làm hoàn toàn từ vật liệu đồng nguyên chất từ lõi ra đến vỏ ngoài."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trở kháng đặc tính tiêu chuẩn của hệ thống cáp đồng trục (Feeder, Jumper) và đầu nối (Connector) dùng trong ngành viễn thông vô tuyến và hàng không VHF là bao nhiêu",
+    "o": [
+      "50 Ohm",
+      "75 Ohm",
+      "100 Ohm",
+      "600 Ohm"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thành phần cấu tạo nào bên trong cáp đồng trục đóng vai trò trực tiếp quyết định giá trị trở kháng đặc tính (Characteristic Impedance) của sợi cáp đó",
+    "o": [
+      "Màu sắc và độ dày của lớp vỏ bảo vệ ngoài cùng",
+      "Đường kính lõi trong, đường kính trong của lưới chắn và hằng số điện môi của lớp cách điện.",
+      "Chiều dài tổng thể của đoạn cáp Feeder khi kéo từ phòng máy lên tháp anten.",
+      "Mức công suất cực đại phát ra từ máy phát VHF."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi tần số hoạt động của tín hiệu truyền trong cáp đồng trục tăng lên, thông số suy hao (Attenuation) của cáp sẽ thay đổi như thế nào",
+    "o": [
+      "Suy hao giữ nguyên không đổi vì cáp đồng trục có dải thông phẳng tuyệt đối.",
+      "Suy hao giảm đi đáng kể do tần số cao giúp sóng lan truyền nhanh hơn.",
+      "Suy hao tăng lên (do tổn hao điện trở bề mặt tăng và tổn hao phân cực điện môi tăng).",
+      "Suy hao biến đổi liên tục theo đồ thị hình sin tùy thuộc độ ẩm không khí bên ngoài."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi thi công kéo cáp Feeder đồng trục (loại lớn như 7/8 inch) từ phòng máy lên cột ăng ten, thông số giới hạn vật lý nào cần phải tuân thủ nghiêm ngặt để tránh làm hỏng cấu trúc cáp",
+    "o": [
+      "Bán kính uốn cong tối thiểu (Minimum Bending Radius).",
+      "Tổng trọng lượng của cuộn cáp nguyên đai nguyên kiện.",
+      "Nhiệt độ sôi của lớp vỏ bọc nhựa PVC ngoại vi.",
+      "Độ sâu chôn cáp tối đa dưới lòng đất khi qua mương cáp."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hiện tượng gì sẽ xảy ra tại điểm đấu nối nếu nước mưa lọt vào bên trong lớp lưới và lớp cách điện của cáp đồng trục (hiện tượng cáp ngậm nước)",
+    "o": [
+      "Trở kháng đặc tính của cáp sẽ tăng lên gấp đôi, làm tăng công suất phát.",
+      "Hằng số điện môi thay đổi, suy hao của cáp tăng vọt đồng thời tạo ra sự mất phối hợp trở kháng nghiêm trọng gây tăng hệ số sóng đứng VSWR.",
+      "Cáp sẽ tự động chuyển thành Ăng ten bức xạ đẳng hướng.",
+      "Mạch bảo vệ quá tải của máy phát VHF sẽ tự động tắt nguồn cấp AC đầu vào tháp."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Loại đầu nối (Connector) đồng trục nào sau đây thường được sử dụng phổ biến nhất ở đầu cáp Feeder của hệ thống anten thoại VHF hàng không mặt đất do khả năng chịu công suất tốt và chống chịu thời tiết ổn định",
+    "o": [
+      "Đầu nối RJ-45",
+      "Đầu nối loại N (N-Type Connector)",
+      "Đầu nối BNC",
+      "Đầu nối SMA"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để kết nối máy VHF với ăng ten, sử dụng loại cáp nào sau đây",
+    "o": [
+      "Cáp quang",
+      "Cáp điện thoại",
+      "Cáp Lan",
+      "Cáp đồng trục"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Nguyên nhân chính dẫn đến nhiễu xuyên điều chế tại các trạm phát VHF có mật độ kênh dày đặc là gì",
+    "o": [
+      "Do cáp đồng trục bị ẩm",
+      "Do tín hiệu từ hai hoặc nhiều máy phát trộn lẫn trong tầng khuếch đại công suất (PA) của máy phát.",
+      "Khi độ nhạy máy thu quá cao.",
+      "Khi ăng ten bị hỏng lớp bảo vệ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để giảm thiểu nhiễu xuyên điều chế, biện pháp nào sau đây là hiệu quả nhất",
+    "o": [
+      "Tăng công suất phát tối đa.",
+      "Sử dụng bộ lọc dải thông (Band-pass filter) và bộ cách ly (Isolator) ở đầu ra máy phát.",
+      "Giảm chiều dài cáp Feeder.",
+      "Sử dụng ăng ten loại đẳng hướng."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Tại sao các trạm phát VHF hàng không đặt gần nhau dễ bị nhiễu xuyên điều chế",
+    "o": [
+      "Vì tần số phát quá gần nhau.",
+      "Do sóng phản xạ từ tòa nhà.",
+      "Do tín hiệu phát của trạm này lọt vào tầng khuếch đại của trạm kia.",
+      "Do độ ẩm không khí."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ số sóng đứng (VSWR) lý tưởng nhất của một hệ thống ăng ten là bao nhiêu",
+    "o": [
+      "1:1.",
+      "2:1.",
+      "5:1.",
+      "10:1."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Điều gì xảy ra nếu VSWR quá cao (ví dụ > 3:1)",
+    "o": [
+      "Năng lượng phản xạ lớn về máy phát, gây nóng và có thể làm hỏng bộ khuếch đại công suất.",
+      "Âm thanh thoại rõ hơn.",
+      "Sóng vô tuyến truyền xa hơn.",
+      "Ăng ten tự động sửa lỗi."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Yếu tố nào sau đây ảnh hưởng lớn nhất đến khoảng cách phủ sóng VHF hàng không",
+    "o": [
+      "Độ ẩm.",
+      "Chiều cao ăng ten và tầm nhìn thẳng (Line of Sight).",
+      "Màu sắc ăng ten.",
+      "Tốc độ gió."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Mạch giải điều chế AM (AM Detector) thực hiện chức năng gì",
+    "o": [
+      "Tăng công suất.",
+      "Tách tín hiệu âm tần (audio) ra khỏi sóng mang cao tần (RF).",
+      "Lọc nhiễu.",
+      "Ổn định điện áp."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hiện tượng \"Fading\" (thăng trầm tín hiệu) trong truyền dẫn VHF hàng không chủ yếu gây ra bởi:",
+    "o": [
+      "Nhiệt độ của máy phát quá cao.",
+      "Do cáp đồng trục bị ngắn.",
+      "Sự phản xạ tín hiệu từ các bề mặt (tòa nhà, địa hình) tạo ra các đường truyền tín hiệu khác nhau đến máy thu.",
+      "Do tần số VHF quá thấp."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thiết bị nào sau đây dùng để đo công suất phản xạ và hệ số VSWR của hệ thống anten",
+    "o": [
+      "Máy hiện sóng (Oscilloscope).",
+      "Máy đo công suất RF (Wattmeter)",
+      "Đồng hồ vạn năng DC.",
+      "Máy tạo xung."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi lắp đặt hệ thống anten trên cột, yếu tố nào cần được ưu tiên hàng đầu để tránh nhiễu lẫn nhau giữa các máy phát",
+    "o": [
+      "Nhiệt độ môi trường.",
+      "Màu sắc của cáp.",
+      "Độ cao của cột",
+      "Sự cách ly về tần số (Frequency Separation) và khoảng cách vật lý (Spatial Separation)."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Dải phổ tần của sóng HF:",
+    "o": [
+      "Từ 3 ÷ 30KHZ",
+      "Từ 30 ÷ 300KHZ",
+      "Từ 3 ÷ 30MHZ",
+      "Từ 30 ÷ 300MHZ"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Dải sóng HF có bước sóng:",
+    "o": [
+      "102 ÷ 101 m",
+      "103 ÷ 102 m",
+      "104 ÷ 103 m",
+      "105 ÷ 103 m"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Đặc tính lan truyền của sóng HF:",
+    "o": [
+      "Truyền theo tầm nhìn thẳng",
+      "Khúc xạ trên tầng điện ly",
+      "Phản xạ trên tầng điện ly",
+      "Suy hao do mưa"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Các phương thức truyền sóng:",
+    "o": [
+      "Sóng đất và sóng không gian;",
+      "Sóng không gian và sóng tần điện ly;",
+      "Sóng đất, sóng không gian, sóng tầng điện ly và sóng tự do;",
+      "Sóng tầng điện ly và sóng tự do."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Đổi tần:",
+    "o": [
+      "Là quá trình dịch chuyển tín hiệu đã điều chế lên cao hoặc xuống thấp",
+      "Phổ của tín hiệu ban đầu không thay đổi",
+      "Đổi tần dựa trên nguyên lý phi tuyến của phần tử thụ động",
+      "Cả ba phương án đã nêu đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Điều biên:",
+    "o": [
+      "Là quá trình làm cho biên độ tải tin (sóng mang) biến đổi theo tin tức",
+      "Là quá trình làm cho tần số tải tin (sóng mang) biến đổi theo tin tức",
+      "Là quá trình làm cho tin tức biến đổi theo biên độ tải tin (sóng mang)",
+      "Là quá trình làm cho biên độ và tần số tải tin (sóng mang) biến đổi theo tin tức"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ số điều chế được định nghĩa là:",
+    "o": [
+      "Tỷ số của biên độ tín hiệu tin tức (âm tần) trên biên độ tín hiệu sóng mang",
+      "Tỷ số của biên độ tín hiệu sóng mang trên biên độ tín hiệu tin tức (âm tần)",
+      "Tích số của biên độ tín hiệu sóng mang với biên độ tín hiệu tin tức (âm tần)",
+      "Các phương án đã nêu đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong các thành phần của tín hiệu AM, tín hiệu có ích nằm trong các thành phần:",
+    "o": [
+      "hai biên tần",
+      "sóng mang",
+      "biên tần trên",
+      "biên tần dưới"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi thay đổi độ sâu điều chế trong điều chế AM sẽ làm:",
+    "o": [
+      "Thay đổi công suất tín hiệu biên tần",
+      "Thay đổi công suất tín hiệu sóng mang",
+      "Thay đổi cả công suất biên tần và sóng mang",
+      "Công suất biên tần và sóng mang không thay đổi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mạch điều biên được xây dựng theo nguyên tắc:",
+    "o": [
+      "Dùng phần tử phi tuyến để cộng tải tin (sóng mang) và tín hiệu điều chế (tin tức) trên đặc tuyến của phần tử phi tuyến đó.",
+      "Dùng phần tử tuyến tính để cộng tải tin (sóng mang) và tín hiệu điều chế (tin tức) trên đặc tuyến của phần tử tuyến tính đó.",
+      "Dùng phần tử phi tuyến để khuếch đại tín hiệu AM",
+      "Dùng mạch lọc để lọc thành phần tải tin (sóng mang)."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong điều chế AM, tín hiệu điều chế dạng: vđc = VΩ cos Ωt, tín hiệu sóng mang dạng: vt = V0 cos ω0 t. Theo bạn, tín hiệu điều biên sẽ có dạng:",
+    "o": [
+      "VAM = V0(1 + m cosΩt)cos ω0t; Với m là hệ số điều chế",
+      "VAM = V0(1 + m cos ω0t)cos Ωt; Với m là hệ số điều chế",
+      "VAM = VΩ(1 + m cosΩt)cos ω0t; Với m là hệ số điều chế",
+      "VAM = mV0cos ω0t; Với m là hệ số điều chế"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Điều chế đơn biên SSB:",
+    "o": [
+      "Băng thông tín hiệu điều chế SSB bằng 3 lần băng thông tín hiệu điều chế AM",
+      "Băng thông tín hiệu điều chế SSB bằng 2 lần băng thông tín hiệu điều chế AM",
+      "Băng thông tín hiệu điều chế SSB bằng băng thông tín hiệu điều chế AM",
+      "Băng thông tín hiệu điều chế SSB bằng nửa băng thông tín hiệu điều chế AM."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Điều chế FM:",
+    "o": [
+      "Biên độ sóng mang không thay đổi trong khi tần số bị thay đổi theo tín hiệu điều chế",
+      "Biên độ và tần số sóng mang bị thay đổi theo tín hiệu điều chế",
+      "Biên độ sóng mang thay đổi trong khi tần số không bị thay đổi theo tín hiệu điều chế",
+      "Biên độ và tần số sóng mang bị thay đổi theo tín hiệu điều chế"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong tín hiệu điều chế tần số, lượng di tần tỷ lệ với:",
+    "o": [
+      "Biên độ điện áp tín hiệu điều chế và tần số tín hiệu điều chế",
+      "Chỉ với biên độ điện áp tín hiệu điều chế",
+      "Chỉ với tần số của điện áp tín hiệu điều chế",
+      "Theo pha của tín hiệu điều chế"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi tần số của tín hiệu điều chế thay đổi thì:",
+    "o": [
+      "Bề rộng phổ của tín hiệu điều tần không thay đổi nhưng số vạch phổ thay đổi",
+      "Bề rộng phổ của tín hiệu điều tần thay đổi nhưng số vạch phổ không thay đổi",
+      "Bề rộng phổ của tín hiệu điều tần và số vạch phổ thay đổi",
+      "Bề rộng phổ của tín hiệu điều tần và số vạch phổ không thay đổi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bộ khuếch đại công suất cao tần dùng để:",
+    "o": [
+      "Khuếch đại tín hiệu âm thanh trước khi phát ra loa",
+      "Khuếch đại tín hiệu đã điều chế ở tần số sóng mang đến mức công suất cần thiết, lọc, phối hợp trở kháng với anten",
+      "Khuếch đại tín hiệu thu từ anten để đưa vào bộ trộn tần",
+      "Giảm nhiệt độ tạp âm ảnh hưởng tới các bộ trộn tần, khuếch đại gây ra"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Mục đích của phối hợp trở kháng:",
+    "o": [
+      "Để truyền công suất tín hiệu lớn nhất và loại nhiễu",
+      "Để giữ cho hệ số sóng đứng điện áp VSWR không đổi",
+      "Để tránh tiêu hao công suất vô ích",
+      "Để khuếch đại tín hiệu"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mạch AGC (Automatic Gain Control) được thiết lập ở tầng khuếch đại RF hay IF cho phép tăng hay giảm độ khuếch đại khi tín hiệu thu yếu hoặc mạch bằng cách thay đổi:",
+    "o": [
+      "điện áp phân cực",
+      "dòng điện phân cực",
+      "tần số cộng hưởng",
+      "không thay đổi gì"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong các yếu tố sau, yếu tố nào mô tả độ nhạy máy thu:",
+    "o": [
+      "Băng thông của tín hiệu trung tần (IF), tính theo kHz",
+      "Mức tín hiệu âm tần đầu ra (tính theo W)",
+      "Tỉ số (S + N)/N",
+      "Số bộ khuếch đại cao tần"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo ấn định tần số liên lạc HF hàng không vùng SEA-2 có các tần số sau:",
+    "o": [
+      "3485Khz, 5649Khz, 5655Khz, 8942Khz, 11396Khz, 13309Khz, 17907Khz",
+      "5655Khz, 8942Khz, 11297Khz",
+      "5655Khz, 8942Khz, 11297Khz, 11396Khz, 13309Khz",
+      "5655Khz, 8942Khz, 13309 Khz, 13309Khz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo giấy phép tần số, HF của QLB MN có các tần số sau:",
+    "o": [
+      "5655Khz, 8942Khz;",
+      "5655Khz, 8942Khz, 11297Khz;",
+      "5655Khz, 8942Khz, 11297Khz, 11396Khz, 13300Khz;",
+      "5655Khz, 8942Khz, 13309 Khz, 13309Khz;"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Loại điều chế được qui định cho HF theo giấy phép đang sử dụng:",
+    "o": [
+      "2K70J3E (BW 2.7Khz, AM Single Side Band, Suppressed Carrier)",
+      "6K00A3E (BW 6.0Khz, AM Double Side Band, Full Carrier)",
+      "J3E (BW không xác định, AM Single Side Band, Suppressed Carrier)",
+      "A3E (BW không xác định, AM Double Side Band, Full Carrier)"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thiết bị Exciter LF-HF T-4180 hoạt động trong dải tần từ:",
+    "o": [
+      "1.6 đến 30 Mhz",
+      "3 đến 30 Mhz",
+      "10 đến 20 Mhz",
+      "1 đến 30Mhz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Nguồn hoạt động của hệ thống khuếch đại HF COM5000-7, 5KW:",
+    "o": [
+      "AC 1 pha 220VAC, 47-63Hz",
+      "AC 3 pha 380VAC,47-63Hz",
+      "DC 48VDC",
+      "DC 52VDC"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống khuếch đại HF COM5000-7, 5KW bao gồm các khối:",
+    "o": [
+      "Output Combiner Module, System Controler Module, Power Amplifier Module, Power Supply Module",
+      "Output Combiner Module, System Controler Module, Power Amplifier Module, Power Supply Module, Hot Standby Antenna Switch (optional)",
+      "Output Combiner Module, System Controler Module, Power Amplifier Module",
+      "Output Combiner Module, System Controler Module,, Power Supply Module"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) của hệ thống thông tin HF A/G: Tín hiệu thoại VTĐ sử dụng loại phát xạ điều chế:",
+    "o": [
+      "điều chế biên độ, có 2 biên tần (double sideband - DSB).",
+      "điều chế đơn biên (single sideband - SSB).",
+      "điều chế tần số.",
+      "cả 1, 2, 3."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) của hệ thống thông tin HF A/G: Các tần số VTĐ sử dụng được chọn trong dải tần:",
+    "o": [
+      "300 KHz - 30 MHz.",
+      "3 MHz - 30 MHz.",
+      "2.8 MHz - 22 MHz."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thông tin vô tuyến HF: Các máy thu, phát HF chủ yếu được sử dụng để kiểm soát tàu bay:",
+    "o": [
+      "trong lục địa.",
+      "vùng đại dương.",
+      "vùng có mật độ bay cao."
+    ],
+    "a": 1
+  },
+  {
+    "q": "So sánh thông tin thoại vô tuyến dải tần HF với VHF:",
+    "o": [
+      "VHF có chất lượng thoại tốt hơn và ít bị ảnh hưởng nhiễu hơn HF.",
+      "VHF có chất lượng thoại tốt hơn nhưng bị ảnh hưởng nhiễu hơn HF.",
+      "VHF có độ tin cậy cao hơn HF."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thông tin vô tuyến dải tần HF có cự ly lớn hơn nhiều so với VHF, UHF vì:",
+    "o": [
+      "HF sử dụng tần số thấp hơn, có khả năng truyền sóng không theo đường nhìn thẳng.",
+      "Thiết bị HF có công suất phát lớn hơn.",
+      "Thiết bị HF có độ nhậy máy thu tốt hơn.",
+      "Ăng ten hệ thống thu, phát HF có độ dài lớn hơn."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Sự khác nhau cơ bản về phương thức truyền sóng của thông tin liên lạc sóng HF và VHF là:",
+    "o": [
+      "HF phản xạ qua tầng điện ly, VHF truyền thẳng.",
+      "HF truyền thẳng, VHF phản xạ qua tầng điện ly.",
+      "HF và VHF phản xạ qua tầng điện ly.",
+      "HF và VHF truyền thẳng."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thông tin lưu động HK, theo qui định của ICAO: Đối với phát xạ thoại vô tuyến đơn biên, các tần số âm thanh được giới hạn trong dải tần:",
+    "o": [
+      "300 - 2700 Hz.",
+      "300 - 3000 Hz.",
+      "300 - 3400 Hz."
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - thiết bị mặt đất điều chế đơn biên, có nén sóng mang (single sideband - SSB), gọi là loại J3E: Độ ổn định tần số Phát: Tần số VTĐ thay đổi không được vượt quá:",
+    "o": [
+      "+/- 10 Hz so với tần số ấn định.",
+      "+/- 15 Hz so với tần số ấn định.",
+      "+/- 20 Hz so với tần số ấn định."
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - thiết bị mặt đất điều chế đơn biên, có nén sóng mang (single sideband - SSB), gọi là loại J3E: Công suất phát đỉnh không được vượt quá:",
+    "o": [
+      "3 kW.",
+      "5 kW.",
+      "6 kW."
+    ],
+    "a": 2
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - thiết bị trên máy bay điều chế đơn biên, có nén sóng mang (single sideband - SSB), gọi là loại J3E: Công suất phát đỉnh không được vượt quá:",
+    "o": [
+      "300 W.",
+      "400 W.",
+      "500 W."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G – Đối với hệ thống có sử dụng SELCAL: Độ méo âm tần không được vượt quá:",
+    "o": [
+      "5%.",
+      "10%.",
+      "15%."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong thông tin lưu động HK, theo qui định của ICAO, chế độ làm việc trong dải HF là:",
+    "o": [
+      "1 kênh đơn công (Single channel simplex).",
+      "2 kênh đơn công (Dual channel Simplex).",
+      "1 kênh song công (Single channel Duplex)."
+    ],
+    "a": 0
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - thiết bị mặt đất: Hệ số điều chế phát (modulation factor) phải đạt ít nhất là:",
+    "o": [
+      "0.55",
+      "0.6",
+      "0.65"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - thiết bị trên máy bay điều chế đơn biên, có nén sóng mang (single sideband - SSB), gọi là loại J3E: Độ ổn định tần số phát: Tần số VTĐ thay đổi không được vượt quá:",
+    "o": [
+      "+/- 10 Hz so với tần số ấn định.",
+      "+/- 15 Hz so với tần số ấn định.",
+      "+/- 20 Hz so với tần số ấn định."
+    ],
+    "a": 2
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G – Sai số tần số giữa thiết bị điều chế đơn biên dưới mặt đất và thiết bị trên máy bay không được vượt quá:",
+    "o": [
+      "+/- 35 Hz.",
+      "+/- 45 Hz.",
+      "+/- 55 Hz."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) hệ thống của thông tin HF A/G - Thiết bị điều chế đơn biên (single sideband - SSB) nên sử dụng biên tần:",
+    "o": [
+      "LSB.",
+      "USB.",
+      "Chọn LSB hoặc USB đều được."
+    ],
+    "a": 1
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) của hệ thống thông tin HF A/G: Các tần số VTĐ được chọn sử dụng cho tìm kiếm và cứu nạn là:",
+    "o": [
+      "3023 KHz.",
+      "5680 KHz.",
+      "Cả 3023 KHz và 5680 KHz."
+    ],
+    "a": 2
+  },
+  {
+    "q": "ICAO qui định về đặc tính (charateristics) của hệ thống thông tin HF A/G: Đối với các hệ thống có sử dụng Selcal, mỗi code truyền gồm 2 xung liên tiếp, mỗi xung chứa 2 tone đồng thời, độ dài xung là:",
+    "o": [
+      "1 ± 0.25 giây.",
+      "2 ± 0.25 giây.",
+      "3 ± 0.25 giây."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Dãi tần hoạt động của máy thu HF LCR/SMR-2400:",
+    "o": [
+      "1 MHz – 30 MHz",
+      "2 MHz – 20 MHz",
+      "10 Khz – 30 MHz"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Độ ổn định tần số của máy thu HF LCR/SMR-2400:",
+    "o": [
+      "± 10 ppm",
+      "± 1 ppm",
+      "± 5 ppm",
+      "Đáp án khác"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Máy thu HF LCR/SMR-2400 hỗ trợ các chế độ tách sóng:",
+    "o": [
+      "AM, FM",
+      "LSB, USB",
+      "CW, FSK",
+      "Tất cả các chế độ trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Nhiệt độ hoạt động của máy thu HF LCR/SMR-2400:",
+    "o": [
+      "0o đến +85oC",
+      "0o đến +50oC",
+      "0o đến 60oC"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Máy thu LCR/SMR-2400 hỗ trợ bao nhiêu kênh nhớ",
+    "o": [
+      "100",
+      "200",
+      "250"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Điện áp nguồn AC cung cấp cho máy thu LCR/SMR-2400:",
+    "o": [
+      "90-260VAC",
+      "190-230VAC",
+      "90-120VAC"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Có thể chỉnh Squelch máy thu LCR/SMR-2400 trong tầm:",
+    "o": [
+      "110dB",
+      "112dB",
+      "100dB"
+    ],
+    "a": 1
+  }
+]

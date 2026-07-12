@@ -1,0 +1,2048 @@
+[
+  {
+    "q": "ADS-B viết tắt của từ gì",
+    "o": [
+      "Aeronautical Dependent Surveillance – Broadcast",
+      "Aeronautical Dependent Surveillance – Background",
+      "Automatic Dependent Surveillance – Broadcast",
+      "Automatic Dependent Surveillance – Background"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ thống ADS-B là gì",
+    "o": [
+      "Là hệ thống giám sát phụ thuộc cho các ứng dụng không địa trong hàng không, cung cấp các thông tin nhận dạng, vị trí, độ cao, tốc độ và các thông tin khác một cách tự động.",
+      "Là hệ thống giám sát cho các ứng dụng không địa trong hàng không, cung cấp các thông tin nhận dạng, vị trí, độ cao, tốc độ và các thống tin khác một cách tự động.",
+      "Là hệ thống giám sát cho các ứng dụng không địa trong hàng không,cung cấp các thông tin trợ giúp tàu bay hạ cánh tại các sân bay."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Ưu điểm của công nghệ ADS-B",
+    "o": [
+      "Tầm phủ rộng .",
+      "Tốc độ xử lý bản tin nhanh, nhiều thông tin.",
+      "Dễ dàng lắp đặt và giá thành thấp.",
+      "Cả ba đáp án 1,2,3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Hệ thống ADS-B sử dụng định dạng dữ liệu chuẩn nào sau đây để truyền dữ liệu đến người dùng",
+    "o": [
+      "ASTERIX CAT 19",
+      "ASTERIX CAT 20",
+      "ASTERIX CAT 21",
+      "Downlink Format 21"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Một trạm thu ADS-B bao gồm các thiết bị sau:",
+    "o": [
+      "Máy thu ADS-B; Bộ giám sát Site Monitor giám sát và điều khiển tại chỗ, các thiết bị đi kèm (máy thu GPS, Anten, Bộ tiền khuếch đại, Bộ ghép định hướng).",
+      "Máy thu ADS-B; Hệ thống giám sát và các thiết bị đi kèm (máy thu GPS, Anten, Bộ tiền khuếch đại, Bộ ghép định hướng).",
+      "Bộ giám sát Site Monitor; Hệ thống giám sát và các thiết bị đi kèm (máy thu GPS, Anten, Bộ tiền khuếch đại, Bộ ghép định hướng).",
+      "Cả hai đáp án 1,2 đều sai."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ thống MAGS HCM có bao nhiêu cặp máy chủ",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ thống MAGS HCM có vị trí giám sát và điều khiển từ xa nào",
+    "o": [
+      "LCMS",
+      "CPMS",
+      "RCMS",
+      "Cả 1 và 2"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thành phần nào của hệ thống MAGS phía Nam của VATM không được lắp đặt tại trạm ADS-B ở sân bay địa phương",
+    "o": [
+      "CPMS",
+      "RCMS",
+      "LCMS",
+      "GSR"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Phân hệ AX 680 SPU lắp đặt tại các trạm ADS-B sân bay địa phương không bao gồm thành phần nào dưới đây",
+    "o": [
+      "Bo SPB3A",
+      "Bo PTM3",
+      "AC/DC Converter",
+      "Máy phát NSTX"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết bị ADS-B tại các Đài KSKL là loại gì",
+    "o": [
+      "ADS-B Receive",
+      "ADS-B Receive and Transmitte",
+      "ADS-C",
+      "Loại khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các trạm GS được lắp tại các sân bay địa phương thuộc loại nào",
+    "o": [
+      "GSR",
+      "GST",
+      "Không phải hai loại trên",
+      "Cả hai loại trên"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Tại các Đài KSKL, Antenna kết nối đến thiết bị ADS-B gồm có:",
+    "o": [
+      "Không có Antenna nào",
+      "Chỉ có RF Antenna",
+      "Chỉ có GPS Antenna",
+      "Cả RF Antenna và GPS Antenna"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết bị ADS-B AX680 SPU có các board mạch:",
+    "o": [
+      "không có board mạch nào",
+      "SPB3A Board",
+      "PTM Board",
+      "có cả SPB3A board và PTM Board"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Boar SPB3A có chức năng gì sau đây",
+    "o": [
+      "Khuếch đại tín hiệu RF",
+      "Chuyển đổi tín hiệu analog thánh tín hiệu số",
+      "Tạo các bản tin TTHK mã hóa theo chuẩn ASTERIX CAT21, gửi đến các đầu cuối sử dụng thông qua mạng IP.",
+      "Câu 1,2,3 đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Boar PTM có chức năng gì sau đây",
+    "o": [
+      "Tạo ra thông tin vị trí của trạm ADSB",
+      "Tạo ra thời gian chuẩn UTC",
+      "Câu 1,2,4 đều đúng",
+      "Tạo ra điện áp cấp nguồn cho anten GPS"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thiết bị giám sát và điều khiển thiết bị ADS-B tại các Đài KSKL có tên viết tắt là:",
+    "o": [
+      "LCMS",
+      "RCMS",
+      "CPS",
+      "GPS"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các đầu cuối RCMS/LCMS tại các trạm ADS-B sử dụng hệ điều hành nào",
+    "o": [
+      "Ubuntu",
+      "RedHat",
+      "Debian",
+      "ThaLiX"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Đối với hệ thống MAGS HCM, lệnh nào dùng để shutdown một vị trí",
+    "o": [
+      "shutdown",
+      "shutdown –h",
+      "shutdown –r now",
+      "shutdown –h now"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong hệ thống MAGS HCM, thiết bị nào sau đây sử dụng 2 nguồn điện",
+    "o": [
+      "Router",
+      "Switch, Firewall",
+      "Server CPMS",
+      "P/A 2 và P/A 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Ứng dụng Zabbix trong hệ thống MAGS HCM đang sử dụng cơ sở dữ liệu gì ",
+    "o": [
+      "Oracle",
+      "PostgresSQL",
+      "MySQL",
+      "MariaDB"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống MAGS HCM hiện tại đang nhận dữ liệu từ bao nhiêu trạm mặt đất (Ground Station)",
+    "o": [
+      "4 trạm",
+      "6 trạm",
+      "8 trạm",
+      "10 trạm"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Ứng dụng nào đang được cài đặt trên các đầu cuối LCMS tại các sân bay địa phương",
+    "o": [
+      "TSD",
+      "TSD Configuration",
+      "Record/Replay",
+      "Tất cả các ứng dụng trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trên đầu cuối LCMS có thể truy cập được giao diện nào sau đây",
+    "o": [
+      "GSUI",
+      "Zabbix MAGS GUI",
+      "Cả hai giao diện trên",
+      "Không phải hai giao diện trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Từ giao diện MAGS GUI có thể truy cập giao diện GSUI không",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong menu 'Monitoring – Dashborad' của MAGS GUI, tại vùng 'MAGS Map' màu xanh của các biểu tượng đại diện cho các 'host' có ý nghĩa gì",
+    "o": [
+      "Đầu cuối đang bình thường (trạng thái OK).",
+      "Đầu cuối đang có vấn đề (trạng thái PROBLEM).",
+      "Đầu cuối bị loại ra khỏi cấu hình hệ thống.",
+      "Đầu cuối đang ở chế bộ bảo dưỡng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong menu 'Monitoring – Dashborad' của MAGS GUI, tại vùng 'MAGS Map' màu xám của các biểu tượng đại diện cho các 'host' có ý nghĩa gì",
+    "o": [
+      "Đầu cuối đang bình thường (trạng thái OK).",
+      "Đầu cuối đang có vấn đề (trạng thái PROBLEM).",
+      "Đầu cuối bị loại ra khỏi cấu hình hệ thống.",
+      "Đầu cuối đang ở chế bộ bảo dưỡng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong menu 'Monitoring – Dashborad' của MAGS GUI, tại vùng 'MAGS Map' màu đỏ/cam của các biểu tượng đại diện cho các 'host' có ý nghĩa gì",
+    "o": [
+      "Đầu cuối đang bình thường (trạng thái OK).",
+      "Đầu cuối đang có vấn đề (trạng thái PROBLEM).",
+      "Đầu cuối bị loại ra khỏi cấu hình hệ thống."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Có thể thực hiện reboot GS bằng cách nào",
+    "o": [
+      "Thông qua GSUI",
+      "Thông qua MAGS GUI",
+      "Cả hai cách trên",
+      "Không phải hai cách trên"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Có thể chuyển chế độ hoạt động của GS bằng cách nào",
+    "o": [
+      "Thông qua GSUI",
+      "Thông qua MAGS GUI",
+      "Cả hai cách trên",
+      "Không phải hai cách trên"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Có thể quan sát số lượng mục tiêu ADS-B phát hiện bởi GS ở đâu",
+    "o": [
+      "GSUI",
+      "TSD",
+      "Cả hai ứng dụng trên",
+      "Không phải trên hai ứng dụng trên"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong chế độ xem bản đồ của ứng dụng TSD, tổ hợp phím ‘Alt c’ có tác dụng gì",
+    "o": [
+      "Kết nối hoặc ngắt kết nối các điểm dấu của mục tiêu được chọn",
+      "Xóa mục tiêu được chọn",
+      "Phóng to bản đồ",
+      "Xoay bản đồ"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong chế độ xem bản đồ của ứng dụng TSD, tổ hợp phím ‘Ctrl f’ có tác dụng gì",
+    "o": [
+      "Tìm mục tiêu",
+      "Theo dõi mục tiêu được chọn",
+      "Xóa mục tiêu được chọn",
+      "Reset chế độ xem bản đồ"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo chương 3, tài liệu MLAT and ADS-B Software 1.30, cấu hình các Trạm ADS-B gồm có các bước sau:",
+    "o": [
+      "Bước 1: Xác định tên Trạm và kiểu cài đặt. Bước 2: Cấu hình giao tiếp mạng chính",
+      "Bước 3: Các báo cáo mục tiêu dạng ASTERIX",
+      "Bước 4: vị trí anten GPS Bước 5: Chạy tự kiểm tra",
+      "Cả 1, 2, 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong LCMS, \"State\" được định nghĩa là",
+    "o": [
+      "Mức độ thực hiện của một dịch vụ giám sát",
+      "Trạng thái thiết bị",
+      "Công suất phát"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong LCMS, State = \"Degraded\" Orange có nghĩa là thực hiện dịch vụ ở cấp độ",
+    "o": [
+      "Hoàn chỉnh",
+      "Chưa được hoàn chỉnh nhưng ở trên mức tối thiểu",
+      "Dưới mức tối thiểu",
+      "Không xác định được"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong LCMS, \"Status\"=OK Green thì biểu thị tình trạng hoạt động như thế nào",
+    "o": [
+      "Không rõ",
+      "Có lỗi nhẹ",
+      "Có lỗi nặng làm cho dịch vụ bị suy giảm",
+      "Hoạt động tốt, không lỗi"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Hệ thống hay một thành phần thiết bi có thể hoạt động theo phương thức:",
+    "o": [
+      "Operational",
+      "Maintenance",
+      "Câu 1,2,4 đều đúng",
+      "Diagnostic"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ thống ADS-B sử dụng công cụ gì để giám sát hệ thống",
+    "o": [
+      "Zabbix MAGS GUI",
+      "Solarwinds",
+      "The Technical Situation Display",
+      "Không sử dụng công cụ nào"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Biểu tượng màu sắc nào thể hiện thiết bị đang hoạt động tốt",
+    "o": [
+      "Màu Cam",
+      "Màu Xanh",
+      "Màu Đỏ",
+      "Màu Xám"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Biểu tượng màu sắc nào thể hiện thiết bị đang có vấn đề",
+    "o": [
+      "Màu Cam",
+      "Màu Xanh",
+      "Màu Đỏ",
+      "Màu Xám"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Biểu tượng màu sắc nào thể hiện thiết bị đang ở chế độ bảo trì",
+    "o": [
+      "Màu Cam",
+      "Màu Xanh",
+      "Màu Đỏ",
+      "Màu Xám"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Biểu tượng màu sắc nào thể hiện thiết bị đã loại ra khỏi hệ thống",
+    "o": [
+      "Màu Cam",
+      "Màu Xanh",
+      "Màu Đỏ",
+      "Màu Xám"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Để đặt chế độ hoạt động của CPMS ta làm",
+    "o": [
+      "Kích chuột trái vào biểu tượng máy chủ chọn MAGS Mode",
+      "Kích chuột trái vào biểu tượng máy chủ chọn MAGS Role",
+      "Kích chuột trái vào biểu tượng máy chủ chọn MAGS Cluster Node Switchover",
+      "Kích chuột phải vào biểu tượng máy chủ chọn MAGS Role"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để khởi động lại thiết bị từ xa bằng Zabbix MAGS GUI ta làm",
+    "o": [
+      "Kích chuột trái vào biểu tượng thiết bị chọn Reboot",
+      "Kích chuột phải vào biểu tượng thiết bị chọn Reboot",
+      "Không thể làm từ xa",
+      "Kích chuột trái vào biểu tượng thiết bị chọn Tracepath"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hãy chọn câu phát biểu về Giao diện người dùng trạm mặt đất (GSUI) đúng nhất",
+    "o": [
+      "Giao diện người dùng trạm mặt đất (GSUI) cho phép người dùng gốc giám sát và cấu hình GS từ bất kỳ thiết bị đầu cuối nào hỗ trợ trình duyệt web chung cục bộ (LCMS) hoặc từ xa (RCMS).",
+      "Giao diện người dùng trạm mặt đất (GSUI) là một ứng dụng GS xây dựng giao diện điều khiển và giám sát của một MAGS GS duy nhất thông qua HTTP.",
+      "Cả A và B đúng",
+      "Cả A và B sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trên giao diện GSUI hiển thị tình trạng hoạt động của SPB3 qua các giá trị",
+    "o": [
+      "OK, WARNING, FAULT hoặc UNKNOWN",
+      "OK, WARNING hoặc FAULT",
+      "OK hoặc FAULT",
+      "Cả B và C"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trên giao diện GSUI hiển thị chế độ vận hành của SPB3 qua các giá trị",
+    "o": [
+      "OPERATIONAL, MAINTENANCE, DIAGNOSTIC",
+      "OPERATIONAL, MAINTENANCE",
+      "OPERATIONAL, MAINTENANCE, DIAGNOSTIC hoặc FAULT",
+      "OPERATIONAL, MAINTENANCE, DIAGNOSTIC hoặc UNKNOWN"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The Technical Situation Display (TSD) lưu tệp cấu hình dưới định dạng nào",
+    "o": [
+      "txt",
+      "doc",
+      "map",
+      "xml"
+    ],
+    "a": 3
+  },
+  {
+    "q": "The Technical Situation Display (TSD) lưu tệp cấu hình tại thư mục",
+    "o": [
+      "/usr/local/etc/",
+      "/usr2/local/etc/",
+      "/local/etc/",
+      "/home/local/etc/"
+    ],
+    "a": 0
+  },
+  {
+    "q": "The Technical Situation Display (TSD) lưu cấu hình bản khu vực ở thư mục",
+    "o": [
+      "/local/supervisor/.tools",
+      "/home/supervisor/.tools",
+      "/usr/supervisor/.tools",
+      "/etc/supervisor/.tools"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Menu ‘Display’ của TSD cung cấp các chưc năng",
+    "o": [
+      "Compass, Scale, Details, Late Plots",
+      "Scale, Details, Late Plots",
+      "Late Plots, Contributing receivers",
+      "Compass, Scale, Details, Late Plots, Contributing receivers"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Menu ‘Preferences’ của TSD có tác dụng",
+    "o": [
+      "Cung cấp các chức năng và menu phụ để cài đặt tham số lọc dữ liệu thông tin mục tiêu ASTERIX và để định cấu hình giao diện ASTERIX và trung tâm của Trạm mặt đất",
+      "Cung cấp các menu con có chức năng điều chỉnh một số cài đặt của các mục tiêu được hiển thị",
+      "Cung cấp các chức năng để hiển thị hoặc ẩn các thành phần bản đồ bổ sung và chế độ xem mục tiêu chi tiết",
+      "Cung cấp các chức năng và menu phụ để cài đặt tham số lọc dữ liệu thông tin mục tiêu ASTERIX"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Công cụ Ghi & Phát lại lưu tệp cấu hình tại thư mục",
+    "o": [
+      "",
+      "/usr/supervisor",
+      "/home/supervisor",
+      "/etc/supervisor"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Công cụ Ghi & Phát lại lưu tệp cấu hình dưới định dạng",
+    "o": [
+      "xml",
+      "doc",
+      "txt",
+      "map"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Công cụ Ghi & Phát lại lưu bản ghi dữ liệu ở định dạng",
+    "o": [
+      "xml",
+      "doc",
+      "txt",
+      "map"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo tài liệu hướng dẫn bảo dưỡng của hãng Thales, khi thực hiện bảo dưỡng hàng năm các GS, cần thực hiện công việc gì",
+    "o": [
+      "Kiểm tra hư hỏng, kiểm tra trực quan toàn bộ phần cứng GS bao gồm ăng-ten",
+      "Vệ sinh bề mặt thiết bị, vệ sinh quạt, lỗ thông gió, vệ sinh/thay thế các tấm lọc bụi của khối AX680 SPU",
+      "Kiểm tra tình trạng thiết bị chống sét/EMP một phần tư bước sóng (quarter-wave) hoặc thay thế và tiếp địa của chúng.",
+      "Tất cả các công việc trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo khuyến nghị của hãng có nên sử dụng dung môi hóa chất để vệ sinh các bề mặt các đầu cuối không",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo khuyến nghị của hãng có nên sử dụng cồn để vệ sinh bề mặt trước của khối AX 680 SPU không ",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo khuyến nghị của hãng các công dụng cụ phục vụ công tác bảo dưỡng phải làm từ vật liệu chống tĩnh điện đúng không",
+    "o": [
+      "Đúng",
+      "Sai",
+      "Đáp án khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi thực hiện bảo dưỡng, cần tháo các OVP để kiểm tra, thì có cần tắt trạm không",
+    "o": [
+      "Có",
+      "Không",
+      "Đáp án khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo khuyến nghị của hãng có được sử dụng vòi nước áp suất cao để vệ sinh các ăng ten ngoài trời không",
+    "o": [
+      "Có",
+      "Không",
+      "Đáp án khác"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi thực hiện bài kiểm tra vòng lặp tín hiệu nội (Internal Loop Test), phân hệ xử lý tín hiệu RF của bo SPB3A có được kiểm tra",
+    "o": [
+      "Có",
+      "Không",
+      "Đáp án khác"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi thực hiện bài kiểm tra vòng lặp tín hiệu qua ăng-ten RF (Loop Test over RF Antenna), phân hệ xử lý tín hiệu số của bo SPB3A có được kiểm tra",
+    "o": [
+      "Có",
+      "Không",
+      "Đáp án khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị định kỳ hàng tuần thì làm gì",
+    "o": [
+      "Không đo đạc gì cả",
+      "Kiểm tra cáp",
+      "Kiểm tra Ắc quy",
+      "Kiểm tra chống sét"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị định kỳ hàng tháng thì làm gì",
+    "o": [
+      "Không đo đạc gì cả",
+      "Kiểm tra cáp",
+      "Kiểm tra Ắc quy",
+      "Kiểm tra chống sét"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị định kỳ 6 tháng thì làm gì",
+    "o": [
+      "Kiểm tra Anten",
+      "Kiểm tra cáp",
+      "Kiểm tra Ắc quy",
+      "Kiểm tra chống sét"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị định kỳ hàng năm thực hiện các công việc:",
+    "o": [
+      "Vệ sinh thiết bị",
+      "Vệ sinh quạt làm mát",
+      "Kiểm tra các chống sét",
+      "Thực hiện các công việc 1, 2, 3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị định kỳ 3 năm nên thực hiện::",
+    "o": [
+      "Thay ắc quy mới cho UPS",
+      "Thay RF antenna",
+      "Thay GPS antenna",
+      "Thay ADS-B mới"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, bảo dưỡng thiết bị có cần phải chuyển thiết bị sang phương thức non-operation không",
+    "o": [
+      "Có",
+      "Không",
+      "Tùy vào loại thiết bị và cách thức bảo dưỡng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, có cần phải cân chỉnh hoặc khởi động lại thiết bị theo chu kỳ không",
+    "o": [
+      "Có",
+      "Không",
+      "Tùy vào loại thiết bị"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, có mấy cách thức bảo trì",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, khi thiết bị báo lỗi cần tham khảo đến chương nào để xử lý",
+    "o": [
+      "Chương 4. Fault Location",
+      "Chương 1. System Description",
+      "Chương 5. Troubleshooting and Repair"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo chương 3, phần bảo dưỡng của tài liệu MLAT and ADS-B Hardware AX680, các quạt của AX 68 SPU đề nghị thay sau khoảng thời gian sử dụng là",
+    "o": [
+      "1 năm",
+      "2 năm",
+      "3 năm",
+      "4 năm"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Biểu tượng này <img src='./img/vc.png' style='height: 28px; vertical-align: middle; margin: 0 5px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>    có ý nghĩa gì",
+    "o": [
+      "Trạm thu mặt đất (GSR) đang gặp vấn đề",
+      "Trạm phát mặt đất (GST) đang ở chế độ bảo dưỡng, bảo trì",
+      "Máy chủ CPMS đang bị vô hiệu (disabled) trong cấu hình",
+      "Đầu cuối giám sát mở rộng RCMS-Ext đang gặp vấn đề"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Biểu tượng này <img src='./img/xam.png' style='height: 28px; vertical-align: middle; margin: 0 5px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>    có ý nghĩa gì",
+    "o": [
+      "Trạm thu mặt đất (GSR) đang bị vô hiệu (disabled) trong cấu hình",
+      "Trạm phát mặt đất (GST) đang gặp vấn đề",
+      "Máy chủ CPMS đang bị vô hiệu (disabled) trong cấu hình",
+      "Đầu cuối giám sát mở rộng RCMS-Ext đang gặp vấn đề"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Biểu tượng này <img src='./img/do.png' style='height: 28px; vertical-align: middle; margin: 0 5px; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);'>    có ý nghĩa gì",
+    "o": [
+      "Trạm thu mặt đất (GSR) đang ở chế độ bảo dưỡng",
+      "Bộ cấp nguồn không gián đoạn UPS đang ở chế độ bảo trì, bảo dưỡng",
+      "Bộ cấp nguồn không gián đoạn UPS đang gặp vấn đề",
+      "Trạm phát mặt đất đang ở chế độ bảo trì, bảo dưỡng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để khởi động lại máy chủ CPMS trên hệ thống MAGS cần dùng lệnh nào",
+    "o": [
+      "reset",
+      "restart",
+      "reboot",
+      "power off"
+    ],
+    "a": 2
+  },
+  {
+    "q": "LED 'FAIL' của bo SPB3A nháy cam báo hiệu điều gì",
+    "o": [
+      "Bo SPB3A hoạt động bình thường",
+      "Trạng thái cảnh báo",
+      "Chức năng xử lý tín hiệu chưa hoạt động",
+      "Một lỗi đang được phát hiện"
+    ],
+    "a": 1
+  },
+  {
+    "q": "LED 'FAIL' của bo SPB3A sáng đỏ báo hiệu điều gì",
+    "o": [
+      "Bo SPB3A hoạt động bình thường",
+      "Trạng thái cảnh báo",
+      "Chức năng xử lý tín hiệu chưa hoạt động",
+      "Một lỗi đang được phát hiện"
+    ],
+    "a": 2
+  },
+  {
+    "q": "LED 'FAIL' của bo SPB3A nháy đỏ báo hiệu điều gì",
+    "o": [
+      "Bo SPB3A hoạt động bình thường",
+      "Trạng thái cảnh báo",
+      "Chức năng xử lý tín hiệu chưa hoạt động",
+      "Chức năng xử lý tín hiệu đang khởi động hoặc không đồng bộ thời gian hoặc một lỗi BITE nghiêm trọng được phát hiện."
+    ],
+    "a": 3
+  },
+  {
+    "q": "LED 'RX' của bo SPB3A nháy xanh báo hiệu điều gì",
+    "o": [
+      "Nhận tín hiệu ADS-B",
+      "Nhận tín hiệu GPS-PPS",
+      "Mức tín hiệu thu được vượt ngưỡng độ nhạy máy thu",
+      "Không thu được bất cứ tín hiệu nào"
+    ],
+    "a": 0
+  },
+  {
+    "q": "LED 'RX' của bo SPB3A nháy cam báo hiệu điều gì",
+    "o": [
+      "Nhận tín hiệu ADS-B",
+      "Nhận tín hiệu GPS-PPS",
+      "Nhận được một bản tin lỗi",
+      "Không thu được bất cứ tín hiệu nào"
+    ],
+    "a": 1
+  },
+  {
+    "q": "LED 'TX' của bo SPB3A nháy xanh báo hiệu điều gì",
+    "o": [
+      "Đang phát",
+      "Đang không phát",
+      "Đang chờ tín hiệu được điều chế để phát"
+    ],
+    "a": 0
+  },
+  {
+    "q": "LED 'TT' của bo SPB3A nháy xanh báo hiệu điều gì",
+    "o": [
+      "Tắt phát tín hiệu kiểm tra.",
+      "Phát một bản tin đường xuống để kiểm tra.",
+      "Đang chờ chuẩn bị một bản tin Mode S để phát"
+    ],
+    "a": 1
+  },
+  {
+    "q": "LED 'Position Fail' của bo PTM3 sáng đỏ báo hiệu điều gì",
+    "o": [
+      "Máy thu vị trí GPS hoạt động bình thường.",
+      "Máy thu vị trí GPS đang không sẵn sàng.",
+      "Có thể bo PTM3 chưa khởi động xong",
+      "2&3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "LED 'Time Fail' của bo PTM3 sáng đỏ báo hiệu điều gì",
+    "o": [
+      "Máy thu thời gian GPS hoạt động bình thường.",
+      "Lỗi thời gian. Máy thu thời gian GPS không sẵn sàng.",
+      "Đáp án khác"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong trạng thái bình thường, LED '1PPS' của bo PTM3 nháy xanh với chu kỳ nào (s)",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trên mặt trước của bộ nguồn AX680 SPU Power Supply Unit (PSU), các đèn LED hiển thị trạng thái hoạt động bình thường như thế nào",
+    "o": [
+      "Đèn Fault tắt; Đèn Power sáng xanh",
+      "Đèn Power tắt",
+      "Đèn Fault sáng đỏ",
+      "Không có đèn nào sáng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi quạt làm mát trong khối AX680 SPU Fan bị lỗi thì:",
+    "o": [
+      "Đèn FAN FAIL tắt",
+      "Đèn FAN FAIL sáng đỏ",
+      "Đèn GS FAIL sáng đỏ",
+      "Không có đèn nào sáng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi đèn FAIL trên board SPB3A sáng hoặc nhấp nháy cam thì thiết bị sẽ như thế nào",
+    "o": [
+      "Board SPB3A hoạt động bình thường",
+      "Chức năng xử lý tín hiệu đang boot",
+      "Chức năng xử lý tín hiệu không hoạt động",
+      "Trạng thái cảnh báo: Board SPB3A đang hoạt động, nhưng mất tín hiệu GPS hoặc lỗi BITE được phát hiện"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Khi đèn FAIL trên board SPB3A sáng đỏ thì thiết bị sẽ như thế nào",
+    "o": [
+      "Chức năng xử lý tín hiệu không hoạt động",
+      "Hoạt động bình thường",
+      "Mất tín hiệu GPS",
+      "BITE lỗi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi đèn FAIL trên board SPB3A sáng nhấp nháy đỏ thì thiết bị sẽ như thế nào",
+    "o": [
+      "Chức năng xử lý bình thường",
+      "Chức năng đồng bộ thời gian từ GPS bình thường",
+      "Chức năng xử lý tín hiệu đang boot hoặc không có thời gian đồng bộ GPS hoặc phát hiện lỗi BITE",
+      "Chức năng BITE bình thường"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi thực hiện Loop Test bạn cần phải chuyển đổi phương thức hoạt động của thiết bị sang chế độ",
+    "o": [
+      "Operation",
+      "Maintenant",
+      "Diagnostic",
+      "Không cần chuyển đổi"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Đối với phương pháp Internal Loop Test tín hiệu test 1090MHz từ mạch tạo tín hiệu test truyền đến đầu vào mạch thu RF thông qua",
+    "o": [
+      "Switch và mạch suy hao",
+      "Anten",
+      "Dây nhảy"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Đối với phương pháp RF Anttena Loop Test tín hiệu test 1090MHz từ mạch tạo tín hiệu test truyền đến đầu vào mạch thu RF thông qua",
+    "o": [
+      "Switch và mạch suy hao",
+      "Anten",
+      "Dây nhảy"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bản tin trong Loop Test được tạo ra khi tham số \"Activation Status\" được chọn là",
+    "o": [
+      "Yes",
+      "No",
+      "Enabled",
+      "Disabled"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Cơ chế báo lỗi của Loop Test đến người dùng từ xa dựa trên giao thức nào",
+    "o": [
+      "TCP",
+      "SNMP",
+      "HTTP",
+      "FTP"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Mệnh đề “Probability of update (PU) of hozirontal position greater than or equal 97% for 100% of the flight, any flight below 97% shall be investigated as defined in R22” là tiêu chí nào trong tiêu chuẩn EUROCONTROL specification for ATM Surveillance Syst",
+    "o": [
+      "5N_C-R2",
+      "5N_C-R3",
+      "5N_C-R4",
+      "5N_C-R5"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Tần số sử dụng trong hệ thống ADS-B được phát từ tàu bay:",
+    "o": [
+      "987 MHz",
+      "1090 MHz",
+      "1030 MHz",
+      "1215 MHz"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Dữ liệu truyền từ trạm ADS-B tới đầu cuối sử dụng được cập nhật:",
+    "o": [
+      "Khi máy thu nhận đựơc các bản tin từ mục tiêu.",
+      "Liên tục với tần suất mặc định 1 lần/s.",
+      "Liên tục với tần xuất mặc định 2 lần/s",
+      "1 hoặc 2 tùy nguời sử dụng cấu hình."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Tầm phủ trong tầm nhìn thẳng của hệ thống máy thu ADS-B:",
+    "o": [
+      "Nhỏ nhất 200NM",
+      "Nhỏ nhất 250NM",
+      "Trong khoảng 250-300NM",
+      "Lớn nhất 250NM"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống ADS-B OUT được định nghĩa:",
+    "o": [
+      "Là một bộ phát quảng bá các tín hiệu với tần số làm việc 1090MHz, bộ phát quảng bá này phát 2 lần/s các bản tin về thông tin hàng không.",
+      "Là hệ thống thu tín hiệu ADS-B dưới mặt đất và gửi dữ liệu tới các vị trí đầu cuối",
+      "Là hệ thống xử lý dữ liệu đầu cuối sau khi nhận được từ máy thu ADS-B",
+      "Cả hai đáp án a,b."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Địa chỉ ICAO được mỗi máy bay phát trong một bản tin ADS-B có số bit là:",
+    "o": [
+      "12 bit",
+      "24 bit",
+      "56 bit",
+      "64 bit"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Giải mã trong máy thu ADS-B hoạt động dựa trên tiêu chuẩn:",
+    "o": [
+      "RTCA DO260",
+      "RTCA DO260A",
+      "RTCA DO260B",
+      "Cả ba đáp án trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Các bản tin trong hệ thống ADS-B truyền tới đầu cuối sử dụng có thể theo các định dạng ASTERIX sau:",
+    "o": [
+      "CAT 21,23, 25",
+      "CAT 19,20,21.",
+      "CAT 20,21,247, 25",
+      "CAT 20,21,247."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hệ thống RCMS thực hiện chức năng:",
+    "o": [
+      "Giám sát, điều khiển hệ thống máy thu ADS-B.",
+      "Giám sát hệ thống Site Monitor.",
+      "Giám sát điều khiển hệ thống máy thu ADS-B và Site Monitor.",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy thu ADS-B có khả năng xử lý:",
+    "o": [
+      "≥2500 bản tin/ giây; 400 mục tiêu/ thời điểm.",
+      "≥3000 bản tin / giây; 1500 mục tiêu/ thời điểm.",
+      "3500 bản tin/ giây; 600 mục tiêu/ thời điểm.",
+      "≤3000 bản tin/ giây; 500 mục tiêu/ thời điểm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Công suất tiêu thụ của máy thu ADS-B tối đa là:",
+    "o": [
+      "10W",
+      "15W",
+      "20W",
+      "25W"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Độ nhạy máy thu ADS-B:",
+    "o": [
+      "< -87dBm",
+      "< -90dBm",
+      "< -85dBm",
+      "≤-107dBm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Máy thu ADS-B hỗ trợ các giao thức:",
+    "o": [
+      "TCP/IP;UDP;SNMP;IGMP;NTP;ICMP.",
+      "UDP;SNMP;IGMP;NTP;ICMP.",
+      "TCP/IP;UDP;SNMP;IGMP;NTP.",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Anten Omni 080 sử dụng trong máy thu ADS-B là loại anten:",
+    "o": [
+      "Anten định hướng độ lợi ≥ 5dBi",
+      "Anten định hướng độ lợi ≤5dBi",
+      "Anten đẳng hướng độ lợi ≥5dBi",
+      "Anten đẳng hướng đội lợi ≤ 5dBi"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khối Receiver trong máy thu ADS-B thực hiện các chức năng theo thứ tự sau:",
+    "o": [
+      "Nhận tín hiệu cao tần, lọc, khuếch đại giải điều chế tín hiệu tương tự",
+      "Nhận tín hiệu cao tần, khuếch đại tín hiệu, lọc thông dải, khuếch đại giải điều chế tín hiệu tương tự tín hiệu.",
+      "Nhận tín hiệu cao tần, khuếch đại giải điều chế tín hiệu tương tự, lọc",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nguồn điện sử dụng trong hệ thống máy thu ADS-B",
+    "o": [
+      "110VAC-12DC",
+      "110VAC-240VAC; 12VDC",
+      "110VAC-240VAC",
+      "110VAC-240VAC;24VDC"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chức năng chính của máy thu ADS-B:",
+    "o": [
+      "Nhận tín hiệu 1090MHz, xử lý bản tin ADS-B và truyền bản tin sau khi xử lý theo định dạng ASTERIX tới các đầu cuối.",
+      "Nhận tín hiệu 1090MHz, xử lý bản tin ADS-B và truyền bản tin sau khi xử lý theo định dạng DF17 tới các đầu cuối.",
+      "Nhận tín hiệu 1090MHz, xử lý bản tin ADS-B và truyền bản tin sau khi xử lý theo định dạng DF18 tới các đầu cuối.",
+      "Cả ba đáp án trên đều đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mục đích của bộ Site Monitor",
+    "o": [
+      "Sử dụng để kiểm tra các tín hiệu thu được từ máy thu",
+      "Sử dụng để xác định độ hoạt động chính xác của các máy thu.",
+      "Duy trì trạng thái thu liên tục của máy thu.",
+      "Cả 2 đáp án 2,3"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để cấu hình từ xa các thông số cho máy thu ADS-B có thể dùng phương pháp nào sau đây:",
+    "o": [
+      "Cấu hình thông qua giao thức SNMP",
+      "Cấu hình thông qua SSH",
+      "Cấu hình thông qua RCMS",
+      "Cả hai đáp án 1,2"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thiết bị Site Monitor có các chân cắm phía trước mặt máy bao gồm:",
+    "o": [
+      "Cổng ra anten, Cổng giám sát RF.",
+      "Cổng nguồn 48VDC, cổng kết nối GPS, cổng kết nối LAN, cổng ra anten, Cổng giám sát RF.",
+      "Cổng nguồn 48VDC, cổng kết nối GPS, cổng kết nối USB, cổng ra anten, Cổng giám sát RF.",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Cấu hình địa chỉ IP cho máy thu ADS-B có thể đặt:",
+    "o": [
+      "Cấu hình IP tĩnh",
+      "Cấu hình DHCP",
+      "Cả hai 1,2"
+    ],
+    "a": 0
+  },
+  {
+    "q": "MAGS software hỗ trợ các giao thức:",
+    "o": [
+      "SNMP, ASTERIX",
+      "DHCP, ASTERIX",
+      "SNMP, DHCP, ASTERIX, DNS"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thông tin vệ tinh GPS là viết tắt của :",
+    "o": [
+      "Global Posotioning System",
+      "Geographical Placement System",
+      "Guard Positioning Stuff",
+      "Globe Positioning System"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Vai trò của GPS trong hệ thống ADS-B :",
+    "o": [
+      "Giúp máy thu có khả năng tự xác định vị trí.",
+      "Cung cấp nhãn thời gian cho bản tin ASTERIX CAT 21",
+      "Đồng bộ quá trình xử lý dữ liệu .",
+      "Cả 3 đáp án trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Số lượng vệ tinh tối thiểu mà bộ thu GPS kết nối với thống ADS-B cần thu được tín hiệu để đảm bảo độ chính xác là:",
+    "o": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "a": 1
+  },
+  {
+    "q": "1090 MHz Extended Squitter DF 17 có tổng cộng bao nhiêu bit:",
+    "o": [
+      "56 bit",
+      "72 bit",
+      "112 bit",
+      "128 bit"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Extended Squitter DF 17 có bao nhiêu bit điều khiển :",
+    "o": [
+      "8",
+      "24",
+      "56",
+      "64"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong Extended Squitter DF 17 có bao nhiêu bit ADS-B message :",
+    "o": [
+      "24",
+      "48",
+      "56",
+      "72"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Đối với các máy bay dân sự, định dạng DF nào được được máy bay sử dụng để truyền dữ liệu ADS-B:",
+    "o": [
+      "DF 19",
+      "DF 18",
+      "DF 17",
+      "Đáp án 2 và 3"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong 112 bit Extended Squitter DF 17 báo nhiêu bit được sử dụng để xác định ICAO Address của tàu bay:",
+    "o": [
+      "8",
+      "16",
+      "24",
+      "48"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Đối với các dạng bản tin DF, thành phần nào của bản tin quy định dạng bản tin:",
+    "o": [
+      "5 bit cuối cuối cùng của bản tin",
+      "5 bit đầu tiên của bản tin",
+      "3 bit đầu tiên của 8 bit điều khiển",
+      "cả 3 đáp án trên đều sai."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Version đầu tiên của ASTERIX CAT 21 được sử dụng trong ADS-B là :",
+    "o": [
+      "Version 0.1",
+      "Version 0.13",
+      "Version 0.23",
+      "Version 0.26"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bản tin ASTERIX CAT 21 version 2.1 có bao nhiêu trường:",
+    "o": [
+      "31",
+      "35",
+      "49",
+      "56"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Chức năng chính của Digital Signal Processing (DSP) trong máy thu ADS-B",
+    "o": [
+      "“Đóng dấu” thời gian các bản tin thông qua GPS hoặc NTP",
+      "Lưu trữ, truyền, chuyển đổi các tín hiệu số ( bao gồm cả kiểm tra sửa lỗi)",
+      "Giải mã các bản tin",
+      "Cả 3 đáp án trên"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Mã hoá bản tin sang định dạng ASTERIX được thực hiện tại phần nào trong máy thu ADS-B",
+    "o": [
+      "DP",
+      "DSP",
+      "Filter",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chức năng của bản tin ASTERIX CAT 23:",
+    "o": [
+      "Cho biết tình trạng hoạt động của máy thu ADS-B",
+      "Cho biết thông tin tọa độ tàu bay",
+      "Cho biết thông tin vị trí của máy thu",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bản tin ASTERIX CAT 23 có những version nào ",
+    "o": [
+      "0.13 và 1.2",
+      "0.23 và 1.2",
+      "1.2 và 1.3",
+      "0.23 và 2.1"
+    ],
+    "a": 0
+  },
+  {
+    "q": "SIC là chữ viết tắt của :",
+    "o": [
+      "Standard Industrial Classification",
+      "Supply Installation and Commisioning",
+      "Spacecraft Industrial Classification",
+      "System Identification Code"
+    ],
+    "a": 3
+  },
+  {
+    "q": "SAC là chữ viết tắt của:",
+    "o": [
+      "System Area Code",
+      "Surface Air Consuption",
+      "Self Adjusting Clust",
+      "Sercurity Access Console"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Để đáp ứng tiêu chuẩn Category 1 (Tier-1). Cần tối thiểu bao nhiêu máy thu :",
+    "o": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "a": 1
+  },
+  {
+    "q": "NAC là chữ viết tắt của :",
+    "o": [
+      "Navigation Accuracy Category",
+      "Network Admission Control",
+      "Navigation Access Category",
+      "Navaid Accuracy Category"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ASTERIX là chữ viết tắt của :",
+    "o": [
+      "All purpose Structured Eurocontrol Radar Information Exchange",
+      "All purpose Structured Eurocontrol Radar Intergrity Exchange",
+      "Air purpose Structured Eurocontrol Radar Information Exchange",
+      "Air purpose Structured Eurocontrol Radar Intergrity Exchange"
+    ],
+    "a": 0
+  },
+  {
+    "q": "ADS-B là chữ viết tắt của :",
+    "o": [
+      "Automatic Dependent Surveillance – Broadcast",
+      "Automation Dependence Surveillance- Broadcast",
+      "Automatic Dependencae Surveillance – Broadcast",
+      "Auto Defence Surface – Broadcast"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong thuật ngữ mode S chữ S là viết tắt của từ:",
+    "o": [
+      "Stand",
+      "Select",
+      "Source",
+      "Squitter"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để xem lại dữ liệu trên màn hình giám sát và hiển thị mục tiêu, cần sử dụng chức năng :",
+    "o": [
+      "RECORD",
+      "REPLAY",
+      "RETRY",
+      "RESET"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Ở trạng thái đang khai thác thông thường, thanh chức năng “Execution mode monitoring” ở trạng thái :",
+    "o": [
+      "ONLINE MONITORING MODE",
+      "REPLAY MONITORING MODE",
+      "LIVE MONITORING MODE",
+      "REALTIME MONITORING MODE"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Dải tần hoạt động của Anten ADS-B",
+    "o": [
+      "965-1215MHz",
+      "963-1213MHz",
+      "1070-1110MHZ",
+      "1072-1112MHz"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Giao tiếp RCMS sử dụng",
+    "o": [
+      "SNMP V1 và V2",
+      "SNMP V2 và V3",
+      "SNMP V1 và V3",
+      "SNMP V1, V2, V3"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thời gian trễ của máy thu ADS-B:",
+    "o": [
+      "< 100ms",
+      "<200ms",
+      "<400ms",
+      "<500ms"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Dải động của máy thu ADS-B",
+    "o": [
+      "≥ 50 dB",
+      "≥75dB",
+      "≥80dB",
+      "≥ 90dB"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Suy hao tại tần số 1090 ±25MHz của máy thu ADS-B:",
+    "o": [
+      "Nhỏ nhất 30dB",
+      "Nhỏ nhất 40dB",
+      "Nhỏ nhất 50dB",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Giá trị SAC của các máy thu ADS-B tại Việt Nam là bao nhiêu",
+    "o": [
+      "22",
+      "32",
+      "94",
+      "Giá trị thay đổi cho từng máy thu"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Đèn Link trên máy phát Site Monitor có ý nghĩa gì",
+    "o": [
+      "Báo trạng thái kết nối đường truyền",
+      "Báo nguồn thiết bị",
+      "Báo trạng thái phát của Site Monitor",
+      "Báo trạng thái thu được tín hiệu của Sensor"
+    ],
+    "a": 2
+  },
+  {
+    "q": "NUC là chữ viết tắt của :",
+    "o": [
+      "Navigation Uncertainty Category",
+      "Next Unit Computing",
+      "Network Unlock code",
+      "Not Under Command"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Dao động về biên độ xung giữa một xung trong tín hiệu trả lời mode S không quá:",
+    "o": [
+      "1 dB",
+      "2dB",
+      "4dB",
+      "5 dB"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ Phát đáp mode S sẽ phát các dạng trả lời sau đây. Chọn câu trả lời đúng nhất",
+    "o": [
+      "mode A và mode C",
+      "mode S",
+      "Cả 2 đáp án 1 và 2",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Phân cực của phát tín hiệu trả lời Mode S là phân cực:",
+    "o": [
+      "Đứng",
+      "Ngang",
+      "Tròn",
+      "Elip"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Đáp án nào đúng nhất khi nói về khoảng cách xung phát trong Mode S",
+    "o": [
+      "Mọi xung trả lời được bắt đầu từ bội số của 0,5 μs từ xung phát xạ đầu tiên. Sai số trong tất cả các trường hợp là ± 0,05 μs.",
+      "Mọi xung trả lời được bắt đầu từ bội số của 1 μs từ xung phát xạ đầu",
+      "Mọi xung trả lời được bắt đầu từ bội số của 0,5 μs từ xung phát xạ đầu tiên. Sai số trong tất cả các trường hợp là ± 0,1 μs.",
+      "Cả 3 đáp án trên đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trường định dạng bản tin DF có độ dài",
+    "o": [
+      "5 bit",
+      "12 bit",
+      "24 bit",
+      "112 bit"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Quy định Sai số tần số sóng mang trả lời Mode S:",
+    "o": [
+      "0.1 MHz",
+      "0.5 MHz",
+      "3 MHz",
+      "2 MHz"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tần số sóng mang của tất cả các phát hỏi (phát đường lên) từ các thiết bị trên mặt đất có khả năng mode S",
+    "o": [
+      "1020 MHz",
+      "1030 MHz",
+      "1090 MHZ",
+      "Cả 3 đáp án đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "ADS-B phát từ từ tàu bay phải bao gồm:",
+    "o": [
+      "Vị trí",
+      "Số hiệu nhận dạng và loại tàu bay",
+      "Hướng và tốc độ tàu bay",
+      "Cả 3 đáp án trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Điều chế phát tín hiệu trả lời ADS-B là:",
+    "o": [
+      "Điều chế biên độ",
+      "Điều chế không gian",
+      "Điều chế xung PPM",
+      "Đáp án 2 và 3"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ thống ADS-B trên tàu bay chia thành bao nhiêu class chính:",
+    "o": [
+      "2 Class: A, B",
+      "3 Class: A, B, C",
+      "4 Class: A, B, C, D",
+      "3 Class: A1, A2, A3"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Quy định sườn lên trong xung phát trả lời ADS-B:",
+    "o": [
+      "0.1µs hoặc thấp hơn",
+      "0.2µs hoặc thấp hơn",
+      "0.5µs hoặc thấp hơn",
+      "1µs hoặc thấp hơn"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Quy định sườn xuống trong xung phát trả lời ADS-B:",
+    "o": [
+      "0.1µs hoặc thấp hơn",
+      "0.2µs hoặc thấp hơn",
+      "0.5µs hoặc thấp hơn",
+      "1µs hoặc thấp hơn"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống ADS-B là gì?",
+    "o": [
+      "Là hệ thống giám sát phụ thuộc cho các ứng dụng không địa trong hàng không, cung cấp các thông tin nhận dạng, vị trí, độ cao, tốc độ và các thống tin khác của tàu bay một cách tự động.",
+      "Là hệ thống giám sát độc lập cho các ứng dụng không địa trong hàng không, cung cấp các thông tin nhận dạng, vị trí, độ cao, tốc độ và các thống tin khác của tàu bay một cách tự động.",
+      "Là hệ thống giám sát tự động cho các ứng dụng không địa trong hàng không, cung cấp các thông tin về góc tà trợ giúp tàu bay hạ cánh tại các sân bay.",
+      "Tất cả các đáp án trên đều sai."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Công nghệ giám sát hàng không ADS-B là chữ viết tắt của :",
+    "o": [
+      "Automatic Dependent Surveillance – Broadcast",
+      "Automation Defendence Surveillance- Broadcast",
+      "Automatic Dependencae  Surveillance – Broadcast",
+      "Auto Defence System Base."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong cụm từ ADS-B, chữ 'A' viết tắt của từ 'Automatic' (Tự động) mang ý nghĩa gì?",
+    "o": [
+      "Dữ liệu được phát tự động khi máy bay đi vào vùng phủ sóng của radar.",
+      "Máy bay tự động kết nối với vệ tinh để nhận thông tin vị trí.",
+      "Hệ thống tự động điều khiển máy bay khi gặp sự cố.",
+      "Dữ liệu được phát đi mà không cần sự can thiệp của phi công hay sự hỏi đáp từ đài mặt đất."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong chuẩn ADS-B 1090- ES, chữ S là viết tắt của từ nào sau đây:",
+    "o": [
+      "Stand",
+      "Select",
+      "Source",
+      "Squitter"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chữ 'D' trong ADS-B viết tắt của 'Dependent' (Phụ thuộc). Hệ thống này phụ thuộc vào yếu tố nào?",
+    "o": [
+      "Phụ thuộc vào điều kiện thời tiết để truyền sóng.",
+      "Phụ thuộc vào các thiết bị định vị trên tàu bay (như GPS/GNSS) để tính toán vị trí.",
+      "Phụ thuộc vào trạm radar mặt đất để tính toán cự ly.",
+      "Phụ thuộc vào nhân viên kiểm soát không lưu."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Chữ cái cuối cùng 'B' trong công nghệ giám sát hàng không ADS-B có nghĩa là gì?",
+    "o": [
+      "Dữ liệu giám sát được truyền từ trạm BTS di động.",
+      "Dữ liệu giám sát được phát quảng bá, bất kỳ thiết bị thu nào trong tầm phủ sóng đều có thể nhận được.",
+      "Hệ thống giám sát được phát triển bởi ông Bobby Robson.",
+      "Dữ liệu giám sát được phát từ tàu bay trên băng tần sóng vô tuyến B."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống ADS-B không bao gồm thành phần tiêu chuẩn nào sau đây:",
+    "o": [
+      "Thiết bị ADS-B OUT lắp trên tàu bay hoặc xe cộ hoạt động trong sân bay.",
+      "Máy thu ADS-B (đặt tại trạm ADS-B mặt đất hoặc thiết bị ADS-B IN của tàu bay).",
+      "Chuẩn kết nối dữ liệu giữa thiết bị ADS-B OUT tàu bay và máy thu ADS-B.",
+      "Hệ thống quản lý không lưu tự động (ATM)."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chuẩn kết nối dữ liệu ADS-B bao gồm:",
+    "o": [
+      "ADS-B 1090 ES.",
+      "978 MHz UAT (Universal access transceiver).",
+      "VDL-4 (VHF Digital Link Mode 4).",
+      "Tất cả các đáp án."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chuẩn kết nối dữ liệu ADS-B nào sau đây được sử dụng phổ biến trên thế giới?",
+    "o": [
+      "ADS-B 1090 ES.",
+      "978 MHz UAT (Universal access transceiver).",
+      "VDL-4 (VHF Digital Link Mode 4).",
+      "IEEE 802.11be."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chuẩn kết nối dữ liệu ADS-B nào sau đây được sử dụng cho hoạt động bay dưới mực bay FL180 tại Mỹ?",
+    "o": [
+      "ADS-B 1090 ES.",
+      "978 MHz UAT (Universal access transceiver).",
+      "VDL-4 (VHF Digital Link Mode 4).",
+      "IEEE 802.11be."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong công nghệ giám sát ADS-B, việc tính toán vị trí của tàu bay được xác định bởi:",
+    "o": [
+      "Khoảng thời gian truyền sóng từ tàu bay đến trạm mặt đất ADS-B.",
+      "Trạm mặt đất ADS-B.",
+      "Thiết bị điện tử trên tàu bay dựa trên tín hiệu định vị từ hệ thống vệ tinh.",
+      "Khoảng thời gian truyền sóng từ trạm mặt đất đến tàu bay và ngược lại."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Ưu điểm của công nghệ ADS-B:",
+    "o": [
+      "Không bị ảnh hưởng nhiều bởi địa hình, tốc độ xử lý bản tin nhanh, nhiều thông tin.",
+      "Dễ dàng lắp đặt và giá thành thấp.",
+      "Cự ly hoạt động cực đại không phụ thuộc vào thiết bị trên tàu bay.",
+      "Cả hai đáp A và B."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Tần số nào sau đây được sử dụng trong hệ thống ADS-B được phát từ tàu bay:",
+    "o": [
+      "900 MHz",
+      "1800 MHz",
+      "1090 MHz",
+      "1030 MHz"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Định nghĩa nào sau đây phù hợp đối với ADS-B OUT:",
+    "o": [
+      "Là một bộ phát quảng bá các tín hiệu với tần số làm việc 1090MHz, bộ phát quảng bá này phát 2 lần/s các bản tin về thông tin hàng không.",
+      "Là một bộ phát quảng bá các tín hiệu với tần số làm việc 1030MHz, bộ phát quảng bá này phát 1 lần/s các bản tin về thông tin hàng không.",
+      "Là màn hình hiển thị thông tin về hoạt động hàng không được lắp trên buồng lái của tàu bay.",
+      "Cả hai đáp án A và B."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Giữa radar giám sát thứ cấp (SSR) truyền thống và ADS-B có sự khác biệt cơ bản nào sau đây?",
+    "o": [
+      "SSR cần 'hỏi' (interrogate) để tàu bay 'trả lời', còn thiết bị ADS-B trên tàu bay tự phát không cần tín hiệu hỏi.",
+      "SSR đặt trên mặt đất còn máy thu ADS-B đặt trên vệ tinh.",
+      "Radar có độ chính xác cự ly nhỏ hơn và phát hiện nhiều mục tiêu hơn ADS-B vì nó không phụ thuộc vào GPS.",
+      "Radar có cự ly hoạt động lớn hơn ADS-B."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Ưu điểm của công nghệ giám sát ADS-B so với công nghệ giám sát radar thứ cấp (SSR) là gì?",
+    "o": [
+      "Trạm thu mặt đất ADS-B nhỏ gọn và không cần hạ tầng phức tạp như radar nên dễ dàng triển khai ở các khu vực có địa hình phức tạp như vùng núi cao và đại dương.",
+      "Máy thu ADS-B tiêu thụ điện năng nhỏ hơn nhiều so với thiết bị SSR.",
+      "Không cần cơ cấu quay anten.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Nhược điểm của công nghệ giám sát ADS-B so với công nghệ giám sát radar thứ cấp (SSR) là gì?",
+    "o": [
+      "Dữ liệu về vị trí của tàu bay phụ thuộc vào hệ thống định vị vệ tinh và Rủi ro về nguy cơ bị giả mạo tín hiệu (spoofing).",
+      "Phụ thuộc vào thiết bị điện tử trên tàu bay.",
+      "Cự ly hoạt động cực đại của ADS-B nhỏ hơn SSR.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Yếu tố nào sau đây ảnh hưởng đến sai số cho vị trí tàu bay trong bản tin ADS-B?",
+    "o": [
+      "Phi công nói không rõ.",
+      "Số lượng vệ tinh mà hệ thống định vị của tàu bay thu được.",
+      "Anten thu của trạm mặt đất ADS-B bị che khuất.",
+      "Tốc độ của tàu bay."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong bản tin Extended Squitter DF 17 có bao nhiêu bit mang dữ liệu ADS-B?",
+    "o": [
+      "24",
+      "112",
+      "56",
+      "64"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Đối với các tàu bay dân dụng, định dạng tuyến xuống (DF) của giám sát mode S nào được được máy bay sử dụng để truyền dữ liệu ADS-B:",
+    "o": [
+      "DF 5",
+      "DF 21",
+      "DF 17",
+      "Đáp án B và C."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Đối với bản tin tuyến xuống giám sát mode S, thành phần nào của bản tin quy định dạng (DF) của bản tin:",
+    "o": [
+      "5 bit cuối cuối cùng của bản tin.",
+      "5 bit đầu tiên của bản tin.",
+      "Bit đầu tiên của 8 bit điều khiển.",
+      "Không có đáp án nào đúng."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong cấu trúc bản tin ADS-B theo định dạng DF17, trường dữ liệu nào chứa thông tin trạng thái cốt lõi của ADS-B (như tọa độ, vận tốc, hô hiệu (Callsign của tàu bay)?",
+    "o": [
+      "Trường AA (Aircraft Address).",
+      "Trường CA (Capability).",
+      "Trường ME (Message Extended Squitter).",
+      "Trường PI (Parity/Interrogator Identifier)."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mã định danh duy nhất (địa chỉ ICAO 24-bit) của tàu bay nằm ở trường nào trong bản tin DF17?",
+    "o": [
+      "Trường DF.",
+      "Trường CA.",
+      "Trường AA.",
+      "Trường PI."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trường PI chiếm 24 bit cuối cùng của bản tin DF17 phục vụ mục đích kỹ thuật nào?",
+    "o": [
+      "Mã hóa bảo mật thông tin hành khách.",
+      "Đồng bộ thời gian nano giây giữa các trạm thu.",
+      "Phát hiện và sửa lỗi bit qua thuật toán kiểm tra độ dư vòng (CRC).",
+      "Định vị tọa độ dự phòng khi mất GPS."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bản tin ADS-B mang thông tin vị trí tàu bay được phát quảng bá với chu kỳ nào sau đây:",
+    "o": [
+      "1 s.",
+      "0,5 s.",
+      "5 s.",
+      "12 s."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bản tin ADS-B mang thông tin nhận dạng tàu bay (Callsign) được phát quảng bá với chu kỳ nào sau đây:",
+    "o": [
+      "1 s.",
+      "0,5 s.",
+      "5 s.",
+      "12 s."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Cấu trúc bản tin ADS-B định dạng DF17 tiêu chuẩn gồm tổng cộng bao nhiêu bit và được chia thành mấy trường thông tin chính?",
+    "o": [
+      "56 bit và được chia thành 4 trường thông tin chính CA, AA, ME và PI.",
+      "56 bit và được chia thành 5 trường thông tin chính DF, CA, AA, ME và PI.",
+      "112 bit và được chia thành 5 trường thông tin chính DF, CA, AA, ME và PI.",
+      "112 bit và được chia thành 4 trường thông tin chính CA, AA, ME và PI."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tiêu chuẩn tính năng khai thác tối thiểu (MOPS) nào sau đây được áp dụng cho ADS-B 1090 ES",
+    "o": [
+      "RTCA DO-260 (Version 0)",
+      "RTCA DO-260A (Version 1)",
+      "RTCA DO-260B (Version 2)",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chỉ số NUC (Navigation Uncertainty Category) được sử dụng trong tiêu chuẩn là tiêu chuẩn yêu cầu kỹ thuật đối với hệ thống giám sát hàng không ADS-B nào sau đây:",
+    "o": [
+      "RTCA DO-260A (Version 1)",
+      "RTCA DO-260B (Version 2)",
+      "RTCA DO-260 (Version 0)",
+      "RTCA DO-260C (Version 3)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Chức năng chính của máy thu ADS-B:",
+    "o": [
+      "Nhận tín hiệu 1090MHz, giải mã và gán nhãn thời gian cho bản tin ADS-B từ tàu bay và truyền bản tin sau khi xử lý theo định dạng ASTERIX tới các đầu cuối.",
+      "Nhận tín hiệu 1090MHz, xử lý bản tin ADS-B và truyền bản tin sau khi xử lý theo định dạng DF17 tới các đầu cuối.",
+      "Nhận tín hiệu 1090MHz, xử lý bản tin ADS-B và truyền bản tin sau khi xử lý theo định dạng DF18 tới các đầu cuối.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong bản tin dữ liệu giám sát ADS-B, chỉ số NUC là chữ viết tắt của :",
+    "o": [
+      "Navigation Uncertainty Category",
+      "Next Unit Computing",
+      "Network Unlock code",
+      "Not Under Command"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong bản tin dữ liệu giám sát ADS-B, chỉ số HPL là chữ viết tắt của :",
+    "o": [
+      "Horizontal Protection Limit",
+      "High Pressure Limitt",
+      "High Performance Limit",
+      "High Protection Limit"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong bản tin dữ liệu giám sát ADS-B, chỉ số SIL là chữ viết tắt của :",
+    "o": [
+      "Safety Integrity Level",
+      "Speech Interface Level",
+      "Sound Interface Level",
+      "Surveillance Integrity Level"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong bản tin dữ liệu giám sát ADS-B, chỉ số NAC là chữ viết tắt của :",
+    "o": [
+      "Navigation Accuracy Category",
+      "Network Admission Control",
+      "Navigation Access Category",
+      "Navaid Accuracy Category"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Địa chỉ ICAO của mỗi tàu bay trong một bản tin ADS-B có số bit là:",
+    "o": [
+      "24 bit",
+      "56 bit",
+      "64 bit",
+      "128 bit"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chuẩn trao đổi dữ liệu giữa các hệ thống ASTERIX là chữ viết tắt của :",
+    "o": [
+      "All purpose Structured Eurocontrol Radar Information Exchange",
+      "All purpose Structured Eurocontrol Radar Intergrity Exchange",
+      "Air purpose Structured Eurocontrol Radar Information Exchange",
+      "Air purpose Structured Eurocontrol Radar Intergrity Exchange"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các bản tin mang dữ liệu ADS-B truyền tới các hệ thống xử lý dữ liệu (ATM) theo định dạng ASTERIX nào sau đây:",
+    "o": [
+      "Category 21.",
+      "Category 48.",
+      "Category 17.",
+      "Category 10."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các bản tin đầu ra hệ thống ADS-B truyền tới đầu cuối sử dụng có thể theo các định dạng ASTERIX nào sau đây:",
+    "o": [
+      "CAT 21, 23, 247.",
+      "CAT 19, 20, 21.",
+      "CAT 19, 20, 247.",
+      "CAT 20, 21, 247."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy ước của ICAO về giám sát hàng không, SIC là chữ viết tắt của :",
+    "o": [
+      "Standard Industrial Classification.",
+      "Supply Installation and Commisioning.",
+      "Spacecraft Industrial Classification.",
+      "System Identification Code."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Hiện nay, điểm hạn chế lớn nhất của ADS-B lắp đặt trên vệ tinh (Space-based) so với ADS-B lắp đặt trên mặt đất là gì?",
+    "o": [
+      "Không thể thu được tín hiệu ở vùng đại dương.",
+      "Yêu cầu tàu bay phải lắp thêm anten đặc biệt hướng lên trời.",
+      "Độ trễ dữ liệu (latency) cao hơn do khoảng cách truyền tín hiệu xa và qua nhiều trạm trung chuyển.",
+      "Chỉ thu được tín hiệu từ các tàu bay quân sự."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tại sao việc triển khai ADS-B tại Mỹ sử dụng 2 chuẩn kết nối (1090 ES tại và trên FL180 và 978 MHz UAT ở dưới FL180) giữa thiết bị phát ADS-B và thiết bị thu ADS-B trong khi hầu hết thế giới chỉ dùng 1090 ES?",
+    "o": [
+      "Vì cự ly hoạt động của máy thu ADS-B ở tần số 978 MHz UAT có thể truyền ở cự ly xa hơn.",
+      "Do các hãng hàng không Mỹ không muốn nâng cấp lên máy trả lời Mode S.",
+      "Để giảm tải cho băng tần 1090 MHz vốn đã quá tải (nhiều máy bay sử dụng) và cung cấp các dịch vụ dữ liệu miễn phí (FIS-B/TIS-B) của tàu bay.",
+      "Vì tần số UAT tại Mỹ không bị ảnh hưởng bởi can nhiễu vệ tinh."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bản tin ASTERIX CAT 21 version 2.1 không chứa nhóm dữ liệu nào sau đây:",
+    "o": [
+      "Mã nhận dạng hệ thống giám sát (SIC).",
+      "Cấu hình anten của trạm mặt đất ADS-B.",
+      "Tọa độ WGS-84 của tàu bay.",
+      "Mã nhận dạng 3/A của tàu bay."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nhận định nào sau đây là không đúng về bản tin ASTERIX CAT 21 version 2.1?",
+    "o": [
+      "Bản tin ASTERIX CAT 21 version 2.1 gồm các mục thông tin: Tọa độ WGS-84 của tàu bay, nhận dạng tàu bay (Target Identification), địa chỉ tàu bay (AA), Mã nhận dạng 3/A của tàu bay, phân loại tàu bay theo trọng tải.",
+      "Bản tin ASTERIX CAT 21 version 2.1 gồm các mục thông tin: Tọa độ WGS-84 của tàu bay, nhận dạng tàu bay (Target Identification), địa chỉ tàu bay (AA), các chỉ số chất lượng NUC hoặc NAC, NIC, phân loại tàu bay theo trọng tải.",
+      "Bản tin ASTERIX CAT 21 version 2.1 gồm các mục thông tin: Tọa độ WGS-84 của tàu bay, nhận dạng tàu bay (Target Identification), cự ly của tàu bay so với trạm mặt đất ADS-B, phân loại tàu bay theo trọng tải.",
+      "Bản tin ASTERIX CAT 21 version 2.1 gồm các mục thông tin: Tọa độ WGS-84 của tàu bay, nhận dạng tàu bay (Target Identification), địa chỉ tàu bay (AA). Độ cao lựa chọn của tổ lái (Selected Altitude), phân loại tàu bay theo trọng tải."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Điều gì xảy ra đối với giám sát ADS-B nếu tàu bay không thu được máy bay nếu hệ thống định vị (GPS) trên tàu bay bị lỗi hoặc tín hiệu GNSS bị can nhiễu?",
+    "o": [
+      "Thiết bị ADS-B OUT của tàu bay không phát bản tin ADS-B.",
+      "Màn hình giám sát ADS-B vẫn hiển thị mục tiêu tàu bay với mã nhận dạng (Callsign) được cấp cho chuyến bay nhưng chỉ số về độ chính xác và độ tin cậy vị trí trong bản tin ADS-B bằng 0 hoặc dữ liệu vị trí bị bỏ trống.",
+      "Màn hình đầu cuối giám sát ADS-B không hiển thị mục tiêu tàu bay.",
+      "Màn hình giám sát ADS-B vẫn hiển thị mục tiêu ADS-B với địa chỉ tàu bay (AA) nhưng không có mã nhận dạng (Callsign) được cấp cho chuyến bay và chỉ số về độ chính xác và độ tin cậy vị trí trong bản tin ADS-B luôn bằng 5."
+    ],
+    "a": 1
+  }
+]

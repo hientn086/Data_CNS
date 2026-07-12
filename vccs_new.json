@@ -1,0 +1,4429 @@
+[
+    {
+        "q": "Tín hiệu liên tục theo thời gian (Continuous - Time Signal) là tín hiệu:",
+        "o": [
+            "Có biên độ liên tục.",
+            "Có biến độc lập (thời gian) liên tục.",
+            "Có biên độ rời rạc"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tín hiệu được lấy mẫu (Sampled signal) là tín hiệu.",
+        "o": [
+            "Rời rạc (Discrete Signal)",
+            "Có thể biểu diễn bằng một dãy số",
+            "Cả 1 và 2"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tín hiệu tương tự (Analog signal) là tín hiệu.",
+        "o": [
+            "Liên tục về mặt thời gian",
+            "Liên tục về mặt thời gian và biên độ",
+            "Liên tục về mặt biên độ"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Quá trình lấy mẫu tín hiệu là quá trình.",
+        "o": [
+            "Chuyển đổi các tín hiệu liên tục thành tín hiệu rời rạc",
+            "Biến đổi độ lớn biên độ các xung thành một chuỗi số đo nhị phân tương ứng.",
+            "Khuyếch đại tín hiệu"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tín hiệu được lượng tử hoá là.",
+        "o": [
+            "Tín hiệu tương tự có biên độ rời rạc hoá.",
+            "Tín hiệu có biên độ liên tục.",
+            "Tín hiệu số."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Lượng tử tuyến tính là.",
+        "o": [
+            "Phép chia dải biên độ thành các mức lượng tử bằng nhau.",
+            "Phép khắc phục méo lượng tử.",
+            "Phép nén tín hiệu theo một quy luật đường cong không đều"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Lượng tử phi tuyến là.",
+        "o": [
+            "Phép chia dải biên độ thành các mức lượng tử bằng nhau.",
+            "Phép khắc phục méo lượng tử.",
+            "Phép nén tín hiệu theo một quy luật đường cong không đều"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Mã hoá là quá trình.",
+        "o": [
+            "Rời rạc hoá tín hiệu.",
+            "Biến đổi độ lớn biên độ các xung thành một chuỗi số đo nhị phân tương ứng.",
+            "Biến đổi các từ mã thành các xung rời rạc có giá trị biên độ tương ứng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tín hiệu số (digital signal) là tín hiệu.",
+        "o": [
+            "Rời rạc (theo biến độc lập thời gian) và có biên độ được rời rạc hoá (lượng tử hoá)",
+            "Rời rạc về mặt biên độ và liên tục về mặt thời gian.",
+            "Liên tục về mặt thời gian và biên độ"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Nhiễu lượng tử là:",
+        "o": [
+            "Sai số giữa tín hiệu đã được lượng tử và tín hiệu lấy mẫu.",
+            "Sai số giữa tín hiệu tương tự và tín hiệu rời rạc.",
+            "Nhiễu ngẫu nhiên."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tỷ số tín hiệu trên nhiễu lượng tử SQNR trong hệ thống PCM:",
+        "o": [
+            "Tỷ lệ nghịch với biên độ tín hiệu.",
+            "Tỷ lệ thuận với biên độ tín hiệu.",
+            "Phụ thuộc vào mức tín hiệu ngõ vào"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để lấy mẫu tín hiệu dải gốc có tần số fmax người ta phải dùng xung lấy mẫu có tần số fs",
+        "o": [
+            "fs >=2fmax",
+            "fs <=2fmax",
+            "fs = fmax"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Để có thể mã hoá một mức lượng tử thành một từ mã n bit thì số mức lượng tử N phải là",
+        "o": [
+            "N = n2",
+            "N = 2n",
+            "N = 2/n"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phương thức lượng tử phi tuyến dùng luật nén A được sử dụng cho hệ thống PCM ở Bắc Mỹ và Nhật Bản, hệ thống này được xác định bởi những phương trình:",
+        "o": [
+            "A",
+            "B",
+            "C"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phương thức lượng tử phi tuyến dùng luật nén µ được sử dụng cho hệ thống PCM ở Châu Âu, hệ thống này được xác định bởi những phương trình:",
+        "o": [
+            "A",
+            "B",
+            "C"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Mã nhị phân có độ dài N bit có thể biểu diễn được bao nhiêu mức lượng tử M:",
+        "o": [
+            "M= 2N",
+            "M= 2N-1",
+            "M= 22N"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Ghép kênh (Multiplexing) là quá trình:",
+        "o": [
+            "Hợp nhất các tín hiệu độc lập thành một tín hiệu tổ hợp, để truyền trên một đường truyền.",
+            "Tách các tín hiệu độc lập.",
+            "Đồng bộ tín hiệu."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Nguyên lý ghép kênh phân chia theo thời gian TDM",
+        "o": [
+            "Mỗi luồng số được truyền đi trên một tần số nhất định.",
+            "Mỗi luồng số được phân chia thành từng khe thời gian.",
+            "Mỗi luồng số được truyền đi trên một dải tần phụ."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phân cấp ghép kênh PDH hệ Châu Âu sử dụng PCM – 30 trong đó số khe thời gian là",
+        "o": [
+            "24",
+            "30",
+            "32"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Phân cấp ghép kênh PDH hệ Châu Âu sử dụng PCM – 30 trong đó số khe thời gian dùng để truyền tiếng là",
+        "o": [
+            "24",
+            "30",
+            "32"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hệ thống PCM 30 (2048kbps) có tốc độ của một luồng nhánh là:",
+        "o": [
+            "128 Kbps",
+            "64Kbps",
+            "32Kbps"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Theo khuyến nghị ITU-T G.711 hệ thống điện thoại số chuẩn (Băng cơ bản 3,1 kHz) có tần số lấy mẫu là:",
+        "o": [
+            "6,2 KHz",
+            "8 KHz",
+            "16 KHz"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hệ thống điện thoại số chuẩn (Băng cơ bản 3,1 kHz) lượng tử hóa theo chuẩn nào:",
+        "o": [
+            "Chuẩn A",
+            "Chuẩn m",
+            "Chuẩn A hoặc chuẩn m tùy theo vùng"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tốc độ dòng bit của hệ thống E1 là:",
+        "o": [
+            "1544 Kbps.",
+            "2048 Kbps.",
+            "8192 Kbps."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trở kháng đường dây đặc trưng của luồng E1 có thể là?",
+        "o": [
+            "120 Ohm / 75 Ohm.",
+            "110 Ohm/ 75 Ohm.",
+            "100 Ohm / 75 Ohm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Đồng bộ mạng là quá trình làm cho các đồng hồ của một mạng đạt đến các trạng thái có:",
+        "o": [
+            "Cùng tốc độ bit",
+            "Cùng pha",
+            "Tốc độ bit và pha giống nhau"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trượt (slip) là gì?",
+        "o": [
+            "Sự lặp lại một hay một số các bít nối tiếp.",
+            "Sự xoá đi một hay một số các bít nối tiếp.",
+            "Sự lặp lại hoặc xoá đi một hay một số các bít nối tiếp."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tạp âm ngẫu nhiên (nhiễu trắng) là:",
+        "o": [
+            "Những thăng giáng điện áp hay dòng điện đột ngột.",
+            "Nhiễu do tín hiệu bị chồng phổ.",
+            "Tạp âm tạo ra do sự chuyển động nhiệt của điện tử."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Jitter là:",
+        "o": [
+            "Trạng thái mất đồng bộ của luồng dữ liệu",
+            "Sự biến đổi ngắn hạn của tín hiệu số so với vị trí lý tưởng trên trục thời gian",
+            "Sự biến đổi dài hạn của tín hiệu số so với vị trí lý tưởng trên trục thời gian"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Dữ liệu E1 được cấu trúc từ các khung (Frame) có độ dài 256 bits thành dòng dữ liệu theo thời gian, được truyền đi với tốc độ bao nhiêu khung một giây?",
+        "o": [
+            "8.000",
+            "10.000",
+            "12.000"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Công nghệ ISDN là gì?",
+        "o": [
+            "Dịch vụ mạng số tích hợp.",
+            "Mạng số tích hợp đa dịch vụ.",
+            "Đa dịch vụ trên mạng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong giao diện BRI của công nghệ ISDN dung lượng các kênh thông tin mang (Bear channel) có tốc độ là:",
+        "o": [
+            "64 Kbps",
+            "32 Kbps",
+            "128 Kbps"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong giao diện BRI của công nghệ ISDN dung lượng các kênh thông tin báo hiệu (D channel) có tốc độ là:",
+        "o": [
+            "16 Kbps",
+            "64 Kbps",
+            "32 Kbps"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong giao diện PRI của công nghệ ISDN theo tiêu chuẩn Bắc mỹ (1544 Kbps) bao gồm",
+        "o": [
+            "30B+1D",
+            "23B+1D",
+            "24B+1D"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong giao diện PRI của công nghệ ISDN theo tiêu chuẩn châu âu (2048 Kbps) bao gồm",
+        "o": [
+            "30B+1D",
+            "23B+1D",
+            "24B+1D"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong giao diện PRI của công nghệ ISDN dung lượng các kênh thông tin báo hiệu (D channel) có tốc độ là:",
+        "o": [
+            "16 Kbps",
+            "64 Kbps",
+            "32 Kbps"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Mạng chuyển mạch cuộc gọi thường dùng giao thức E1 – MFC R2 hay ISDN (PRI/BRI) khi kết nối nội bộ hoặc với mạng PSTN?",
+        "o": [
+            "Đúng",
+            "Sai"
+        ],
+        "a": 0
+    },
+    {
+        "q": "VoIP (Voice over Internet Protocol) là:",
+        "o": [
+            "Công nghệ chuyển mạch gói dựa trên giao thức TCP/IP.",
+            "Công nghệ truyền giọng nói của con người qua mạng máy tính dựa trên giao thức TCP/IP.",
+            "Sự truyền thoại dựa trên giao thức IP."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VoIP sử dụng công nghệ nào sau đây:",
+        "o": [
+            "Công nghệ chuyển mạch kênh.",
+            "Công nghệ chuyển mạch gói.",
+            "Công nghệ chuyển mạch bản tin."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Báo hiệu SIP nằm ở lớp nào của mô hình OSI?",
+        "o": [
+            "Session",
+            "Network",
+            "Presentation",
+            "Application"
+        ],
+        "a": 3
+    },
+    {
+        "q": "VCCS được kết nối đến thiết bị VHF/HF theo tiêu chuẩn giao tiếp ED137B theo phương thức nào?",
+        "o": [
+            "Điểm - Điểm",
+            "Điểm - Đa điểm",
+            "Vòng",
+            "Hình sao"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Ưu điểm của VOIP so với điện thoại thông thường:",
+        "o": [
+            "Chi phí thấp, chia sẻ tài nguyên mạng với các ứng dụng khác.",
+            "Dễ dàng quản lý và có khả năng tích hợp cao.",
+            "Tất cả các phương án trên đều đúng."
+        ],
+        "a": 2
+    },
+    {
+        "q": "VoIP sử dụng giao thức nào sau đây để thiết lập, duy trì, và huỷ cuộc gọi?",
+        "o": [
+            "Giao thức RTP (Real-time Transport Protocol).",
+            "Giao thức SIP (Session Initiation Protocol) hay H.323.",
+            "Cả hai phương án trên đều đúng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chất lượng dịch vụ (QoS) trong VOIP phụ thuộc vào các yếu tố:",
+        "o": [
+            "Băng thông, độ trễ, Packet loss, và Jitter.",
+            "Băng thông, Jitter, và giao thức được sử dụng.",
+            "Độ trễ và Jitter."
+        ],
+        "a": 0
+    },
+    {
+        "q": "VoIP hoạt động dựa trên mô hình truyền thông:",
+        "o": [
+            "Peer-to-Peer (mạng ngang hàng).",
+            "Client/Server (Máy khách/máy chủ).",
+            "Cả hai phương án trên đều đúng."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Phát biểu sau đây đúng hay sai? Một thiết bị VCCS có khả năng kết nối nhiều máy thu/phát VHF/HF đồng thời.",
+        "o": [
+            "Đúng",
+            "Sai"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi thực hiện cấu hình VCCS để kết nối tới thiết bị vô tuyến có IP là 192.168.1.5 và port là 5060, địa chỉ và port được ghi tại mục nào trong file cấu hình?",
+        "o": [
+            "Gateway Address / Port.",
+            "Destination Address / Port.",
+            "SIP Server Address / Port.",
+            "Peer Address / Port."
+        ],
+        "a": 3
+    },
+    {
+        "q": "SIP được viết tắt của:",
+        "o": [
+            "Session Initiation Protocol",
+            "Standard Internet Protocol",
+            "Synchronous Internet Protocol",
+            "Secure Internet Protocol"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khái niệm “Trễ gói” trong truyền dẫn VoIP là gì?",
+        "o": [
+            "Thời gian truyền một gói dữ liệu từ nguồn đến đích.",
+            "Thời gian chênh lệch khi truyền các gói dữ liệu từ nguồn đến đích.",
+            "Thời gian xử lý một gói dữ liệu tại thiết bị nhận.",
+            "Số lượng gói dữ liệu bị mất trong quá trình truyền dẫn."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khái niệm “Jitter gói” trong truyền dẫn VoIP là gì?",
+        "o": [
+            "Thời gian truyền một gói dữ liệu từ nguồn đến đích.",
+            "Thời gian chênh lệch khi truyền các gói dữ liệu từ nguồn đến đích.",
+            "Thời gian xử lý một gói dữ liệu tại thiết bị nhận.",
+            "Số lượng gói dữ liệu bị mất trong quá trình truyền dẫn."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tiêu chuẩn kỹ thuật dùng để cấu hình truyền thoại từ VCCS tới các đài vô tuyến là gì?",
+        "o": [
+            "ED-137B",
+            "ED-137C",
+            "Giao thức SIP",
+            "Giao thức RTP"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Băng thông tối thiểu của một cuộc gọi VoIP với Codec G.711 là bao nhiêu?",
+        "o": [
+            "16 kbps",
+            "32 kbps",
+            "64 kbps",
+            "128 kbps"
+        ],
+        "a": 2
+    },
+    {
+        "q": "VoIP được định tuyến bởi loại thiết bị nào trong mạng máy tính?",
+        "o": [
+            "Switch",
+            "Router",
+            "Hub",
+            "Modem"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Công nghệ nào thường được dùng để giải quyết vấn đề độ trễ (latency) của mạng IP?",
+        "o": [
+            "Chất lượng Dịch vụ (QoS)",
+            "Chuyển Mạch (Switching)",
+            "Lựa Chọn Mạng Định Tuyến (Routing)",
+            "Cân Bằng Tải (Load Balancing)"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tiêu chuẩn kỹ thuật ED137 quy định tham số nào cho các bản tin thoại vô tuyến và thoại nội bộ/điện thoại?",
+        "o": [
+            "Mã DSCP/TOS",
+            "MTU",
+            "Độ rộng băng thông",
+            "Tất cả các phương án trên"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Theo tiêu chuẩn ED137B, bản tin thoại vô tuyến được gán mã DSCP (Differentiated Services Code Point) mặc định là gì?",
+        "o": [
+            "0",
+            "24",
+            "46 (EF)",
+            "56 (CS7)"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tần số (Frequency) là gì?",
+        "o": [
+            "Số dao động lặp lại trong 1 khoảng thời gian",
+            "Khoảng thời gian trong 1 chu kỳ",
+            "Vận tốc chuyển động của điện tử trong không gian",
+            "Tất cả đều sai"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Quá trình phân giải tên miền thành địa chỉ IP được thực hiện bởi giao thức nào?",
+        "o": [
+            "DNS (Domain Name System)",
+            "DHCP (Dynamic Host Configuration Protocol)",
+            "FTP (File Transfer Protocol)",
+            "HTTP (Hypertext Transfer Protocol)"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Giao thức nào cho phép máy tính nhận địa chỉ IP tự động từ máy chủ mạng?",
+        "o": [
+            "DNS",
+            "DHCP",
+            "FTP",
+            "HTTP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi thực hiện cấu hình VCCS để kết nối tới thiết bị vô tuyến có IP là 192.168.1.5 và port là 5060, địa chỉ và port được ghi tại mục nào trong file cấu hình?",
+        "o": [
+            "Gateway Address / Port.",
+            "Destination Address / Port.",
+            "SIP Server Address / Port.",
+            "Peer Address / Port."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Bản chất của tín hiệu cao tần trong máy phát AM (Amplitude Modulation):",
+        "o": [
+            "Đóng vai trò là sóng mang để mang tín hiệu âm tần đi xa.",
+            "Cung cấp tín hiệu để khuếch đại thành tín hiệu âm tần.",
+            "Cung cấp tín hiệu để khuếch đại tín hiệu điều chế ra Anten.",
+            "Tất cả đều đúng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Công dụng của mạch Modulator trong thiết bị phát AM (Amplitude Modulation) dùng để làm gì?",
+        "o": [
+            "Sửa dạng tín hiệu âm tần và cao tần trước khi khuếch đại lên Anten.",
+            "Trộn tín hiệu âm tần và tín hiệu cao tần với nhau trước khi khuếch đại lên Anten.",
+            "Tách tín hiệu âm tần ra khỏi tín hiệu cao tần.",
+            "Khuếch đại tín hiệu cao tần."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Máy phát HF/VHF dùng trong điều hành bay hiện nay thường là thiết bị điều chế loại gì?",
+        "o": [
+            "SSB (Single-Sideband Modulation) / FM (Frequency Modulation)",
+            "FM (Frequency Modulation) / SSB (Single-Sideband Modulation)",
+            "SSB (Single-Sideband Modulation) / AM (Amplitude Modulation)",
+            "AM (Amplitude Modulation) / SSB (Single-Sideband Modulation)"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Một trạm VHF Air-Ground sử dụng tần số 118,1 MHz. Dải tần số này thuộc băng tần:",
+        "o": [
+            "LF",
+            "HF",
+            "VHF",
+            "UHF"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Trở kháng đầu ra của máy phát VHF thường được thiết kế là bao nhiêu ohm?",
+        "o": [
+            "50",
+            "75",
+            "300",
+            "600"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Bước sóng của tín hiệu VHF có tần số 118MHz là khoảng bao nhiêu mét? (Giả sử tốc độ ánh sáng là 3x10^8 m/s)",
+        "o": [
+            "2.54",
+            "1.27",
+            "0.85",
+            "1.85"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong máy phát VHF, công suất RF đo được trên đường truyền cáp anten (VSWR) dùng để đánh giá điều gì?",
+        "o": [
+            "Công suất phát trực tiếp của máy",
+            "Mức độ tổn hao tín hiệu trên đường truyền",
+            "Sự phối hợp trở kháng giữa máy phát và hệ thống anten",
+            "Độ nhạy thu của máy thu"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Công suất danh định của một thiết bị thu phát VHF thông thường dùng trong điều hành bay dân dụng thường nằm trong khoảng nào?",
+        "o": [
+            "1-5W",
+            "10-50W",
+            "100-500W",
+            "1000-5000W"
+        ],
+        "a": 1
+    },
+    {
+        "q": "VSWR lớn hơn 1.5 thường chỉ ra điều gì về hệ thống ăng-ten?",
+        "o": [
+            "Tín hiệu thu/phát không bị phản xạ trên đường truyền.",
+            "Hiệu suất truyền năng lượng lên ăng-ten tối đa.",
+            "Ăng-ten không bị hỏng hóc hay chập.",
+            "Mức độ phối hợp trở kháng giữa máy phát và ăng ten chưa tốt."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Tham số SINAD được sử dụng để đánh giá điều gì?",
+        "o": [
+            "Công suất phát của máy phát.",
+            "Độ nhạy của máy thu.",
+            "Mức độ nhiễu của môi trường truyền sóng.",
+            "Sự phản xạ của sóng điện từ trên ăng ten."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Độ nhạy của máy thu vô tuyến (SENSITIVITY) được định nghĩa là:",
+        "o": [
+            "Khả năng triệt tín hiệu nhiễu",
+            "Sức điện động nhỏ nhất cảm ứng trên Anten để máy thu đạt được một công suất và tỉ số S/N nhất định",
+            "Khả năng thu và làm việc ổn định trên dải tần công tác",
+            "Khả năng thu và làm việc không ổn định trên dải tần công tác"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Độ chọn lọc của máy thu vô tuyến (SELECTIVITY) được định nghĩa là:",
+        "o": [
+            "Khả năng loại bỏ những tín hiệu ngoài băng thông mong muốn.",
+            "Khả năng khuếch đại tín hiệu thu",
+            "Khả năng điều chỉnh tần số thu",
+            "Khả năng giải điều chế tín hiệu"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Độ nhạy thu tốt có nghĩa là:",
+        "o": [
+            "Máy thu có thể bắt được các tín hiệu rất yếu.",
+            "Máy thu có thể phân biệt được các tín hiệu liền kề nhau về tần số.",
+            "Máy thu có thể loại bỏ được các nhiễu mạnh.",
+            "Máy thu có thể hoạt động ở nhiều băng tần khác nhau."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Sóng VHF trong điều hành bay truyền lan chủ yếu bằng hình thức nào?",
+        "o": [
+            "Sóng đất (Ground wave)",
+            "Sóng trời (Sky wave)",
+            "Sóng trực tiếp/sóng không gian (Space wave/Line-of-sight)",
+            "Sóng phản xạ (Reflected wave)"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Phát biểu nào sau đây ĐÚNG khi nói về đặc tính truyền sóng VHF trong liên lạc hàng không?",
+        "o": [
+            "Sóng VHF ít bị ảnh hưởng bởi nhiễu khí quyển (như sấm sét) hơn sóng HF.",
+            "Sóng VHF có thể truyền lan theo đường cong của Trái Đất, giúp liên lạc được ở khoảng cách rất xa.",
+            "Sóng VHF bị suy hao nhiều khi truyền qua mây mù, mưa lớn.",
+            "Khoảng cách liên lạc VHF không phụ thuộc vào độ cao của máy bay và ăng-ten trạm mặt đất."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khoảng cách liên lạc VHF giữa trạm mặt đất và máy bay phụ thuộc chủ yếu vào yếu tố nào?",
+        "o": [
+            "Công suất phát của trạm mặt đất.",
+            "Tần số đang sử dụng.",
+            "Độ cao của ăng-ten trạm mặt đất và độ cao của máy bay (line-of-sight).",
+            "Điều kiện thời tiết (mây, mưa, sương mù)."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Chức năng Squelch (chống ồn) trong máy thu VHF có tác dụng gì?",
+        "o": [
+            "Khuếch đại tín hiệu yếu",
+            "Cắt giảm nhiễu nền khi không có tín hiệu thoại",
+            "Tự động dò tần số",
+            "Tăng công suất phát"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tại sao phải chỉnh Squelch Threshold (ngưỡng Squelch)?",
+        "o": [
+            "Để máy thu có thể bắt được các tín hiệu yếu hơn mức nhiễu nền.",
+            "Để tránh tình trạng Squelch bị mở liên tục do nhiễu nền thay đổi.",
+            "Để máy thu tự động tìm kiếm kênh rảnh.",
+            "Để tăng âm lượng của tín hiệu nhận được."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VHF sử dụng trong Hàng không có giãn cách kênh (channel spacing) bằng:",
+        "o": [
+            "25 Khz",
+            "8,33 Khz",
+            "50 Khz",
+            "Cả A, B đều đúng"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Băng tần VHF sử dụng cho liên lạc Không - Địa là:",
+        "o": [
+            "108 Mhz - 118 Mhz",
+            "118 Mhz - 137 Mhz",
+            "118 Mhz - 136 Mhz",
+            "108 Mhz - 137 Mhz"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Một hệ thống cung cấp điện thông thường cho một trạm/thiết bị viễn thông không bao gồm phần nào sau đây:",
+        "o": [
+            "Nguồn điện lưới",
+            "Hệ thống phát điện dự phòng",
+            "Hệ thống lưu điện UPS (Uninterruptible Power Supply)/DC Supply",
+            "Thiết bị hạ áp"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Trong hệ thống cung cấp điện UPS là từ viết tắt của?",
+        "o": [
+            "Nguồn cung cấp điện xoay chiều",
+            "Nguồn cung cấp điện một chiều",
+            "Nguồn điện không ngắt",
+            "Nguồn điện cấp ngay lập tức"
+        ],
+        "a": 2
+    },
+    {
+        "q": "UPS hoạt động dựa trên nguyên lý nào để cung cấp điện liên tục?",
+        "o": [
+            "Chuyển đổi năng lượng cơ học thành năng lượng điện",
+            "Tích trữ năng lượng dưới dạng hoá năng trong bình ắc quy và chuyển đổi thành năng lượng điện khi mất điện lưới",
+            "Sử dụng năng lượng mặt trời để tạo ra điện",
+            "Thu thập năng lượng từ sóng vô tuyến"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thời gian chuyển mạch (transfer time) của một UPS Online thông thường là bao lâu?",
+        "o": [
+            "Vài giây",
+            "Vài phút",
+            "0ms (không có thời gian gián đoạn)",
+            "Vài giờ"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Yếu tố nào quyết định đến thời gian lưu điện (backup time) của UPS?",
+        "o": [
+            "Công suất tải và dung lượng ắc quy.",
+            "Điện áp đầu vào và tần số đầu ra.",
+            "Thương hiệu UPS.",
+            "Nhiệt độ môi trường."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi chọn mua UPS cho một thiết bị, người ta thường quan tâm đến yếu tố nào nhất?",
+        "o": [
+            "Dung lượng ắc quy, khả năng chịu tải và thời gian lưu điện",
+            "Dung lượng ắc quy, Công suất và thương hiệu.",
+            "Kích thước và trọng lượng.",
+            "Màu sắc và kiểu dáng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Bộ nghịch lưu (Inverter) trong hệ thống cung cấp điện có chức năng gì?",
+        "o": [
+            "Chuyển đổi điện áp xoay chiều thành điện áp một chiều",
+            "Chuyển đổi điện áp một chiều thành điện áp xoay chiều",
+            "Tăng áp điện áp xoay chiều",
+            "Giảm áp điện áp xoay chiều"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nguồn DC được cung cấp từ các hệ thống Nguồn viễn thông tại các trạm của Việt Nam hiện nay có điện áp danh định là bao nhiêu?",
+        "o": [
+            "12 VDC",
+            "24 VDC",
+            "48 VDC",
+            "Tất cả các phương án trên"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Máy biến áp cách ly có tác dụng gì?",
+        "o": [
+            "Tăng điện áp",
+            "Giảm điện áp",
+            "Cách ly hoàn toàn giữa mạch sơ cấp và thứ cấp về mặt điện",
+            "Ổn định tần số"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Trong quá trình bảo dưỡng ắc quy, việc kiểm tra điện áp và đo nội trở của ắc quy có tác dụng gì?",
+        "o": [
+            "Đánh giá tình trạng sức khỏe của ắc quy và phát hiện kịp thời các cell ắc quy bị hỏng",
+            "Tăng dung lượng ắc quy",
+            "Giảm thời gian sạc ắc quy",
+            "Làm tăng tuổi thọ ắc quy"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Các sự cố thường gặp nhất đối với hệ thống cung cấp điện là gì?",
+        "o": [
+            "Mất điện lưới",
+            "Sụt áp, quá áp, nhiễu điện",
+            "Hỏng ắc quy",
+            "Tất cả các phương án trên"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Tiếp địa chống sét đóng vai trò quan trọng như thế nào trong hệ thống cung cấp điện?",
+        "o": [
+            "Tăng hiệu suất của UPS",
+            "Bảo vệ thiết bị và con người khỏi dòng điện rò hoặc dòng điện sét đánh",
+            "Làm giảm điện năng tiêu thụ",
+            "Cải thiện chất lượng điện áp"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Theo quy chuẩn kỹ thuật, điện trở tiếp địa cho các thiết bị thông tin liên lạc tại sân bay thường yêu cầu giá trị điện trở tiếp đất nằm trong khoảng nào?",
+        "o": [
+            "R ≤ 1 Ohm",
+            "R ≤ 4 Ohm",
+            "R ≤ 10 Ohm",
+            "R ≤ 50 Ohm"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Điện trở tiếp địa nhỏ hơn 4 ôm (Ohm) có ý nghĩa gì đối với hệ thống tiếp địa tại nhà ga/trung tâm điều hành bay?",
+        "o": [
+            "Đảm bảo dòng điện sét hoặc rò rỉ sẽ được truyền xuống đất một cách nhanh chóng và an toàn, hạn chế tối đa nguy cơ cháy nổ, hư hỏng thiết bị",
+            "Giảm điện năng tiêu thụ của hệ thống",
+            "Tăng cường khả năng thu phát sóng của các thiết bị viễn thông",
+            "Cải thiện chất lượng âm thanh của hệ thống thông báo"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Anten được định nghĩa là:",
+        "o": [
+            "Thiết bị chuyển đổi sóng điện từ thành tín hiệu điện và ngược lại",
+            "Thiết bị khuếch đại tín hiệu điện",
+            "Thiết bị lọc nhiễu",
+            "Thiết bị điều chế tín hiệu"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tham số nào sau đây cho biết khả năng tập trung bức xạ của anten theo một hướng nhất định?",
+        "o": [
+            "Độ lợi (Gain)",
+            "Trở kháng",
+            "Hệ số sóng đứng (VSWR)",
+            "Băng thông"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ số sóng đứng (VSWR) lý tưởng của một hệ thống anten và đường truyền là bao nhiêu?",
+        "o": [
+            "0",
+            "1",
+            "0.5",
+            "2"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Đường cáp truyền dẫn từ máy phát đến anten có chức năng chính là gì?",
+        "o": [
+            "Khuếch đại tín hiệu RF",
+            "Truyền năng lượng RF từ máy phát đến anten và ngược lại",
+            "Lọc bỏ các tần số nhiễu",
+            "Thay đổi trở kháng của hệ thống"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tham số suy hao (Attenuation) của cáp truyền dẫn thường được tính bằng đơn vị gì?",
+        "o": [
+            "dB/km",
+            "Ohm/m",
+            "Watt/m",
+            "dB/m"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Khi chọn cáp truyền dẫn cho hệ thống VHF không địa tại sân bay, yếu tố nào cần được ưu tiên hàng đầu để đảm bảo độ tin cậy?",
+        "o": [
+            "Giá thành rẻ",
+            "Suy hao thấp, độ bền cơ học cao, chịu được điều kiện thời tiết khắc nghiệt",
+            "Trọng lượng nhẹ, dễ lắp đặt",
+            "Màu sắc nổi bật, dễ nhận biết"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi chọn cáp truyền dẫn cho hệ thống VHF không địa tại sân bay, yếu tố nào cần được ưu tiên hàng đầu để đảm bảo độ tin cậy?",
+        "o": [
+            "Giá thành rẻ",
+            "Suy hao thấp, độ bền cơ học cao, chịu được điều kiện thời tiết khắc nghiệt",
+            "Trọng lượng nhẹ, dễ lắp đặt",
+            "Màu sắc nổi bật, dễ nhận biết"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phát biểu nào sau đây đúng về cáp đồng trục (Coaxial Cable)?",
+        "o": [
+            "Cáp đồng trục có lõi bằng thủy tinh.",
+            "Cáp đồng trục không bị ảnh hưởng bởi nhiễu điện từ bên ngoài.",
+            "Cáp đồng trục bao gồm một lõi dẫn điện được bọc bởi một lớp cách điện, xung quanh có lưới kim loại bện chống nhiễu và lớp vỏ bảo vệ.",
+            "Cáp đồng trục chỉ dùng để truyền tín hiệu âm tần."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Đầu nối (Connector) loại nào dưới đây thường được sử dụng phổ biến nhất cho cáp RF cỡ lớn (như cáp 7/8 inch) kết nối vào Ăng-ten VHF?",
+        "o": [
+            "BNC",
+            "TNC",
+            "N-Type hoặc DIN 7/16",
+            "SMA"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tại sao phải làm chống sét và tiếp địa cho hệ thống Ăng-ten trên tháp cao?",
+        "o": [
+            "Để tăng công suất phát của Ăng-ten.",
+            "Để dẫn dòng điện sét xuống đất an toàn, bảo vệ thiết bị thu phát và tính mạng con người.",
+            "Để thay đổi hướng bức xạ của Ăng-ten.",
+            "Để giảm hệ số sóng đứng VSWR."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nếu đầu nối cáp RF bị lỏng hoặc bị nước lọt vào, hiện tượng gì sẽ xảy ra?",
+        "o": [
+            "Công suất phát tăng lên.",
+            "Hệ số sóng đứng VSWR tăng cao, máy phát có thể bị lỗi hoặc tự động giảm công suất bảo vệ.",
+            "Độ nhạy thu của máy thu tăng.",
+            "Tần số phát bị thay đổi."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chiều dài của một ăng-ten chấn tử nửa bước sóng (Half-wave dipole) tỷ lệ như thế nào với tần số hoạt động?",
+        "o": [
+            "Tỷ lệ thuận (Tần số càng cao, ăng-ten càng dài)",
+            "Tỷ lệ nghịch (Tần số càng cao, ăng-ten càng ngắn)",
+            "Không phụ thuộc vào tần số",
+            "Tỷ lệ bình phương với tần số"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Đặc tính phân cực (Polarization) của ăng-ten VHF dùng trong liên lạc Không - Địa hàng không thường là phân cực gì?",
+        "o": [
+            "Phân cực ngang (Horizontal)",
+            "Phân cực dọc (Vertical)",
+            "Phân cực tròn (Circular)",
+            "Phân cực elip"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Máy phát VHF bị cảnh báo lỗi 'High VSWR' hoặc 'Reflected Power High', nguyên nhân nào sau đây KHÔNG phải?",
+        "o": [
+            "Ăng-ten bị hỏng hoặc gãy.",
+            "Cáp truyền dẫn bị đứt hoặc chập.",
+            "Đầu nối cáp RF bị lỏng hoặc rỉ sét.",
+            "Nguồn điện cấp cho máy phát bị sụt áp."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Khi đo kiểm tra hệ thống ăng-ten bằng máy phân tích anten (Antenna Analyzer), giá trị Return Loss (RL) càng âm sâu (ví dụ -25dB so với -10dB) thể hiện điều gì?",
+        "o": [
+            "Ăng-ten phối hợp trở kháng càng kém.",
+            "Ăng-ten phối hợp trở kháng càng tốt (ít năng lượng bị phản xạ về).",
+            "Công suất phát ra ăng-ten bị giảm.",
+            "Cáp dẫn sóng bị suy hao quá nhiều."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị Bộ lọc thông dải (Bandpass Filter) lắp giữa máy phát VHF và ăng-ten có tác dụng chính là gì?",
+        "o": [
+            "Khuếch đại công suất tín hiệu phát.",
+            "Chỉ cho phép dải tần số mong muốn đi qua và triệt tiêu các tần số hài, tần số nhiễu ngoài băng.",
+            "Tự động cân bằng trở kháng cho hệ thống.",
+            "Chia tín hiệu ra nhiều ăng-ten khác nhau."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Mục đích chính của việc sử dụng bộ trộn (Cavity Combiner) trong hệ thống VHF hàng không là gì?",
+        "o": [
+            "Để tăng công suất phát của một máy phát cụ thể.",
+            "Cho phép nhiều máy phát/thu hoạt động đồng thời trên các tần số khác nhau chung một ăng-ten.",
+            "Để chuyển đổi tín hiệu từ tương tự sang số.",
+            "Để bảo vệ máy phát khỏi bị sét đánh."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong hệ thống thông tin VHF, thiết bị 'Dummy Load' (Tải giả) được sử dụng để làm gì?",
+        "o": [
+            "Thay thế anten thật để kiểm tra máy phát mà không bức xạ sóng ra không gian.",
+            "Tăng cường độ lợi của anten.",
+            "Lưu trữ điện năng dự phòng.",
+            "Chuyển đổi tín hiệu âm tần."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Phát biểu nào sau đây ĐÚNG về bộ suy hao tín hiệu (Attenuator)?",
+        "o": [
+            "Là thiết bị làm tăng biên độ của tín hiệu RF.",
+            "Là thiết bị làm giảm biên độ của tín hiệu RF một khoảng xác định (tính bằng dB) mà không làm biến dạng dạng sóng.",
+            "Chỉ được sử dụng trong mạch âm tần.",
+            "Có tác dụng cách ly hoàn toàn dòng điện một chiều."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị đo công suất RF (Thru-line Power Meter, ví dụ Bird 43) hoạt động dựa trên nguyên lý sử dụng các phần tử cảm ứng (Element/Slug). Để đo công suất phản xạ (Reflected Power), ta phải đặt phần tử cảm ứng như thế nào?",
+        "o": [
+            "Mũi tên trên phần tử hướng về phía Ăng-ten.",
+            "Mũi tên trên phần tử hướng về phía Máy phát.",
+            "Đặt hướng nào cũng được.",
+            "Phải dùng hai phần tử giống nhau xếp chồng lên nhau."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Đơn vị dBm là đơn vị đo:",
+        "o": [
+            "Tỷ số công suất giữa hai tín hiệu.",
+            "Mức công suất tuyệt đối so với mức chuẩn 1 Milliwatt.",
+            "Độ lợi của Ăng-ten.",
+            "Điện áp dòng điện."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Một máy phát có công suất phát là 50W, giá trị này tương đương với khoảng bao nhiêu dBm?",
+        "o": [
+            "30 dBm",
+            "40 dBm",
+            "47 dBm",
+            "50 dBm"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Nếu một tín hiệu RF đi qua một bộ suy hao 3dB thì công suất của tín hiệu đó sẽ giảm đi:",
+        "o": [
+            "3 lần",
+            "Một nửa (1/2)",
+            "1/3 lần",
+            "10 lần"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị đo mã hiệu 'SiteHawk' thường được các kỹ sư vô tuyến sử dụng tại trạm VHF nhằm mục đích chính là gì?",
+        "o": [
+            "Đo tần số thoại âm tần.",
+            "Phân tích phổ tần số để tìm nguồn nhiễu.",
+            "Đo kiểm tra hệ số sóng đứng (VSWR) và đồ thị phối hợp trở kháng của hệ thống cáp - anten.",
+            "Cấu hình địa chỉ IP cho máy bộ đàm."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Khi thực hiện đo cáp truyền dẫn bằng chế độ DTF (Distance-To-Fault) trên máy đo chuyên dụng, thiết bị hiển thị thông tin gì?",
+        "o": [
+            "Vị trí và mức độ của các điểm lỗi (hỏng, gãy, lỏng đầu nối) dọc theo chiều dài sợi cáp.",
+            "Tổng công suất phát của máy vô tuyến.",
+            "Tần số chính xác của sóng mang.",
+            "Thời gian lưu điện còn lại của hệ thống UPS."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong các loại cáp truyền dẫn RF sau, loại nào thường có độ suy hao thấp nhất trên cùng một chiều dài ở tần số 118-137 MHz?",
+        "o": [
+            "RG-58",
+            "RG-214",
+            "Cáp đồng trục chống nhiễu ngập bọt (Feeder) kích thước 7/8 inch",
+            "Cáp Feeder kích thước 1/2 inch"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Lý thuyết Analog: Tín hiệu thoại truyền thống (voice) trong băng thông thoại hàng không dân dụng được giới hạn trong dải tần số nào?",
+        "o": [
+            "20 Hz đến 20 kHz",
+            "300 Hz đến 3400 Hz",
+            "0 Hz đến 100 kHz",
+            "10 kHz đến 100 kHz"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Hệ thống VCCS nhận tín hiệu thoại tương tự (Analog) từ bàn điều khiển của kiểm soát viên không lưu, để truyền qua mạng IP, tín hiệu này cần phải được xử lý qua quá trình nào đầu tiên?",
+        "o": [
+            "Khuếch đại công suất (Power Amplification)",
+            "Biến đổi Tương tự - Số (ADC - Analog to Digital Conversion)",
+            "Điều chế biên độ (AM)",
+            "Giải điều chế (Demodulation)"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Trong truyền dẫn tín hiệu Analog qua đường dây 4 dây (4-wire), hai cặp dây được phân chia chức năng như thế nào?",
+        "o": [
+            "Một cặp dây cho nguồn điện, một cặp dây cho tín hiệu.",
+            "Một cặp dây để truyền tín hiệu (TX) và một cặp dây để nhận tín hiệu (RX).",
+            "Cả hai cặp dây dùng chung cho cả TX và RX để tăng băng thông.",
+            "Một cặp dây dùng cho thoại, một cặp dây dùng cho dữ liệu cấu hình."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Thiết bị lai (Hybrid circuit) trong kỹ thuật mạch điện thoại Analog có chức năng chính là gì?",
+        "o": [
+            "Chuyển đổi nguồn AC thành DC.",
+            "Chuyển đổi giao tiếp thoại từ 2 dây (2-wire) sang 4 dây (4-wire) và ngược lại.",
+            "Khuếch đại tín hiệu cao tần.",
+            "Trộn hai tần số khác nhau."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Mức tín hiệu thoại Analog thường được đo bằng đơn vị nào sau đây?",
+        "o": [
+            "dBm hoặc dBr",
+            "Watt",
+            "Volt",
+            "Ohm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Lý thuyết Analog: Hiện tượng 'Tiếng vọng' (Echo) trên đường truyền thoại Analog thường sinh ra do nguyên nhân chủ yếu nào?",
+        "o": [
+            "Do công suất phát của máy vô tuyến quá lớn.",
+            "Do sự phối hợp trở kháng không tốt tại các điểm chuyển đổi 2w/4w (mạch Hybrid) gây phản xạ tín hiệu.",
+            "Do khoảng cách truyền dẫn quá ngắn.",
+            "Do sử dụng cáp sợi quang."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Tín hiệu điều khiển PTT (Push-To-Talk) tương tự truyền thống thường được truyền bằng cách nào trên đường trung kế analog?",
+        "o": [
+            "Gửi bản tin dữ liệu số qua cổng Serial.",
+            "Sử dụng một cặp dây phụ (E&M) hoặc áp dòng DC lên cặp dây thoại (Phantom keying).",
+            "Truyền bằng sóng vô tuyến ngắn.",
+            "Sử dụng tín hiệu tần số cao ngoài băng thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Chuẩn giao tiếp thoại Analog 4-wire + E&M sử dụng các chân E và M cho mục đích gì?",
+        "o": [
+            "Chân E và M dùng để cấp nguồn 48V.",
+            "Chân E (Ear) và M (Mouth) dùng để truyền tín hiệu báo hiệu/điều khiển (như PTT và Squelch).",
+            "Dùng để truyền dữ liệu kiểm tra cấu hình.",
+            "Dùng để nối đất bảo vệ thiết bị."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết Analog: Trở kháng chuẩn của các cổng giao tiếp thoại tương tự (Analog Audio) trên thiết bị VCCS thường là bao nhiêu Ohm?",
+        "o": [
+            "50 Ohm",
+            "75 Ohm",
+            "600 Ohm",
+            "120 Ohm"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Lý thuyết Analog: Khi kết nối thoại Analog giữa hai thiết bị ở khoảng cách xa, nếu mức phát (Tx level) của thiết bị A đặt quá cao thì sẽ xảy ra hiện tượng gì tại thiết bị B?",
+        "o": [
+            "Mất hoàn toàn tín hiệu nhận.",
+            "Tín hiệu bị méo, nghẹt tiếng (Clipping/Distortion) do quá tải tầng vào.",
+            "Băng thông thoại được mở rộng hơn.",
+            "Tiết kiệm điện năng cho thiết bị B."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Địa chỉ IPv4 bao gồm bao nhiêu bit?",
+        "o": [
+            "16 bit",
+            "32 bit",
+            "64 bit",
+            "128 bit"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Subnet Mask được sử dụng trong mạng IP nhằm mục đích gì?",
+        "o": [
+            "Xác định địa chỉ vật lý MAC của card mạng.",
+            "Phân chia địa chỉ IP thành hai phần: Phần mạng (Network ID) và Phần host (Host ID).",
+            "Định tuyến các gói tin đi ra Internet.",
+            "Tăng tốc độ truyền dẫn dữ liệu."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Địa chỉ IP nào sau đây thuộc dải địa chỉ riêng (Private IP Address) dùng trong mạng nội bộ?",
+        "o": [
+            "8.8.8.8",
+            "172.16.10.5",
+            "202.150.30.1",
+            "100.100.100.1"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Giao thức nào hoạt động ở tầng giao vận (Transport Layer) cung cấp phương thức truyền dữ liệu tin cậy, có thiết lập liên kết và kiểm tra lỗi?",
+        "o": [
+            "UDP",
+            "TCP",
+            "IP",
+            "ICMP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Giao thức UDP (User Datagram Protocol) thường được sử dụng cho ứng dụng thoại VoIP vì lý do chủ yếu nào?",
+        "o": [
+            "Đảm bảo không bị mất bất kỳ gói tin nào.",
+            "Có tốc độ truyền tải nhanh, không tốn thời gian thiết lập liên kết và kiểm soát luồng, giảm độ trễ tối đa.",
+            "Tự động mã hóa bảo mật dữ liệu thoại.",
+            "Hỗ trợ tính năng nén dữ liệu mạnh."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Để kiểm tra kết nối mạng cơ bản giữa thiết bị VCCS và một đài vô tuyến IP, lệnh nào thường được sử dụng trên máy tính cấu hình?",
+        "o": [
+            "tracert",
+            "ping",
+            "ipconfig",
+            "netstat"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Thiết bị Switch hoạt động chủ yếu ở tầng nào của mô hình OSI?",
+        "o": [
+            "Tầng 1 (Physical)",
+            "Tầng 2 (Data Link)",
+            "Tầng 3 (Network)",
+            "Tầng 4 (Transport)"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Thiết bị Router có chức năng chính là gì trong mạng IP?",
+        "o": [
+            "Kết nối các thiết bị trong cùng một mạng LAN dựa trên địa chỉ MAC.",
+            "Định tuyến và chuyển tiếp các gói tin giữa các mạng khác nhau dựa trên địa chỉ IP.",
+            "Cung cấp nguồn điện qua cáp mạng (PoE).",
+            "Chuyển đổi tín hiệu quang sang tín hiệu điện."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Trong mạng IP, địa chỉ MAC (Media Access Control) là:",
+        "o": [
+            "Địa chỉ do Router cấp tự động khi thiết bị khởi động.",
+            "Địa chỉ vật lý duy nhất được nhà sản xuất ghi sẵn trên card mạng.",
+            "Địa chỉ dùng để định tuyến toàn cầu trên Internet.",
+            "Thay đổi mỗi khi thiết bị kết nối vào một mạng mới."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lý thuyết IP: Cổng mạng mặc định (Default Gateway) cấu hình trên thiết bị VCCS là địa chỉ IP của thiết bị nào?",
+        "o": [
+            "Máy chủ điều khiển (Server VCCS).",
+            "Cổng kết nối của Router hoặc Switch Layer 3 chịu trách nhiệm định tuyến ra ngoài mạng LAN nội bộ.",
+            "Bàn điều khiển của Kiểm soát viên không lưu kế bên.",
+            "Địa chỉ của đài vô tuyến gần nhất."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Hệ thống VCCS Frequentis 3020X sử dụng kiến trúc phân tán hay tập trung?",
+        "o": [
+            "Kiến trúc tập trung hoàn toàn (mọi xử lý nằm tại một CPU duy nhất).",
+            "Kiến trúc phân tán (các card xử lý có bộ vi xử lý riêng, tăng tính dự phòng).",
+            "Kiến trúc không dây.",
+            "Sử dụng công nghệ điện toán đám mây công cộng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Card trung tâm đóng vai trò điều khiển và chuyển mạch lõi trong phân hệ mạng của VCCS 3020X thường có tên gọi mã hiệu là gì?",
+        "o": [
+            "Card XBONE / XBURST",
+            "Card COMSW (Communication Switch)",
+            "Card CPU-Central",
+            "Card MAIN-CTRL"
+        ],
+        "a": 0
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Thành phần 'Operator Position' (Bàn điều khiển của KSVKL) kết nối về cabin kỹ thuật trung tâm của hệ thống 3020X thông qua loại giao tiếp cơ bản nào đối với các thế hệ truyền thống?",
+        "o": [
+            "Cáp mạng LAN chuẩn RJ45 Cat6 truyền IP.",
+            "Giao tiếp quang hoặc giao tiếp cáp đồng trục kỹ thuật số tốc độ cao riêng biệt của hãng.",
+            "Cáp điện thoại 2 dây tương tự.",
+            "Kết nối Bluetooth công nghiệp."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Hệ thống VCCS 3020X cấu hình tính năng dự phòng nguồn (Power Redundancy) theo cơ chế nào?",
+        "o": [
+            "Không có dự phòng, mất nguồn là ngắt hệ thống.",
+            "Cơ chế N+1 hoặc 1+1 sử dụng nhiều khối nguồn chạy song song chia tải, cho phép thay thế nóng.",
+            "Sử dụng pin dự phòng tích hợp trực tiếp trên từng card.",
+            "Sử dụng nguồn điện lưới xoay chiều trực tiếp không qua bộ đổi nguồn."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Card giao tiếp dùng để kết nối hệ thống VCCS 3020X với các đường thoại tương tự (Analog Radio 4-wire) thường là loại card nào?",
+        "o": [
+            "Card RIM (Radio Interface Module) hoặc tương đương.",
+            "Card DIM (Digital Interface Module).",
+            "Card LIM (LAN Interface Module).",
+            "Card VIM (Video Interface Module)."
+        ],
+        "a": 0
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Để thực hiện việc thay đổi cấu hình hệ thống (như gán tần số vào nút nhấn trên màn hình), kỹ sư sử dụng phần mềm quản lý nào của Frequentis?",
+        "o": [
+            "Phần mềm ConfigTool hoặc TMCS (Technical Monitoring and Control System).",
+            "Phần mềm Windows Device Manager.",
+            "Phần mềm AutoCAD.",
+            "Cấu hình trực tiếp bằng các nút vặn trên phần cứng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Khi một card xử lý trên subrack của VCCS 3020X bị lỗi phần cứng, đèn LED trạng thái trên card thường chuyển sang màu gì?",
+        "o": [
+            "Đèn LED tắt hoàn toàn.",
+            "Đèn LED nhấp nháy màu Xanh lá cây.",
+            "Đèn LED sáng đứng màu Đỏ (hoặc Cam).",
+            "Đèn LED chuyển sang màu Xanh dương."
+        ],
+        "a": 2
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Phân hệ TMCS của hệ thống VCCS 3020X có chức năng chính là gì?",
+        "o": [
+            "Ghi âm các cuộc thoại trực tiếp.",
+            "Giám sát trạng thái hoạt động kỹ thuật, cảnh báo lỗi và quản lý cấu hình hệ thống theo thời gian thực.",
+            "Điều khiển hướng ăng-ten vô tuyến.",
+            "Tính cước các cuộc gọi điện thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Hệ thống VCCS 3020X tại AACC HCM kết nối với các hệ thống ghi âm chuyên dụng nhằm mục đích gì?",
+        "o": [
+            "Để lưu trữ dữ liệu thoại cấu hình.",
+            "Ghi âm liên tục toàn bộ các cuộc thoại Không - Địa và Thoại nội bộ phục vụ công tác điều tra an toàn bay và huấn luyện.",
+            "Để phát nhạc nền cho kiểm soát viên.",
+            "Để kiểm tra chất lượng phần cứng card thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM: Khái niệm 'Main/Standby Switchover' trong hệ thống VCCS 3020X đề cập đến tính năng nào?",
+        "o": [
+            "Tự động chuyển đổi từ card xử lý chính sang card dự phòng khi phát hiện sự cố mà không làm gián đoạn liên lạc.",
+            "Tắt toàn bộ hệ thống để bảo dưỡng.",
+            "Chuyển đổi tần số từ VHF sang HF.",
+            "Thay đổi độ sáng màn hình điều khiển."
+        ],
+        "a": 0
+    },
+    {
+        "q": "ATCC HCM Sitti: Hệ thống VCCS do hãng Sitti cung cấp tại ATCC HCM sử dụng cấu trúc mạng lõi nội bộ dựa trên công nghệ nào cho các dòng đời mới?",
+        "o": [
+            "Mạng chuyển mạch TDM mạch vòng.",
+            "Mạng Ethernet/IP tốc độ cao với kiến trúc dự phòng kép (Dual LAN).",
+            "Cáp quang kết nối nối tiếp (Daisy chain).",
+            "Mạng không dây Wi-Fi nội bộ."
+        ],
+        "a": 1
+    },
+    {
+        "q": "ATCC HCM Sitti: Màn hình làm việc của KSVKL kết nối với hệ thống VCCS Sitti thường được gọi là gì?",
+        "o": [
+            "CWP (Controller Working Position).",
+            "HMI (Human Machine Interface).",
+            "TED (Touch Entry Device).",
+            "Tất cả các câu trên đều đúng tùy thuộc vào tài liệu hướng dẫn."
+        ],
+        "a": 3
+    },
+    {
+        "q": "ATCC HCM Sitti: Thiết bị VCCS Sitti hỗ trợ chuẩn giao tiếp nào để kết nối trực tiếp với các đài vô tuyến IP hiện đại?",
+        "o": [
+            "ED-137 (Bản tin VoIP dành cho Hàng không).",
+            "SIP thông thường của điện thoại văn phòng.",
+            "Chuẩn H.320 truyền hình hội nghị.",
+            "Giao thức FTP truyền file."
+        ],
+        "a": 0
+    },
+    {
+        "q": "ATCC HCM Sitti: Trên giao diện cấu hình của hệ thống Sitti, tham số 'PTT Type' khi kết nối với đài vô tuyến tương tự có thể chọn các chế độ nào?",
+        "o": [
+            "Phantom (Áp dòng lên dây thoại), E&M độc lập hoặc Tone (Tín hiệu tần số).",
+            "Chỉ hỗ trợ gửi gói tin IP.",
+            "Chỉ có chế độ kích hoạt bằng giọng nói (VOX).",
+            "Không cần cấu hình tham số này."
+        ],
+        "a": 0
+    },
+    {
+        "q": "ATCC HCM Sitti: Hệ thống giám sát kỹ thuật của VCCS Sitti có khả năng gửi cảnh báo lỗi qua giao thức quản lý mạng tiêu chuẩn nào?",
+        "o": [
+            "HTTP",
+            "SNMP (Simple Network Management Protocol)",
+            "SMTP",
+            "FTP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "ATCC HCM Sitti: Card xử lý giao tiếp trung kế điện thoại (Telephone Interface) của hệ thống Sitti cho phép kết nối những loại đường truyền nào?",
+        "o": [
+            "Đường trung kế tương tự POTS (FXO/FXS), trung kế số E1 (giao thức MFC-R2, ISDN PRI).",
+            "Chỉ kết nối được điện thoại vệ tinh.",
+            "Chỉ kết nối với mạng IP công cộng.",
+            "Card này không hỗ trợ thoại, chỉ truyền dữ liệu."
+        ],
+        "a": 0
+    },
+    {
+        "q": "ATCC HCM Sitti: Tính năng 'Bypass' phần cứng trong hệ thống VCCS Sitti được hiểu là gì?",
+        "o": [
+            "Chế độ cấu hình khẩn cấp cho phép đấu nối trực tiếp tai nghe của KSVKL tới một tần số vô tuyến xác định khi toàn bộ hệ thống lõi gặp sự cố.",
+            "Bỏ qua bước đăng nhập mật khẩu của kỹ thuật viên.",
+            "Tự động xóa các cảnh báo lỗi cũ.",
+            "Tăng âm lượng tối đa cho bàn điều khiển."
+        ],
+        "a": 0
+    },
+    {
+        "q": "ATCC HCM Sitti: Trong quá trình vận hành, để đồng bộ thời gian cho toàn bộ hệ thống VCCS Sitti, thiết bị nhận tín hiệu thời gian chuẩn từ nguồn nào?",
+        "o": [
+            "Đồng hồ hiển thị tại phòng thủ trưởng đài.",
+            "Hệ thống máy chủ thời gian NTP (Network Time Protocol) kết nối với GPS vệ tinh.",
+            "Thời gian tự động cập nhật từ mạng Internet công cộng.",
+            "Thời gian ghi nhận thủ công từ kỹ sư trực ca."
+        ],
+        "a": 1
+    },
+    {
+        "q": "ATCC HCM Sitti: Khi cấu hình một nút bấm tần số trên CWP của Sitti, nếu muốn KSVKL vừa nghe vừa nói được trên tần số đó, nút bấm phải được gán quyền nào?",
+        "o": [
+            "Quyền Rx (Receive) duy nhất.",
+            "Quyền Tx (Transmit) duy nhất.",
+            "Cả hai quyền Tx và Rx (Transmit and Receive).",
+            "Quyền Monitor."
+        ],
+        "a": 2
+    },
+    {
+        "q": "ATCC HCM Sitti: Thao tác 'Hot Swap' đối với các card linh kiện trong tủ máy VCCS Sitti nghĩa là gì?",
+        "o": [
+            "Phải tắt hoàn toàn nguồn điện của tủ máy trước khi rút card.",
+            "Cho phép rút và cắm thay thế card phần cứng trực tiếp khi hệ thống đang có điện và hoạt động mà không gây hư hỏng.",
+            "Phải làm mát card bằng quạt trước khi thay thế.",
+            "Card tự động sửa lỗi khi bị nóng lên."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Hệ thống VCCS Liberty Star-3 lắp đặt tại Đài kiểm soát không lưu Tân Sơn Nhất do hãng nào sản xuất?",
+        "o": [
+            "Frequentis",
+            "Sitti",
+            "Intelcan",
+            "Rohde & Schwarz"
+        ],
+        "a": 2
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Cấu trúc điều khiển cốt lõi của Liberty Star-3 dựa trên các mô-đun xử lý trung tâm được thiết kế dự phòng theo tỷ lệ nào?",
+        "o": [
+            "Không dự phòng.",
+            "Dự phòng nóng song song 1+1 (Dual Redundancy).",
+            "Dự phòng 3 kênh (Triple Redundancy).",
+            "Dự phòng dạng lưới N+M."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Trên màn hình cảm ứng điều khiển của Liberty Star-3, tính năng 'Intercom' dùng để thực hiện loại liên lạc nào?",
+        "o": [
+            "Liên lạc vô tuyến Không - Địa với phi công.",
+            "Liên lạc thoại nội bộ trực tiếp giữa các vị trí kiểm soát viên không lưu với nhau hoặc với các đài/trạm hiệp đồng.",
+            "Gọi ra mạng điện thoại di động công cộng.",
+            "Gửi tin nhắn văn bản giữa các bàn điều khiển."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Card đóng vai trò giao tiếp mạng LAN/IP trên subrack của hệ thống Liberty Star-3 thường có tên mã viết tắt là gì?",
+        "o": [
+            "Card LCI (LAN Connection Interface) hoặc tương đương.",
+            "Card RUI",
+            "Card TUI",
+            "Card ADI"
+        ],
+        "a": 0
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Khi KSVKL nhấn nút PTT trên micro để nói chuyện với máy bay, trên màn hình điều khiển Liberty Star-3 tại vị trí tần số đó sẽ hiển thị chỉ thị màu sắc gì đặc trưng?",
+        "o": [
+            "Màu Xanh lá cây đứng yên.",
+            "Màu Đỏ (hoặc Cam/Hồng) sáng lên tại biểu tượng TX biểu thị đang phát sóng.",
+            "Màu Xanh dương nhấp nháy.",
+            "Màn hình tắt đi để tiết kiệm pin."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Hệ thống Liberty Star-3 xử lý tín hiệu thoại vô tuyến nhận được từ máy thu VHF (Squelch mở) như thế nào trên màn hình làm việc?",
+        "o": [
+            "Hiển thị chỉ thị biểu tượng RX (thường có màu Xanh lá cây hoặc màu chỉ định) thông báo đang nhận tín hiệu thoại.",
+            "Tự động ngắt âm thanh nếu tiếng ồn quá lớn.",
+            "Gửi một âm báo bíp bíp liên tục tới tai nghe.",
+            "Không hiển thị gì, chỉ phát ra âm thanh."
+        ],
+        "a": 0
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Trong phần mềm cấu hình hệ thống Liberty Star-3, việc phân chia nhóm các chức năng/nút bấm cho một vị trí làm việc cụ thể được định nghĩa bằng khái niệm nào?",
+        "o": [
+            "User Password",
+            "Role hoặc Profile Vị trí (Configuration Profile)",
+            "IP Address Group",
+            "Hardware Subrack"
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Để kết nối một đường thoại Hotline từ tháp TSN đi Đài tiếp cận, hệ thống Liberty Star-3 cấu hình loại giao tiếp nào nếu sử dụng đường truyền tương tự kéo cáp?",
+        "o": [
+            "Giao tiếp 2-wire FXS/FXO",
+            "Giao tiếp 4-wire E&M Hotline",
+            "Giao tiếp số ISDN",
+            "Giao tiếp vô tuyến sóng ngắn HF"
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Việc kiểm tra nhật ký lỗi (Error Log) trên hệ thống Liberty Star-3 giúp kỹ thuật viên điều gì?",
+        "o": [
+            "Biết được nội dung cuộc nói chuyện của phi công.",
+            "Xác định chính xác thời điểm xảy ra sự cố, mã lỗi và linh kiện phần cứng/giao thức nào gặp vấn đề để xử lý.",
+            "Thay đổi địa chỉ IP của các card.",
+            "Xóa vĩnh viễn các hư hỏng phần cứng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 TWR TSN: Quy trình bảo dưỡng định kỳ hệ thống VCCS Liberty Star-3 KHÔNG bao gồm bước nào sau đây?",
+        "o": [
+            "Kiểm tra vệ sinh hút bụi các lưới lọc quạt thông gió tủ máy.",
+            "Kiểm tra trạng thái các đèn LED, đo điện áp nguồn DC nuôi subrack.",
+            "Thay đổi ngẫu nhiên địa chỉ IP của mạng lõi để tăng tính bảo mật.",
+            "Thử nghiệm tính năng chuyển mạch nguồn dự phòng và tính năng gọi thử nghiệm tại bàn giám sát."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tín hiệu tuần hoàn là tín hiệu:",
+        "o": [
+            "Có biên độ thay đổi theo thời gian.",
+            "Có đặc tính lặp lại giống hệt nhau sau những khoảng thời gian bằng nhau xác định.",
+            "Có tần số thay đổi liên tục.",
+            "Tất cả đều sai."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong hệ thống thông tin, 'Băng thông' (Bandwidth) của một kênh truyền dẫn được hiểu là:",
+        "o": [
+            "Tốc độ truyền lan của sóng điện từ trong không gian.",
+            "Dải tần số mà kênh truyền dẫn đó có thể đáp ứng và truyền tải tín hiệu ổn định không bị suy hao quá mức.",
+            "Chiều dài vật lý của đường cáp truyền dẫn.",
+            "Công suất cực đại mà đường truyền chịu đựng được."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Bộ lọc thông thấp (Low-pass Filter) là bộ lọc:",
+        "o": [
+            "Chỉ cho các tín hiệu có tần số cao hơn tần số cắt đi qua.",
+            "Chỉ cho các tín hiệu có tần số thấp hơn tần số cắt đi qua và suy hao mạnh các tần số cao.",
+            "Chỉ cho một dải tần số xác định đi qua.",
+            "Triệt tiêu hoàn toàn mọi tín hiệu đi qua nó."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Mục đích của quá trình điều chế (Modulation) trong kỹ thuật vô tuyến là gì?",
+        "o": [
+            "Để khuếch đại biên độ tín hiệu âm tần trực tiếp ra anten.",
+            "Ghép tín hiệu thông tin (âm tần) vào sóng mang cao tần để có thể truyền đi xa hiệu quả qua môi trường không gian.",
+            "Để chuyển đổi nguồn điện một chiều thành xoay chiều.",
+            "Để loại bỏ hoàn toàn hiện tượng nhiễu trắng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong kỹ thuật điều chế biên độ (AM), thông số nào của sóng mang cao tần sẽ bị thay đổi theo biên độ của tín hiệu điều chế?",
+        "o": [
+            "Tần số (Frequency)",
+            "Biên độ (Amplitude)",
+            "Pha (Phase)",
+            "Tất cả các thông số trên"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hài tần số (Harmonics) là gì?",
+        "o": [
+            "Các tần số nhiễu sinh ra do thời tiết xấu.",
+            "Các thành phần tần số là bội số nguyên lần của tần số cơ bản (tần số trung tâm).",
+            "Tần số của sóng phản xạ từ mặt đất lên anten.",
+            "Các tần số nằm trong băng thông hữu ích của máy thu."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hiện tượng méo phi tuyến (Nonlinear distortion) trong các mạch khuếch đại âm tần thường dẫn đến hệ quả gì?",
+        "o": [
+            "Làm thay đổi tần số của sóng mang vô tuyến.",
+            "Xuất hiện các thành phần tần số mới không có trong tín hiệu gốc, làm giảm chất lượng và độ trung thực của âm thanh.",
+            "Tăng công suất nguồn cấp cho thiết bị.",
+            "Làm tăng độ nhạy thu của máy vô tuyến."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong kiểm tra thông số kỹ thuật âm thanh, đơn vị 'THD' (Total Harmonic Distortion) dùng để đo lường điều gì?",
+        "o": [
+            "Tổng công suất phát ra anten.",
+            "Tổng méo hài nhiễu của tín hiệu âm thanh (tỷ lệ phần trăm thành phần hài so với tín hiệu gốc).",
+            "Độ rộng của băng thông bộ lọc.",
+            "Điện áp đỉnh-đỉnh của tín hiệu thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Cáp sợi quang (Fiber Optic Cable) truyền dẫn dữ liệu dựa trên nguyên lý vật lý nào?",
+        "o": [
+            "Dòng dòng điện chạy trong lõi đồng.",
+            "Hiện tượng phản xạ toàn phần của ánh sáng bên trong lõi sợi thủy tinh.",
+            "Sự bức xạ sóng điện từ trường.",
+            "Sự thay đổi áp suất không khí bên trong ống dẫn."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao tiếp nối tiếp chuẩn RS-232 thường được kỹ thuật viên sử dụng trên thiết bị VCCS/VHF nhằm mục đích gì?",
+        "o": [
+            "Truyền tín hiệu thoại chất lượng cao.",
+            "Kết nối máy tính cấu hình trực tiếp để lập trình, giám sát hoặc đọc tham số điều khiển của thiết bị (Console).",
+            "Cấp nguồn nguồn dự phòng 48V cho tủ máy.",
+            "Đấu nối trực tiếp ra hệ thống anten."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Mô hình OSI (Open Systems Interconnection) chuẩn hóa chức năng truyền thông mạng thành bao nhiêu lớp (layers)?",
+        "o": [
+            "5 lớp",
+            "7 lớp",
+            "4 lớp",
+            "9 lớp"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao thức ICMP (Internet Control Message Protocol) được sử dụng chủ yếu bởi công cụ nào sau đây?",
+        "o": [
+            "FTP Client",
+            "Lệnh Ping",
+            "Trình duyệt Web (HTTP)",
+            "Hệ thống gửi thư điện tử SMTP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong dải địa chỉ IPv4, địa chỉ '127.0.0.1' được gọi là địa chỉ gì?",
+        "o": [
+            "Địa chỉ quảng bá (Broadcast).",
+            "Địa chỉ vòng ngược nội bộ (Loopback Address) dùng để kiểm tra cấu hình TCP/IP của chính thiết bị.",
+            "Địa chỉ mặc định của Router.",
+            "Địa chỉ cấp cho máy chủ DNS toàn cầu."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hiện tượng 'Xung đột địa chỉ IP' (IP Address Conflict) xảy ra khi nào trong mạng LAN nội bộ?",
+        "o": [
+            "Khi hai card mạng có cùng địa chỉ vật lý MAC.",
+            "Khi có từ hai thiết bị trở lên trong cùng một phân đoạn mạng được cấu hình sử dụng chung một địa chỉ IP.",
+            "Khi Router bị mất kết nối nguồn.",
+            "Khi Subnet Mask cấu hình sai."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để chuyển đổi tín hiệu số từ cổng mạng LAN sang tín hiệu tương tự (Analog) cấp cho khối khuếch đại tai nghe, thiết bị VCCS sử dụng mạch chức năng nào?",
+        "o": [
+            "Mạch ADC",
+            "Mạch DAC (Digital to Analog Converter)",
+            "Mạch Modulator",
+            "Mạch Squelch"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Địa chỉ MAC có chiều dài bao nhiêu bit",
+        "o": [
+            "48",
+            "32",
+            "64",
+            "128"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Cho địa chỉ IP 192.168.1.32/27. Dãy địa chỉ IP có thể gán cho máy tính là?",
+        "o": [
+            "192.168.1.32 – 192.168.1.64",
+            "192.168.1.33 – 192.168.1.62",
+            "192.168.1.32 – 192.168.1.62",
+            "192.168.1.33 – 192.168.1.63"
+        ],
+        "a": 3
+    },
+    {
+        "q": "DHCP dùng để?",
+        "o": [
+            "Truy cập web.",
+            "Phân giải tên miền.",
+            "Cấp phát IP động.",
+            "Gửi thư điện tử."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Router là thiết bị làm việc ở tầng nào trong mô hình OSI?",
+        "o": [
+            "Datalink",
+            "Network",
+            "Transport",
+            "Session"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao thức NTP là gì?",
+        "o": [
+            "Network Terminal Protocol.",
+            "Network Time Protocol.",
+            "Network Transport Protocol.",
+            "Network Timing Protocol."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Lệnh Ping dùng để?",
+        "o": [
+            "Kiểm tra đường truyền.",
+            "Cấu hình IP.",
+            "Kiểm tra bảo mật.",
+            "Không làm gì cả."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Cho địa chỉ IP 192.168.10.15/28. Default gateway của mạng có thể là địa chỉ nào sau đây:",
+        "o": [
+            "192.168.10.1",
+            "192.168.10.10",
+            "192.168.10.14",
+            "192.168.10.16"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Mạng IP thông thường có độ trễ lớn hơn mạng TDM?",
+        "o": [
+            "Đúng",
+            "Sai"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Bản tin giám sát SIP nào dùng để xác nhận liên kết giữa hai thiết bị?",
+        "o": [
+            "SIP INVITE",
+            "SIP OPTIONS",
+            "SIP OK",
+            "SIP REGISTER"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi mạng IP bị trễ quá lớn, chất lượng thoại VCCS sẽ:",
+        "o": [
+            "Tốt hơn.",
+            "Giảm sút (bị vấp, ngắt quãng).",
+            "Không ảnh hưởng.",
+            "Mất hoàn toàn kết nối."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Jitter là đại lượng chỉ:",
+        "o": [
+            "Độ trễ trung bình của gói tin.",
+            "Sự biến động độ trễ của các gói tin.",
+            "Số lượng gói tin bị mất.",
+            "Băng thông tối đa."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tại AACC HCM, VCCS 3020X dùng giao diện nào để kết nối vào mạng IP?",
+        "o": [
+            "VIM",
+            "LCA",
+            "DIM",
+            "E1"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hệ thống VCCS 3020X tại AACC HCM quản lý cấu hình bằng phần mềm nào?",
+        "o": [
+            "NMS",
+            "TMCS",
+            "CMS",
+            "Wireshark"
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM là sản phẩm của hãng nào?",
+        "o": [
+            "Sitti",
+            "Frequentis",
+            "Jotron",
+            "R&S"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card xử lý chính của hệ thống VCCS 3020X là:",
+        "o": [
+            "RIM",
+            "TFU",
+            "LCA",
+            "Central CPU"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Màn hình điều khiển của KSVKL trên VCCS 3020X gọi là:",
+        "o": [
+            "TED",
+            "CWP",
+            "VRS",
+            "NMS"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tính năng Bypass trên CWP dùng để làm gì?",
+        "o": [
+            "Truyền dữ liệu tốc độ cao.",
+            "Dự phòng khẩn cấp khi mất toàn bộ hệ thống lõi.",
+            "Giám sát lưu lượng mạng.",
+            "Phát nhạc nền."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS 3020X tại AACC HCM có cấu trúc phần cứng:",
+        "o": [
+            "Tập trung",
+            "Phân tán",
+            "Mạng hình sao",
+            "Không dây"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao thức nào dùng để kết nối thoại giữa các hệ thống VCCS 3020X?",
+        "o": [
+            "RTP/SIP",
+            "HTTP/TCP",
+            "FTP",
+            "SNMP"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Card giao tiếp vô tuyến analog trong VCCS 3020X là:",
+        "o": [
+            "LCA",
+            "RIM",
+            "DIM",
+            "VIM"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để kiểm tra trạng thái card trên VCCS 3020X, người ta dùng:",
+        "o": [
+            "Đồng hồ vạn năng.",
+            "Phần mềm TMCS.",
+            "Trình duyệt Web.",
+            "Máy Oscillo."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS 3020X được cấp nguồn danh định bao nhiêu Vol DC?",
+        "o": [
+            "-48 VDC",
+            "+24 VDC",
+            "12 VDC",
+            "220 VAC"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Quá trình đồng bộ thời gian trên hệ thống VCCS 3020X được lấy từ:",
+        "o": [
+            "Server trung tâm.",
+            "Hệ thống GPS qua NTP.",
+            "Tự thiết lập bằng tay.",
+            "Máy tính cá nhân."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card DIM trên VCCS 3020X dùng để:",
+        "o": [
+            "Kết nối vô tuyến analog.",
+            "Kết nối trung kế số (E1).",
+            "Giám sát nguồn.",
+            "Kết nối mạng LAN."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Cảnh báo Alarm cấp độ Đỏ trên TMCS của VCCS 3020X nghĩa là gì?",
+        "o": [
+            "Chỉ là thông báo bình thường.",
+            "Hệ thống đang bảo trì.",
+            "Cảnh báo nghiêm trọng ảnh hưởng trực tiếp đến dịch vụ.",
+            "Mất điện lưới nhưng có UPS."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Card TFU trong VCCS 3020X thực hiện chức năng gì?",
+        "o": [
+            "Cấp nguồn cho toàn hệ thống.",
+            "Xử lý và cung cấp xung đồng bộ.",
+            "Giao tiếp với điện thoại thường.",
+            "Giao tiếp cáp quang."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nút bấm 'Tx' trên màn hình TED của VCCS 3020X có nghĩa là:",
+        "o": [
+            "Chỉ thu.",
+            "Phát thanh (Transmit).",
+            "Nghe lén.",
+            "Tắt âm thanh."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi thay thế một card RIM trong hệ thống VCCS 3020X, cần lưu ý điều gì?",
+        "o": [
+            "Tắt toàn bộ hệ thống trước khi thay.",
+            "Có thể thay nóng (Hot-swap) và đảm bảo cấu hình được đồng bộ lại.",
+            "Phải thay đổi cả dây cáp kết nối.",
+            "Card mới không cần cấu hình."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị ghi âm kết nối với VCCS 3020X tại AACC HCM sử dụng giao diện:",
+        "o": [
+            "E1 hoặc IP.",
+            "USB.",
+            "Bluetooth.",
+            "Cáp đồng trục."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Cấu trúc mạng dự phòng của VCCS 3020X thường là:",
+        "o": [
+            "Singular LAN",
+            "Dual LAN (A và B)",
+            "Triple LAN",
+            "Chỉ dùng cáp quang"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chức năng của phần mềm TMCS là gì?",
+        "o": [
+            "Quản lý giám sát và điều khiển cấu hình hệ thống VCCS.",
+            "Định tuyến gói tin IP.",
+            "Quản lý cơ sở dữ liệu bay.",
+            "Hiển thị radar thời tiết."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Đường dây E&M kết nối VCCS 3020X với máy vô tuyến có mấy dây chính để truyền tín hiệu?",
+        "o": [
+            "2 dây (Tx, Rx).",
+            "4 dây (Tx+, Tx-, Rx+, Rx-).",
+            "6 dây.",
+            "8 dây."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trên màn hình TED, biểu tượng PTT màu xanh lá thể hiện điều gì?",
+        "o": [
+            "Tần số đang phát (Tx).",
+            "Đang thu sóng (Rx) từ đài vô tuyến.",
+            "Lỗi kết nối đài.",
+            "Kênh bị khóa."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để thêm một kênh vô tuyến mới vào màn hình TED, kỹ sư dùng phần mềm gì?",
+        "o": [
+            "TMCS / ConfigTool.",
+            "Trình duyệt IE.",
+            "Excel.",
+            "Phần mềm Ghi âm."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tại AACC HCM, ATCC Sitti là sản phẩm VCCS của hãng nào?",
+        "o": [
+            "Frequentis",
+            "Sitti",
+            "Jotron",
+            "R&S"
+        ],
+        "a": 1
+    },
+    {
+        "q": "ATCC Sitti sử dụng cấu trúc mạng nội bộ nào?",
+        "o": [
+            "Mạng IP/Ethernet kép.",
+            "Mạng TDM vòng.",
+            "Chỉ dùng RS-232.",
+            "Mạng không dây."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ thống giám sát của ATCC Sitti được gọi là gì?",
+        "o": [
+            "TMCS",
+            "CMS / MMS",
+            "NMS",
+            "Configurator"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Bàn điều khiển của KSVKL trên hệ thống Sitti thường gọi là:",
+        "o": [
+            "CWP (Controller Working Position).",
+            "TED.",
+            "Supervisor PC.",
+            "Admin Console."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong VCCS Sitti, giao thức ED-137 dùng để làm gì?",
+        "o": [
+            "Đồng bộ thời gian.",
+            "Giám sát lỗi phần cứng.",
+            "Truyền thoại vô tuyến trên nền IP (VoIP).",
+            "Nén dữ liệu."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Card giao tiếp vô tuyến của hệ thống Sitti thường có tên là:",
+        "o": [
+            "LIM",
+            "RIM",
+            "RVF / Radio Interface",
+            "CPU"
+        ],
+        "a": 2
+    },
+    {
+        "q": "CWP của Sitti sử dụng hệ điều hành nào phổ biến?",
+        "o": [
+            "Mac OS",
+            "Windows / Linux tùy phiên bản.",
+            "Android",
+            "MS-DOS"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi một máy chủ CWP của Sitti gặp sự cố, hệ thống có giải pháp gì?",
+        "o": [
+            "Sử dụng kết nối Analog dự phòng (Bypass).",
+            "Khởi động lại toàn bộ mạng.",
+            "KSVKL phải dùng bộ đàm cầm tay.",
+            "Cả A và C."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Chức năng Intercom trên hệ thống Sitti dùng để:",
+        "o": [
+            "Phát loa thông báo công cộng.",
+            "Gọi điện giữa các CWP nội bộ với nhau.",
+            "Nghe đài FM.",
+            "Ghi âm tự động."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Sitti VCCS đồng bộ thời gian từ nguồn nào?",
+        "o": [
+            "NTP Server / Master Clock.",
+            "CWP tự định tuyến.",
+            "Sóng VHF.",
+            "Người dùng nhập tay mỗi ngày."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Màu sắc cảnh báo trên màn hình MMS (Sitti) màu vàng (Yellow) thường biểu thị mức độ lỗi gì?",
+        "o": [
+            "Nghiêm trọng, mất dịch vụ.",
+            "Cảnh báo mức độ nhẹ (Warning/Minor).",
+            "Hoạt động bình thường.",
+            "Mất nguồn."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Việc backup (sao lưu) dữ liệu cấu hình hệ thống Sitti cần thực hiện khi nào?",
+        "o": [
+            "Hằng ngày.",
+            "Sau mỗi lần thay đổi cấu hình hoặc nâng cấp.",
+            "Chỉ khi hệ thống hỏng.",
+            "Không cần thiết."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao tiếp điện thoại Hotline trên VCCS Sitti sử dụng card/tín hiệu gì?",
+        "o": [
+            "VoIP / E1 / Analog 4W.",
+            "Chỉ dùng quang.",
+            "RS-485.",
+            "Wi-Fi."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ thống ghi âm kết nối vào VCCS Sitti bằng giao thức nào (cho phiên bản IP)?",
+        "o": [
+            "E1 TDM.",
+            "ED-137 / RTSP (VoIP Recording).",
+            "Analog.",
+            "Tất cả đều sai."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Sitti VCCS có hỗ trợ cấu hình phân quyền (Role/Profile) cho KSVKL không?",
+        "o": [
+            "Không hỗ trợ.",
+            "Có hỗ trợ, cho phép KSVKL đăng nhập bằng tài khoản (Role) ở bất kỳ CWP nào.",
+            "Chỉ admin mới có Profile.",
+            "Tùy vào phần cứng CWP."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Cấu trúc dự phòng lõi hệ thống (Core redundancy) của Sitti VCCS là:",
+        "o": [
+            "1+1 (Main/Standby).",
+            "Không có dự phòng.",
+            "Dự phòng qua mạng 4G.",
+            "Chia tải ngẫu nhiên."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trên CWP (Sitti), khi KSVKL bấm Tx, màu sắc của nút vô tuyến thường chuyển sang:",
+        "o": [
+            "Màu Xanh lá.",
+            "Màu Đỏ.",
+            "Màu Xám.",
+            "Màu Trắng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nếu CWP (Sitti) báo lỗi 'Network disconnected', nguyên nhân có thể do:",
+        "o": [
+            "Micro hỏng.",
+            "Tai nghe rút ra.",
+            "Cáp LAN kết nối về tủ trung tâm bị đứt hoặc Switch lỗi.",
+            "Chưa chỉnh âm lượng."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tính năng Cross-coupling trên VCCS Sitti là gì?",
+        "o": [
+            "Tắt hoàn toàn vô tuyến.",
+            "Kết nối (ghép) hai hay nhiều dải tần số vô tuyến lại với nhau để phi công trên các dải tần đó có thể nghe nhau.",
+            "Chia sẻ âm nhạc nội bộ.",
+            "Tự động trả lời điện thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "VCCS Liberty Star-3 là hệ thống VCCS của hãng nào sản xuất?",
+        "o": [
+            "Frequentis",
+            "Sitti",
+            "Intelcan",
+            "Jotron"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Hệ thống VCCS Liberty Star-3 lắp tại TWR TSN có cấu trúc dự phòng như thế nào?",
+        "o": [
+            "Single",
+            "Dual-redundant (Dự phòng kép 1+1).",
+            "Triple-redundant.",
+            "N+1"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Bàn điều khiển của VCCS Liberty Star-3 gọi là:",
+        "o": [
+            "TED",
+            "CWP / Operator Console",
+            "Admin PC",
+            "NMS"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Màn hình giao diện điều khiển Liberty Star-3 dùng loại cảm ứng nào phổ biến?",
+        "o": [
+            "Màn hình cảm ứng điện dung hoặc hồng ngoại chuyên dụng.",
+            "Không dùng cảm ứng, chỉ dùng chuột.",
+            "Dùng phím cơ 100%.",
+            "Màn hình đen trắng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ thống Liberty Star-3 giám sát kỹ thuật bằng:",
+        "o": [
+            "Phần mềm TMCS.",
+            "Phần mềm MMS/CMS.",
+            "Phần mềm NMS (Network Management System).",
+            "Giao diện dòng lệnh DOS."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Để đăng nhập vào CWP Liberty Star-3, KSVKL cần chọn gì?",
+        "o": [
+            "Tên đài vô tuyến.",
+            "Vị trí (Role/Position) được cấu hình sẵn.",
+            "Địa chỉ IP máy chủ.",
+            "Số điện thoại."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card giao tiếp vô tuyến Analog trên VCCS Liberty Star-3 thường kết nối với thiết bị vô tuyến qua:",
+        "o": [
+            "Cáp quang.",
+            "Đường 4-wire E&M.",
+            "Cáp đồng trục.",
+            "Wi-Fi."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Liberty Star-3 hỗ trợ chuẩn VoIP trong hàng không là chuẩn nào?",
+        "o": [
+            "ED-137",
+            "H.323",
+            "G.711 thuần túy không có SIP.",
+            "Skype Protocol."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tính năng Best Signal Selection (BSS) trên VCCS Liberty Star-3 có tác dụng:",
+        "o": [
+            "Tự động chọn đài phát công suất lớn nhất.",
+            "Tự động so sánh và chọn tín hiệu thu vô tuyến có chất lượng (S/N) tốt nhất từ nhiều trạm thu khác nhau.",
+            "Tắt sóng nhiễu FM.",
+            "Phát hiện lỗi cáp mạng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nếu mất kết nối mạng LAN kép tới CWP của Liberty Star-3, chức năng Bypass sẽ:",
+        "o": [
+            "Kết nối Micro/Loa của KSVKL trực tiếp đến 1 đường vô tuyến dự phòng Analog cấu hình sẵn.",
+            "Gọi cứu hỏa tự động.",
+            "Khóa màn hình lại.",
+            "Không có tác dụng gì."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Để kiểm tra chất lượng kết nối E1 trên VCCS Liberty Star-3, kỹ sư xem thông số nào trên NMS?",
+        "o": [
+            "Voltage",
+            "Slip / Loss of Signal / Alarm Indication Signal.",
+            "CPU Temp",
+            "RAM Usage"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tính năng phát đồng thời nhiều đài (Multi-carrier operation / Climax) cần lưu ý gì để tránh nhiễu?",
+        "o": [
+            "Phát cùng tần số nhưng phải cách xa nhau về địa lý và được căn chỉnh độ lệch tần số (Frequency Offset/Delay).",
+            "Phát hoàn toàn giống hệt nhau.",
+            "Chỉ phát bằng anten dọc.",
+            "Tăng tối đa âm lượng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tại TWR TSN, VCCS Liberty Star-3 dùng cáp gì kết nối CWP xuống tủ trung tâm?",
+        "o": [
+            "Cáp xoắn đôi Cat5e/Cat6 mạng LAN.",
+            "Cáp điện 2 lõi.",
+            "Cáp RS-232.",
+            "Cáp Audio 3.5mm."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Nút 'RX' hiển thị trên CWP Liberty Star-3 có màu gì khi đài vô tuyến nhận được sóng?",
+        "o": [
+            "Vàng",
+            "Đỏ",
+            "Xanh lá",
+            "Đen"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3 lưu trữ dữ liệu cấu hình trên:",
+        "o": [
+            "Ổ đĩa mềm.",
+            "Cơ sở dữ liệu của máy chủ Hệ thống (System Server/Database).",
+            "RAM của CWP.",
+            "Đám mây."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần vào menu nào để xuất File dữ liệu ghi âm?",
+        "o": [
+            "History>Export",
+            "History>Record",
+            "History>Archive",
+            "History>Log"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để tạo một thông số Role mới, ta vào mục nào?",
+        "o": [
+            "System>Role>New",
+            "Config>Role>Add",
+            "Role>Profile>Create",
+            "Role>New"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Đâu là lệnh đúng để kiểm tra trạng thái card TFU?",
+        "o": [
+            "Status>Card>TFU",
+            "Diagnostic>Hardware>TFU",
+            "System>Hardware>TFU",
+            "Maintenance>TFU"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để nạp dữ liệu hệ thống ‘System Database’ vào VCCS, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thực hiện khởi động lại hệ thống VCCS, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Reboot",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thay đổi các thông số (mức thu, phát, loại giao tiếp…) cho mạch VHF, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thay đổi các thông số (mức thu, phát, loại giao tiếp…) cho mạch Hotline 04-Wire, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: cần vào mục nào sau đây để mở một ‘Role’?",
+        "o": [
+            "Role>Panel",
+            "Role>TED",
+            "Role>Resource",
+            "Role>Profile"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: cần vào mục nào sau đây để thay đổi Layout cho một ‘Role’?",
+        "o": [
+            "Role>Panel",
+            "Role>TED",
+            "Role>Resource",
+            "Role>Profile"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần vào menu nào để thay đổi tham số giao tiếp vô tuyến Analog?",
+        "o": [
+            "Config > Radio > Analog",
+            "Hardware > RIM > Settings",
+            "System > VHF > Params",
+            "Admin > Radio > Setup"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Menu nào quản lý đồng bộ thời gian NTP?",
+        "o": [
+            "System > Clock > NTP",
+            "Config > Time > Sync",
+            "Admin > NTP Server",
+            "Maintenance > Time"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Lệnh nào dùng để Export cấu hình mạng toàn hệ thống?",
+        "o": [
+            "Network > Export",
+            "System > Config > Backup",
+            "Database > Export > Network",
+            "File > Save As"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Tính năng giám sát Voice Quality (QoS) được cấu hình ở đâu?",
+        "o": [
+            "System > QoS",
+            "Network > Voice > Quality",
+            "Diagnostic > VoIP > QoS",
+            "Admin > QoS Settings"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Giao thức của bộ giao thức TCP/IP có mấy lớp tầng",
+        "o": [
+            "1 tầng",
+            "2 tầng",
+            "3 tầng",
+            "4 tầng"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Các chương trình như HTTP, SMTP, SNMP, FTP… thuộc tầng nào trong giao thức TCP/IP",
+        "o": [
+            "Tầng ứng dụng (Application)",
+            "Tầng giao vận (Transport)",
+            "Tầng mạng (Internet)",
+            "Tất cả các tầng"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Các giao thức nào sau đây thuộc tầng vật lý (Physical - Link)",
+        "o": [
+            "IP, ARP, TCP",
+            "IP, UDP, TCP",
+            "IP, TCP, USP, ARP",
+            "Ethernet, Wifi, PPP"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Địa chỉ IP có độ dài bao nhiêu bit và được phân thành bao nhiêu lớp?",
+        "o": [
+            "32 bit, 4 lớp (A, B,C,D)",
+            "32 bit, 5 lớp (A, B, C, D, E)",
+            "48 bit, 4 lớp (A, B, C, D)",
+            "48 bit, 5 lớp (A, B, C, D, E)"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong các địa chỉ sau, chọn địa chỉ không nằm cùng đường mạng với các địa chỉ còn lại:",
+        "o": [
+            "203.29.100.100/255.255.255.240",
+            "203.29.100.110/255.255.255.240",
+            "203.29.103.113/255.255.255.240",
+            "203.29.100.98/255.255.255.240"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Địa chỉ nào sau đây là địa chỉ broadcast của mạng lớp B là:",
+        "o": [
+            "149.255.255.255",
+            "149.6.255.255",
+            "149.6.7.255",
+            "Tất cả các đều sai"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Địa chỉ nào sau đây thuộc lớp A",
+        "o": [
+            "172.29.14.10",
+            "10.1.1.1",
+            "140.8.8.8",
+            "203.5.6.7"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Địa chỉ IP nào sau đây hợp lệ",
+        "o": [
+            "192.168.1.2",
+            "255.255.255.254",
+            "321.1.2.3",
+            "Tất cả các câu trên"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong mạng máy tính dùng giao thức TCP/IP và đều dùng Subnet Mask là 255.255.255.0 thì cặp máy tính nào sau đây liên thông",
+        "o": [
+            "192.168.1.3 và 192.168.100.1",
+            "192.168.15.1 và 192.168.15.254",
+            "192.168.100.15 và 192.186.100.16",
+            "172.25.11.1 và 172.26.11.2"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Trong mạng máy tính dùng giao thức TCP/IP và Subnet Mask là 255.255.255.224 hãy xác định địa chỉ broadcast của mạng nếu biết rằng một máy tính trong mạng có địa chỉ 192.168.1.1",
+        "o": [
+            "192.168.1.31",
+            "192.168.1.255",
+            "192.168.1.15",
+            "192.168.1.96"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong Header của IP Packet có chứa:",
+        "o": [
+            "Source and Destination MAC Addresses",
+            "Source and Destination IP Addresses",
+            "Source and Destination port addresses",
+            "Không chứa địa chỉ nào cả"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Bất lợi của định tuyến tĩnh là gì?",
+        "o": [
+            "Chiếm nhiều măt thông của đường truyền (Bandwidth) hơn",
+            "Không thể sử dụng cho các Router của Cisco",
+            "Đòi hỏi bộ nhớ nhiều hơn",
+            "Router không chia sẻ thông tin định tuyến với các router khác"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Địa chỉ IP nào sau đây không được dùng để kết nối vào mạng Internet ( không được định tuyến trên mạng internet) ?",
+        "o": [
+            "168.21.5.1",
+            "11.10.10.1",
+            "192.168.20.10",
+            "100.200.200.1"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Khi thực hiện lệnh Ping từ PC A sang PC B, tại PC A có thông báo: Reply from 192.168.1.2: bytes=32 time<1ms TTL=64, điều đó có nghĩa là?",
+        "o": [
+            "Máy B đang bận",
+            "Không có kết nối vật lý",
+            "Thông tin kết nối thành công từ máy A sang máy B",
+            "Các thông tin trên đều sai"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Chức năng của giao thức ARP là:",
+        "o": [
+            "Phân giải IP sang MAC",
+            "Phân giải Tên miền sang IP",
+            "Phân giải MAC sang IP",
+            "Dùng để cấp IP động"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị dùng để kiểm tra mạng internet có kết nối thành công không ta dùng thiết bị gì?",
+        "o": [
+            "PC/ Laptop",
+            "Thiết bị đo cáp mạng",
+            "Thiết bị đo OTDR",
+            "Switch"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Máy tính có địa chỉ IP: 192.168.1.5 và Subnet mask: 255.255.255.0 có thể ping đến máy tính nào sao đây:",
+        "o": [
+            "192.168.1.2",
+            "192.168.2.2",
+            "192.168.0.5",
+            "172.16.1.5"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Một Switch có 24 port thì có bao nhiêu địa chỉ IP",
+        "o": [
+            "24",
+            "1",
+            "0",
+            "100"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi một máy tính A PING một máy tính B, máy tính B tắt nguồn thì máy A sẽ có thống báo gì",
+        "o": [
+            "Request timed out",
+            "Destination host unreachable",
+            "Ping request could not find host",
+            "Reply from ..."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị switch ở Cà Mau hiện đang dùng là của hãng nào",
+        "o": [
+            "Cisco",
+            "HP",
+            "Fortigate",
+            "Microtic"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi nào một cuộc gọi được định tuyến đến loa ngoài thay vì tai nghe?",
+        "o": [
+            "Khi tai nghe không đạt chất lượng",
+            "Khi tai nghe chưa được cắm",
+            "Khi nút SPLIT được bật",
+            "Khi chức năng HOLD được kích hoạt"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chức năng nào được sử dụng để tạo cuộc gọi nội bộ khẩn cấp?",
+        "o": [
+            "Monitor",
+            "Pick-up",
+            "Hotline",
+            "Divert"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Chức năng nào cho phép tạm dừng cuộc gọi thoại?",
+        "o": [
+            "Split",
+            "Hold",
+            "Monitor",
+            "Mute"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phần mềm MMS hoạt động trên hệ điều hành nào?",
+        "o": [
+            "Windows",
+            "IOS",
+            "Android"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi nút 'Forward' được bật, chức năng gì được kích hoạt?",
+        "o": [
+            "Tăng âm lượng",
+            "Tạm dừng cuộc gọi thoại",
+            "Chuyển tiếp cuộc gọi đến vị trí khác",
+            "Ghi âm nội dung cuộc gọi"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Module phần mềm nào dùng để cấu hình hệ thống và các đối tượng VCS trong MMS?",
+        "o": [
+            "Keyboard Editor",
+            "System Editor",
+            "Router Editor",
+            "Alarm Collector"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chức năng nào cho phép thiết lập cuộc hội thoại nhiều bên?",
+        "o": [
+            "Pick-up",
+            "Conference",
+            "Transfer",
+            "Forward"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi một tần số radio được chọn phát, điều gì hiển thị trên các vị trí khác cũng có cài đặt tần số đó?",
+        "o": [
+            "Nhãn 'Busy' hiển thị để chỉ trạng thái tần số đang phát bởi vị trí khác",
+            "Hiển thị nhãn 'Hold'",
+            "Tắt toàn bộ loa",
+            "Chuyển sang kênh dự phòng"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Mục đích của chức năng 'Monitor' trong hệ thống là gì?",
+        "o": [
+            "Tắt tiếng người gọi",
+            "Giám sát cuộc gọi đang diễn ra mà không tham gia",
+            "Ghi âm nội dung truyền",
+            "Tạo báo cáo cảnh báo"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong giao tiếp VHF, nút TX đang được kích hoạt sẽ hiển thị gì khi một kiểm soát viên tại vị trí khác đang phát?",
+        "o": [
+            "HOT",
+            "Squelch",
+            "Busy",
+            "Vị trí đang phát"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Trên VCS Sitti M800IP có các cách PTT nào sau đây?",
+        "o": [
+            "Footswitch",
+            "Handset/Headset",
+            "PTT mềm trên CWP",
+            "Cả 1 và 2"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Khi nhấn nút LOCK để vệ sinh bề mặt cảm ứng thì phát biểu nào sau đây là đúng nhất",
+        "o": [
+            "Bàn CWP không hoạt động",
+            "Bàn CWP vẫn hoạt động bình thường",
+            "Bàn CWP vẫn hoạt động bình thường nhưng cảm ứng bị vô hiệu hóa để vệ sinh cho đến khi người sử dụng UNLOCK"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tín hiệu Thu (Squelch) vô tuyến được hiển thị trên nút Rx (đang chọn) như thế nào?",
+        "o": [
+            "Nút RX nhấp nháy đỏ",
+            "Nút RX nhấp nháy xanh",
+            "Nút RX nhấp nháy vàng",
+            "Biểu tượng loa xuất hiện"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Card TLV/FXO có chức năng gì?",
+        "o": [
+            "Kết nối VCCS với tổng đài PBX hoặc card FXS của thiết bị ghép kênh",
+            "Kết nối VCCS với điện thoại ngoài",
+            "Kết nối VCCS với thiết bị ghi âm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Card TLV/FXS có chức năng gì?",
+        "o": [
+            "Kết nối VCCS với tổng đài",
+            "Kết nối VCCS với điện thoại hoặc card FXO của thiết bị ghép kênh",
+            "Kết nối VCCS với thiết bị ghi âm"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nút \"PICKUP\" cho phép KSV làm gì?",
+        "o": [
+            "Chuyển máy VHF Main/Standby",
+            "Trả lời một cuộc gọi đang đổ chuông tại một vị trí CWP hoặc hotline khác",
+            "Mở khóa màn hình",
+            "Tự động trả lời cuộc gọi"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trên CWP, khi KSVKL chọn “TX” trên nút tần số VHF thì “Rx” sẽ như thế nào?",
+        "o": [
+            "Tự động được chọn",
+            "Không được chọn",
+            "Không được chọn nhưng khi có thu thì tự động được chọn",
+            "Tùy vào cấu hình trên phần mềm giám sát MMS"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi nhấn \"REBOOT\" trong Tab Maintenance của màn hình Settings, hành động nào sẽ xảy ra?",
+        "o": [
+            "CWP sẽ khởi động lại phần mềm, ngắt toàn bộ liên lạc thoại",
+            "Tắt nguồn phần cứng",
+            "Khôi phục cài đặt gốc"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Nút \"IDA\" ở thanh công cụ bên phải mở ra công cụ gì?",
+        "o": [
+            "Bàn phím số để bấm số điện thoại trực tiếp (Dial pad)",
+            "Nghe lại ghi âm Instant Recorder",
+            "Cài đặt đồng hồ",
+            "Bảng điều khiển tần số"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một vị trí điều hành ‘Position’ bị hư hỏng không khai thác được?",
+        "o": [
+            "Yêu cầu KSVKL chuyển sang khai thác trên vị trí dự phòng, sau đó thực hiện kiểm tra khắc phục hoặc thay thế dự phòng, báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca",
+            "Thực hiện kiểm tra khắc phục hoặc thay thế trước, sau đó yêu cầu KSVKL chuyển sang khai thác trên vị trí dự phòng, báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca",
+            "Kiểm tra khắc phục sửa chữa, hoặc thay thế dự phòng",
+            "Cả 1 và 2 đều đúng"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một Card DAP điều khiển máy thu, máy phát đang khai thác bị hư hỏng",
+        "o": [
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị",
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy VHF dự phòng độc lập",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca",
+            "Lần lượt thực hiện theo thứ tự các mục 2, 1, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện khi mất tín hiệu trên cổng ra ghi âm ‘I/O Port’ của vị trí điều hành ‘Position’, thực hiện thao tác nào sau đây?",
+        "o": [
+            "Log_Out, rồi Log_In",
+            "Reset phần mềm TED",
+            "Reset khối PAC",
+            "Cả 1, 2, 3 đều sai"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một Card COP kết nối với bộ ghép kênh ‘Channel Bank’ đang khai thác bị hư hỏng",
+        "o": [
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang liên lạc hiệp đồng với các bộ phận liên quan trên các mạch Hotline và điện thoại dự phòng",
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca",
+            "Lần lượt thực hiện theo thứ tự các mục 1, 2, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các mục cần thực hiện thay thế một vị trí điều hành ‘Position’ bị hư hỏng?",
+        "o": [
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’.",
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’, thay đổi tên‘Computer Name’ trong ‘System Properties’.",
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’, thay đổi tên ‘Computer Name’ trong ‘System Properties’, thiết lập địa chỉ IP cho cổng kết nối LAN.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một bộ ghép kênh ‘Channel Bank’ đang khai thác bị hư hỏng?",
+        "o": [
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị.",
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang liên lạc hiệp đồng với các bộ phận liên quan trên các mạch Hotline và điện thoại dự phòng.",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Lần lượt thực hiện theo thứ tự các mục 2, 1, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện các bước thay thế Card COP bị hư hỏng bằng Card COP dự phòng hiện có?",
+        "o": [
+            "Tháo Card COP hỏng, sau đó gắn Card COP dự phòng.",
+            "Tháo Card COP hỏng, sau đó gắn Card COP dự phòng, nạp cấu hình cho Card COP dự phòng từ đầu cuối ‘SMART’.",
+            "Tháo Card COP hỏng, nạp cấu hình cho Card COP dự phòng từ đầu cuối ‘SMART’, sau đó gắn Card COP dự phòng.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện các bước thay thế Card DAP bị hư hỏng bằng Card DAP dự phòng hiện có?",
+        "o": [
+            "Tháo Card DAP hỏng, sau đó gắn Card DAP dự phòng",
+            "Tháo Card DAP hỏng, sau đó gắn Card DAP dự phòng, nạp cấu hình cho Card DAP dự phòng từ đầu cuối ‘SMART’.",
+            "Tháo Card DAP hỏng, nạp cấu hình cho Card DAP dự phòng từ đầu cuối ‘SMART’, sau đó gắn Card DAP dự phòng.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một vị trí điều hành ‘Position’ báo lỗi kết nối luồng T1 trên đầu cuối giám sát, cấu hình ‘SMART’, cần kiểm tra các cổng kết nối nào sau đây?",
+        "o": [
+            "‘T1 Port’ của Card COP, East Port, West Port.",
+            "‘T1 Port’ của Card COP, East Port, hoạt động của ‘Position’.",
+            "‘T1 Port’ của Card COP, West Port, hoạt động của ‘Position’.",
+            "‘T1 Port’ của Card COP, East Port, West Port, hoạt động của ‘Position’."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một máy thu VHF kết nối với Card DAP, không khai thác được, cần kiểm tra các mạch kết nối nào sau đây?",
+        "o": [
+            "Line_In, Squelch, Select.",
+            "Line_Out, Squelch, Select",
+            "Line_In, Squelch, Alarm",
+            "Line_Out, Squelch, Alarm"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một máy phát VHF kết nối với Card DAP, không khai thác được, cần kiểm tra các mạch kết nối nào sau đây?",
+        "o": [
+            "Line_In, PTT, Select.",
+            "Line_Out, PTT, Select.",
+            "Line_In, PTT, Alarm",
+            "Line_Out, PTT, Alarm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Qui trình báo cáo ban đầu: Khi xãy ra sự cố kỹ thuật trong qui định cần phải báo cáo, ca trực thực hiện các nội dung nào sau đây",
+        "o": [
+            "Kíp trưởng báo cáo bằng điện thoại cho lãnh đạo đội, trực Trung tâm BĐKT nếu ngoài giờ hành chính",
+            "Kíp trưởng điền theo mẫu báo cáo ban đầu và đọc qua điện thoại cho lãnh đạo trực Giám đốc và trực Ban An toàn-An ninh",
+            "Kíp trưởng gởi bản báo cáo ban đầu cho cho lãnh đạo đội ký xác nhận",
+            "Lần lượt thực hiện theo thứ tự các mục 1, 2, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Hiện nay thiết bị Liberty Star-3 đang khai thác tại Đài KSKL Tân Sơn Nhất có bao nhiêu Master Shelf CE-1?",
+        "o": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Master Shelf CE-1 đang khai thác tại Đài KSKL Tân Sơn Nhất hiện được gắn bao nhiêu Card COP?",
+        "o": [
+            "04.",
+            "05.",
+            "06.",
+            "08."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Slaver Shelf CE-2 đang khai thác tại Đài KSKL Tân Sơn Nhất hiện được gắn bao nhiêu Card DAP?",
+        "o": [
+            "06.",
+            "08.",
+            "10.",
+            "12."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Hiện nay thiết bị Liberty Star-3 đang khai thác tại Đài KSKL Tân Sơn Nhất sử dụng bao nhiêu ‘Power Supply Shelf’?",
+        "o": [
+            "01.",
+            "02.",
+            "03.",
+            "04."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Hiện đang sử dụng bao nhiêu bộ triệt tiếng vọng ‘Echo Canceller’?",
+        "o": [
+            "01.",
+            "02.",
+            "03.",
+            "04."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Trong ‘System Database’ chúng ta có thể khai báo tối đa bao nhiêu vị trí điều hành ‘Position’ trên 01 ‘Loop’?",
+        "o": [
+            "04.",
+            "08.",
+            "16.",
+            "32."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Có bao nhiêu Port T1 trên 01 Card COP?",
+        "o": [
+            "02.",
+            "04.",
+            "05.",
+            "06."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần có bao nhiêu Card COP để tạo thành 01 ‘Loop’?",
+        "o": [
+            "01.",
+            "02.",
+            "03.",
+            "04."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Máy thu, máy phát VHF kết nối với VCCS trên Card nào sau đây?",
+        "o": [
+            "COP.",
+            "DAP.",
+            "FXS.",
+            "FXO."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Mạch Hotline 04-Wire kết nối với VCCS trên Card nào sau đây?",
+        "o": [
+            "COP.",
+            "DAP.",
+            "FXS.",
+            "FXO."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Bộ ghép kênh ‘Channel Bank’ kết nối với VCCS trên Card nào sau đây?",
+        "o": [
+            "COP.",
+            "DAP.",
+            "FXS.",
+            "FXO."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Bộ triệt tiếng vọng ‘Echo Canceller’ kết nối giữa:",
+        "o": [
+            "Bộ ghép kênh ‘Channel Bank’ và Card DAP.",
+            "Bộ ghép kênh ‘Channel Bank’ và Card COP.",
+            "Card COP và Card DAP.",
+            "Cả 1, 2, 3 đều đúng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Đầu cuối giám sát, cấu hình ‘SMART’ kết nối với VCCS qua Card COP nào sau đây?",
+        "o": [
+            "COP-A.",
+            "COP-B.",
+            "COP-F.",
+            "1, 2, 3 đều đúng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Đầu cuối giám sát, cấu hình ‘SMART’ kết nối với Card COP-A trên cổng nào sau đây?",
+        "o": [
+            "RS-232 Port.",
+            "LAN Port.",
+            "T1 Port.",
+            "North and South Bridge Port."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Thông tin thoại liên lạc giữa Card COP và Card DAP, được truyền trên Bus nào sau đây?",
+        "o": [
+            "H.100 Bus.",
+            "PCM Bus.",
+            "LAN Bus.",
+            "Cả 1, 2 đều đúng."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Dữ liệu điều khiển liên lạc giữa các Card COP, được truyền trên Bus nào sau đây?",
+        "o": [
+            "H.100 Bus.",
+            "PCM Bus.",
+            "LAN Bus.",
+            "Cả 1, 2 đều đúng."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Dữ liệu hệ thống ‘System Database’ được nạp vào VCCS từ?",
+        "o": [
+            "DAP.",
+            "PAC.",
+            "SMART.",
+            "CB."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để nạp dữ liệu hệ thống ‘System Database’ vào ‘Reference Database’, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "Upgrade.",
+            "Download.",
+            "Reboot.",
+            "Distribute."
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần vào mục nào sau đây để gán một ‘Role’ cho vị trí điều hành ‘Position’?",
+        "o": [
+            "Mission-TED.",
+            "TED-Open.",
+            "Mission-Mapping.",
+            "On-Line."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Có thể nạp nhiều ‘Role’ cho vị trí điều hành ‘Position’?",
+        "o": [
+            "Có.",
+            "Không.",
+            "Tùy thuộc vào vai trò của ‘Position’.",
+            "Tùy thuộc vào quyền truy cập vào ‘SMART’."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một vị trí điều hành ‘Position’ bị hư hỏng không khai thác được?",
+        "o": [
+            "Yêu cầu KSVKL chuyển sang khai thác trên vị trí dự phòng, sau đó thực hiện kiểm tra khắc phục hoặc thay thế dự phòng, báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Thực hiện kiểm tra khắc phục hoặc thay thế trước, sau đó yêu cầu KSVKL chuyển sang khai thác trên vị trí dự phòng, báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Kiểm tra khắc phục sửa chữa, hoặc thay thế dự phòng.",
+            "Cả 1 và 2 đều đúng."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một Card DAP điều khiển máy thu, máy phát đang khai thác bị hư hỏng?",
+        "o": [
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị.",
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy VHF dự phòng độc lập.",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Lần lượt thực hiện theo thứ tự các mục 2, 1, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện khi mất tín hiệu trên cổng ra ghi âm ‘I/O Port’ của vị trí điều hành ‘Position’, thực hiện thao tác nào sau đây?",
+        "o": [
+            "Log_Out, rồi Log_In.",
+            "Reset phần mềm TED.",
+            "Reset khối PAC.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một Card COP kết nối với bộ ghép kênh ‘Channel Bank’ đang khai thác bị hư hỏng?",
+        "o": [
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang liên lạc hiệp đồng với các bộ phận liên quan trên các mạch Hotline và điện thoại dự phòng.",
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị.",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Lần lượt thực hiện theo thứ tự các mục 1, 2, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các mục cần thực hiện thay thế một vị trí điều hành ‘Position’ bị hư hỏng?",
+        "o": [
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’.",
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’, thay đổi tên‘Computer Name’ trong ‘System Properties’.",
+            "Thiết lập địa chỉ ID, thay đổi tên ‘Workstation’ trong ‘Communication.cfg’, thay đổi tên ‘Computer Name’ trong ‘System Properties’, thiết lập địa chỉ IP cho cổng kết nối LAN.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình các bước thực hiện khi một bộ ghép kênh ‘Channel Bank’ đang khai thác bị hư hỏng?",
+        "o": [
+            "Kiểm tra khắc phục hoặc thay thế dự phòng, khôi phục lại hoạt động của thiết bị.",
+            "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang liên lạc hiệp đồng với các bộ phận liên quan trên các mạch Hotline và điện thoại dự phòng.",
+            "Báo cáo lãnh đạo phụ trách trực tiếp và ghi sổ trực ca.",
+            "Lần lượt thực hiện theo thứ tự các mục 2, 1, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện các bước thay thế Card COP bị hư hỏng bằng Card COP dự phòng hiện có?",
+        "o": [
+            "Tháo Card COP hỏng, sau đó gắn Card COP dự phòng.",
+            "Tháo Card COP hỏng, sau đó gắn Card COP dự phòng, nạp cấu hình cho Card COP dự phòng từ đầu cuối ‘SMART’.",
+            "Tháo Card COP hỏng, nạp cấu hình cho Card COP dự phòng từ đầu cuối ‘SMART’, sau đó gắn Card COP dự phòng.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Qui trình thực hiện các bước thay thế Card DAP bị hư hỏng bằng Card DAP dự phòng hiện có?",
+        "o": [
+            "Tháo Card DAP hỏng, sau đó gắn Card DAP dự phòng.",
+            "Tháo Card DAP hỏng, sau đó gắn Card DAP dự phòng, nạp cấu hình cho Card DAP dự phòng từ đầu cuối ‘SMART’.",
+            "Tháo Card DAP hỏng, nạp cấu hình cho Card DAP dự phòng từ đầu cuối ‘SMART’, sau đó gắn Card DAP dự phòng.",
+            "Cả 1, 2, 3 đều sai."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một vị trí điều hành ‘Position’ báo lỗi kết nối luồng T1 trên đầu cuối giám sát, cấu hình ‘SMART’, cần kiểm tra các cổng kết nối nào sau đây?",
+        "o": [
+            "‘T1 Port’ của Card COP, East Port, West Port.",
+            "‘T1 Port’ của Card COP, East Port, hoạt động của ‘Position’.",
+            "‘T1 Port’ của Card COP, West Port, hoạt động của ‘Position’.",
+            "‘T1 Port’ của Card COP, East Port, West Port, hoạt động của ‘Position’."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một máy thu VHF kết nối với Card DAP, không khai thác được, cần kiểm tra các mạch kết nối nào sau đây?",
+        "o": [
+            "Line_In, Squelch, Select.",
+            "Line_Out, Squelch, Select",
+            "Line_In, Squelch, Alarm",
+            "Line_Out, Squelch, Alarm"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Khi một máy phát VHF kết nối với Card DAP, không khai thác được, cần kiểm tra các mạch kết nối nào sau đây?",
+        "o": [
+            "Line_In, PTT, Select.",
+            "Line_Out, PTT, Select.",
+            "Line_In, PTT, Alarm",
+            "Line_Out, PTT, Alarm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Qui trình báo cáo ban đầu: Khi xãy ra sự cố kỹ thuật trong qui định cần phải báo cáo, ca trực thực hiện các nội dung nào sau đây?",
+        "o": [
+            "Kíp trưởng báo cáo bằng điện thoại cho lãnh đạo đội, trực Trung tâm BĐKT nếu ngoài giờ hành chính.",
+            "Kíp trưởng điền theo mẫu báo cáo ban đầu và đọc qua điện thoại cho lãnh đạo trực Giám đốc và trực Ban An toàn-An ninh.",
+            "Kíp trưởng gởi bản báo cáo ban đầu cho cho lãnh đạo đội ký xác nhận.",
+            "Lần lượt thực hiện theo thứ tự các mục 1, 2, 3."
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần vào menu nào để xuất File dữ liệu ghi âm?",
+        "o": [
+            "History>Export",
+            "History>Record",
+            "History>Archive",
+            "History>Log"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để tạo một thông số Role mới, ta vào mục nào?",
+        "o": [
+            "System>Role>New",
+            "Config>Role>Add",
+            "Role>Profile>Create",
+            "Role>New"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Đâu là lệnh đúng để kiểm tra trạng thái card TFU?",
+        "o": [
+            "Status>Card>TFU",
+            "Diagnostic>Hardware>TFU",
+            "System>Hardware>TFU",
+            "Maintenance>TFU"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để nạp dữ liệu hệ thống ‘System Database’ vào VCCS, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thực hiện khởi động lại hệ thống VCCS, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Reboot",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thay đổi các thông số (mức thu, phát, loại giao tiếp…) cho mạch VHF, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Để thay đổi các thông số (mức thu, phát, loại giao tiếp…) cho mạch Hotline 04-Wire, cần thực hiện lệnh nào sau đây?",
+        "o": [
+            "System>Online",
+            "System>Upgrade",
+            "System>Update",
+            "System>Download"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: cần vào mục nào sau đây để mở một ‘Role’?",
+        "o": [
+            "Role>Panel",
+            "Role>TED",
+            "Role>Resource",
+            "Role>Profile"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: cần vào mục nào sau đây để thay đổi Layout cho một ‘Role’?",
+        "o": [
+            "Role>Panel",
+            "Role>TED",
+            "Role>Resource",
+            "Role>Profile"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Cần vào menu nào để thay đổi tham số giao tiếp vô tuyến Analog?",
+        "o": [
+            "Config > Radio > Analog",
+            "Hardware > RIM > Settings",
+            "System > VHF > Params",
+            "Admin > Radio > Setup"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Menu nào quản lý đồng bộ thời gian NTP?",
+        "o": [
+            "System > Clock > NTP",
+            "Config > Time > Sync",
+            "Admin > NTP Server",
+            "Maintenance > Time"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Lệnh nào dùng để Export cấu hình mạng toàn hệ thống?",
+        "o": [
+            "Network > Export",
+            "System > Config > Backup",
+            "Database > Export > Network",
+            "File > Save As"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Tính năng giám sát Voice Quality (QoS) được cấu hình ở đâu?",
+        "o": [
+            "System > QoS",
+            "Network > Voice > Quality",
+            "Diagnostic > VoIP > QoS",
+            "Admin > QoS Settings"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Module điều khiển nào được dùng để kết nối với các thiết bị bên ngoài trong hệ thống R&S Series 4200?",
+        "o": [
+            "VU",
+            "EXU",
+            "PSU",
+            "BPU"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Các thiết bị R&S Series 4200 có thể được cấp nguồn bởi dải điện áp DC là bao nhiêu?",
+        "o": [
+            "12 VDC đến 24 VDC",
+            "24 VDC đến 48 VDC",
+            "18 VDC đến 36 VDC",
+            "48 VDC đến 72 VDC"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Phương thức làm mát của máy phát (TX) R&S Series 4200 loại công suất 50W là gì?",
+        "o": [
+            "Làm mát bằng nước",
+            "Làm mát đối lưu tự nhiên",
+            "Quạt làm mát",
+            "Làm mát bằng khí nén"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Giao diện cấu hình phần mềm cho thiết bị R&S Series 4200 thông qua cổng LAN ở mặt trước có địa chỉ IP mặc định là gì?",
+        "o": [
+            "192.168.1.1",
+            "10.0.0.1",
+            "192.168.0.2",
+            "Tùy theo cấu hình mạng cục bộ"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Hệ thống vô tuyến R&S Series 4200 sử dụng loại giao thức nào để truyền thoại trên nền mạng IP (VoIP)?",
+        "o": [
+            "SIP",
+            "ED-137",
+            "H.323",
+            "MGCP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Tần số điều hành vô tuyến của thiết bị R&S Series 4200 có thể thiết lập bước nhảy tần số (Channel Spacing) là bao nhiêu?",
+        "o": [
+            "Chỉ 25 kHz",
+            "Chỉ 8.33 kHz",
+            "Cả 8.33 kHz và 25 kHz",
+            "12.5 kHz"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thẻ RF (Radio Frequency) trong R&S Series 4200 có chức năng chính là gì?",
+        "o": [
+            "Chuyển đổi tín hiệu IP thành Analog",
+            "Thực hiện chức năng thu/phát và điều chế/giải điều chế tín hiệu vô tuyến",
+            "Cấp nguồn điện cho toàn hệ thống",
+            "Kết nối trực tiếp tới VCS qua ISDN"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Đèn LED trạng thái 'ALARM' trên mặt trước của R&S Series 4200 có màu gì khi hệ thống hoạt động bình thường, không có lỗi?",
+        "o": [
+            "Sáng màu đỏ",
+            "Nhấp nháy màu đỏ",
+            "Nhấp nháy màu vàng",
+            "Tắt hoàn toàn"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Phần mềm được hãng R&S khuyến nghị dùng để quản lý cấu hình và giám sát các trạm vô tuyến Series 4200 từ xa là gì?",
+        "o": [
+            "R&S®RCMS II",
+            "Wireshark",
+            "Cisco Packet Tracer",
+            "SolarWinds"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi đo kiểm công suất bằng thiết bị đo (ví dụ: máy đo Bird), để hệ thống R&S 4200 phát sóng theo chế độ đo (Continuous Wave), kỹ thuật viên nên sử dụng chức năng nào trong phần mềm quản lý?",
+        "o": [
+            "Bật PTT liên tục (Test PTT)",
+            "Chỉnh Squelch về 0",
+            "Tăng âm lượng tối đa",
+            "Cắm cáp mạng vào cổng PTT"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Một trong những lợi ích của việc cấu hình hệ thống R&S Series 4200 chạy dưới chế độ 'Main/Standby' là gì?",
+        "o": [
+            "Tăng công suất phát gấp đôi",
+            "Tự động chuyển đổi sang máy dự phòng khi máy chính gặp sự cố",
+            "Phát cùng lúc trên nhiều dải tần",
+            "Giảm điện năng tiêu thụ xuống một nửa"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao diện cổng E&M trên thiết bị R&S Series 4200 chủ yếu được sử dụng để làm gì?",
+        "o": [
+            "Truyền dữ liệu tốc độ cao",
+            "Kết nối nguồn điện 220V",
+            "Kết nối thoại vô tuyến chuẩn Analog 4-wire tới hệ thống VCS cũ",
+            "Đồng bộ thời gian GPS"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Để kiểm tra mức tín hiệu thu sóng (RSSI) hoặc chất lượng kênh truyền, có thể kiểm tra ở phần nào trên giao diện cấu hình của R&S 4200?",
+        "o": [
+            "Phần Network Settings",
+            "Phần Audio Levels/Metrics",
+            "Phần Power Supply",
+            "Phần User Management"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nút Reset trên máy R&S Series 4200 có tác dụng gì nếu được nhấn giữ quá 10 giây?",
+        "o": [
+            "Chuyển chế độ hoạt động sang FM",
+            "Tắt hoàn toàn máy phát",
+            "Khôi phục cấu hình mặc định của nhà sản xuất (Factory Default)",
+            "Cập nhật firmware mới nhất"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Điều gì có thể gây ra cảnh báo VSWR cao (High VSWR Alarm) trên hệ thống máy phát R&S 4200?",
+        "o": [
+            "Lỗi nguồn điện cấp DC",
+            "Đứt hoặc lỏng cáp ăng-ten, hỏng ăng-ten, hoặc trở kháng không phối hợp tốt",
+            "Lỗi phần mềm điều khiển từ xa",
+            "Không nhận được IP từ máy chủ DHCP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chức năng Climax (Offset carrier operation) trong R&S 4200 được sử dụng trong trường hợp nào?",
+        "o": [
+            "Khi có nhiều máy phát phát cùng một tần số ở các vị trí địa lý khác nhau để tránh nhiễu triệt tiêu",
+            "Khi máy bay bay ở độ cao quá cao",
+            "Khi cần tăng cường độ bảo mật mã hóa",
+            "Khi mất kết nối mạng IP"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Card BPU (Baseband Processing Unit) trong máy vô tuyến R&S có vai trò gì?",
+        "o": [
+            "Khuếch đại tín hiệu trước khi ra anten",
+            "Xử lý tín hiệu băng gốc, chuyển đổi A/D và D/A, mã hóa/giải mã âm thanh, và đóng gói IP",
+            "Cung cấp điện áp 48V cho toàn khối",
+            "Tạo sóng mang trung tần"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Hệ số công suất phát mặc định của một máy phát R&S 4200 VHF cho điều hành bay dân dụng thường được cấu hình trong khoảng nào?",
+        "o": [
+            "1W đến 5W",
+            "10W đến 50W",
+            "100W đến 500W",
+            "1000W đến 5000W"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để tránh việc máy vô tuyến liên tục bị mở Squelch bởi nhiễu nền, kỹ sư cần thao tác gì trên giao diện R&S 4200?",
+        "o": [
+            "Tăng công suất phát",
+            "Giảm âm lượng loa",
+            "Thay đổi cáp nguồn",
+            "Điều chỉnh tăng ngưỡng Squelch Threshold"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Việc cập nhật Firmware cho thiết bị R&S Series 4200 có thể được thực hiện thông qua giao diện nào?",
+        "o": [
+            "Qua cổng âm thanh (Audio Port)",
+            "Qua giao diện Web Server nội bộ bằng trình duyệt kết nối mạng LAN",
+            "Cắm cáp quang trực tiếp",
+            "Gửi lệnh bằng sóng vô tuyến"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Địa chỉ IP nào sau đây là địa chỉ quảng bá cho một mạng bất kỳ",
+        "o": [
+            "255.255.255.255",
+            "172.16.1.255",
+            "1.1.1.1",
+            "30.20.30.255"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chuỗi số “00-08-ac-41-5d-9f” có thể là:",
+        "o": [
+            "Địa chỉ IP",
+            "Địa chỉ port",
+            "Địa chỉ MAC",
+            "Tất cả đều sai"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị nào hoạt động ở tầng Physical:",
+        "o": [
+            "Switch",
+            "Card Mạng",
+            "Router",
+            "Tất cả đều đúng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao thức IP hoạt động tại lớp nào trong mô hình TCP/IP?",
+        "o": [
+            "Lớp Truy nhập mạng",
+            "Lớp Phiên",
+            "Lớp liên mạng",
+            "Lớp truyền tải"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Trong mô hình TCP/IP, giao thức SNMP (Simple Network Management Protocol) hoạt động tại lớp:",
+        "o": [
+            "Truy nhập mạng",
+            "Giao vận",
+            "Ứng dụng",
+            "Mạng"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tầng giao vận (Transport Layer) trong mô hình OSI cung cấp dịch vụ gì?",
+        "o": [
+            "Truyền dữ liệu không tin cậy (UDP)",
+            "Truyền dữ liệu tin cậy (TCP)",
+            "Định tuyến và chuyển tiếp các gói tin",
+            "Cả A và B đều đúng"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Giao thức nào cho phép máy tính nhận địa chỉ IP tự động từ máy chủ mạng?",
+        "o": [
+            "DNS",
+            "DHCP",
+            "FTP",
+            "HTTP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Địa chỉ nào sau đây là địa chỉ private IPv4?",
+        "o": [
+            "172.16.0.1",
+            "10.0.0.1",
+            "192.168.1.1",
+            "Tất cả các phương án đều đúng"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Thiết bị CWP (Controller Working Position) là gì?",
+        "o": [
+            "Thiết bị chuyển mạch gói",
+            "Vị trí làm việc của kiểm soát viên không lưu, cung cấp giao diện để họ thực hiện các chức năng liên lạc",
+            "Thiết bị phát sóng radio",
+            "Máy chủ giám sát và quản lý mạng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thành phần chính của một vị trí làm việc CWP bao gồm:",
+        "o": [
+            "Màn hình hiển thị TED (Touch Entry Device)",
+            "Bộ Micro, Loa, Tai Nghe",
+            "Nút PTT vật lý (Footswitch/Handswitch)",
+            "Tất cả các phương án trên"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Chức năng PTT (Push-To-Talk) trên CWP có tác dụng gì?",
+        "o": [
+            "Chuyển từ chế độ thu sang chế độ phát sóng để truyền giọng nói của KSVKL",
+            "Điều chỉnh độ sáng của màn hình cảm ứng",
+            "Khởi động lại hệ thống VCCS",
+            "Tăng âm lượng loa ngoài"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Màn hình TED (Touch Entry Device) cung cấp tính năng gì cho người dùng (KSVKL)?",
+        "o": [
+            "Lựa chọn tần số vô tuyến để làm việc (Chọn Tx/Rx)",
+            "Cấu hình địa chỉ IP cho máy phát VHF",
+            "Xem dữ liệu Radar",
+            "Phân tích lỗi của card trung tâm"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi biểu tượng vô tuyến trên màn hình CWP hiển thị trạng thái đang thu tín hiệu (Receiving/Squelch Open), màu sắc thường thay đổi như thế nào (theo quy chuẩn chung)?",
+        "o": [
+            "Màu xám",
+            "Màu đỏ",
+            "Màu xanh lá cây (Green) hoặc màu tương đương báo hiệu đang có tín hiệu vào",
+            "Màn hình tắt nhấp nháy"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Làm thế nào để KSVKL nhận biết trên CWP rằng tần số đó đang được phát bởi một KSVKL ở vị trí làm việc khác?",
+        "o": [
+            "Biểu tượng tần số đó biến mất khỏi màn hình",
+            "Nút tần số hiển thị màu vàng/cam hoặc có ký hiệu 'BUSY/HOT'",
+            "Máy tự động tắt nguồn",
+            "Phát ra tiếng còi báo động"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong khai thác CWP, 'Intercom' dùng để thực hiện việc gì?",
+        "o": [
+            "Liên lạc sóng VHF với phi công",
+            "Liên lạc thoại nội bộ trực tiếp giữa các vị trí kiểm soát viên với nhau",
+            "Gọi điện thoại quốc tế",
+            "Phát loa thông báo hành khách"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong quá trình khai thác CWP, khi kiểm soát viên gặp sự cố mất tiếng trên loa chính, thao tác xử lý kiểm tra đầu tiên có thể làm là gì?",
+        "o": [
+            "Rút phích cắm nguồn tủ máy trung tâm",
+            "Kiểm tra xem âm lượng loa có bị kéo xuống mức 0 hoặc có cắm tai nghe đang ngắt loa hay không",
+            "Khởi động lại toàn bộ mạng LAN",
+            "Thay cáp đồng trục"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi chọn một tần số vô tuyến trên màn hình CWP với trạng thái Rx (chỉ định thu), KSVKL có thể:",
+        "o": [
+            "Vừa nghe vừa nói chuyện được với máy bay trên tần số đó",
+            "Chỉ nghe được phi công nói, không thể phát thanh (Truyền Tx) trên tần số đó",
+            "Không nghe được gì",
+            "Tần số tự động chuyển sang tần số dự phòng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để có thể truyền thoại tới phi công trên một tần số vô tuyến, KSVKL phải thao tác cấu hình nút bấm ở trạng thái nào trên màn hình?",
+        "o": [
+            "Trạng thái Mute",
+            "Trạng thái Rx duy nhất",
+            "Trạng thái Tx (Thường sẽ kích hoạt luôn Rx)",
+            "Trạng thái Standby"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Chức năng Cross-Coupling (Hoặc Multi-Frequency/Retransmission) trên CWP cho phép:",
+        "o": [
+            "Tự động tắt các tần số không sử dụng",
+            "Kết nối 2 hay nhiều tần số vô tuyến lại với nhau để phi công ở các dải tần khác nhau có thể nghe thấy nhau nói chuyện",
+            "Đồng bộ thời gian giữa các màn hình",
+            "Giảm nhiễu nền vô tuyến"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi KSVKL cắm tai nghe (Headset) vào jack cắm trên CWP, hệ thống âm thanh mặc định thường xử lý như thế nào?",
+        "o": [
+            "Âm lượng loa ngoài tăng lên tối đa",
+            "Ngắt âm thanh phát ra loa ngoài và chuyển toàn bộ âm lượng vô tuyến/điện thoại vào tai nghe",
+            "Tự động phát lời chào",
+            "Khóa màn hình cảm ứng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Nếu nút PTT chân (Foot-switch) của CWP bị kẹt (luôn đóng mạch), hiện tượng gì sẽ xảy ra?",
+        "o": [
+            "Hệ thống không phát sóng được",
+            "Tần số đã chọn sẽ bị phát sóng liên tục (bị treo Tx), ngăn chặn người khác và phi công sử dụng tần số đó",
+            "Khởi động lại CWP",
+            "Tăng độ nhạy thu của máy vô tuyến"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để gọi một đường điện thoại đường dây nóng (Hotline) trên màn hình CWP, KSVKL cần thực hiện thao tác nào?",
+        "o": [
+            "Bấm phím PTT và đọc số điện thoại",
+            "Chọn và nhấn trực tiếp vào biểu tượng (nút) có lập trình sẵn tên đường Hotline tương ứng",
+            "Mở trình duyệt web để gọi",
+            "Bấm phím F1 trên bàn phím"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Mỗi KSVKL khi đăng nhập vào CWP thường sử dụng một 'Role' (Vai trò) hoặc 'Profile' riêng biệt nhằm mục đích gì?",
+        "o": [
+            "Thay đổi ngôn ngữ hệ điều hành",
+            "Để CWP tải đúng giao diện, tập hợp các nút vô tuyến và điện thoại thuộc vùng trách nhiệm của KSVKL đó",
+            "Để mở khóa Internet truy cập web",
+            "Để nạp cấu hình hệ thống máy chủ"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card RIM (Radio Interface Module) trong hệ thống VCCS thường có chức năng gì?",
+        "o": [
+            "Xử lý định tuyến mạng IP",
+            "Kết nối trung kế điện thoại E1",
+            "Giao tiếp trực tiếp với các đường âm thanh (Audio) và điều khiển (PTT/Squelch) của máy phát/thu vô tuyến tương tự",
+            "Ghi âm hệ thống"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thiết bị kết nối giữa các CWP và tủ trung tâm VCCS sử dụng mạng IP thường là:",
+        "o": [
+            "Bộ khuếch đại vô tuyến",
+            "Switch mạng LAN",
+            "Modem quang",
+            "Mạch lai Hybrid 2W/4W"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao diện cấu hình phần mềm cho thiết bị R&S Series 4200 thông qua cổng LAN ở mặt trước có địa chỉ IP mặc định là gì?",
+        "o": [
+            "192.168.1.1",
+            "10.0.0.1",
+            "192.168.0.2",
+            "Tùy theo cấu hình mạng cục bộ"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Cáp điều khiển E&M 4-wire tiêu chuẩn dùng để kết nối VCCS Analog với đài vô tuyến gồm những tín hiệu âm thanh nào?",
+        "o": [
+            "Audio TX và Data",
+            "Audio RX và Squelch",
+            "Audio TX (Audio In) và Audio RX (Audio Out)",
+            "PTT và Data"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Nút Reset trên máy R&S Series 4200 có tác dụng gì nếu được nhấn giữ quá 10 giây?",
+        "o": [
+            "Chuyển chế độ hoạt động sang FM",
+            "Tắt hoàn toàn máy phát",
+            "Khôi phục cấu hình mặc định của nhà sản xuất (Factory Default)",
+            "Cập nhật firmware mới nhất"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Một hệ thống VCCS tiêu chuẩn sử dụng máy chủ thời gian (Time Server) kết nối qua giao thức nào để đồng bộ giờ hiển thị trên tất cả các CWP?",
+        "o": [
+            "HTTP",
+            "FTP",
+            "NTP",
+            "SMTP"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Máy tính màn hình cảm ứng CWP có thể bị mất điều khiển nếu linh kiện nào sau đây bị hỏng?",
+        "o": [
+            "Ổ cứng (HDD/SSD) lưu hệ điều hành",
+            "Màn hình hiển thị LED",
+            "Cáp USB kết nối lớp cảm ứng",
+            "Tất cả các phương án trên"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Chức năng Bypass trên vị trí CWP là gì?",
+        "o": [
+            "Một phần mềm thay thế khi VCCS hỏng",
+            "Hệ thống dự phòng phần cứng, nối trực tiếp micro và tai nghe của CWP tới một kênh vô tuyến khẩn cấp mà không cần qua mạch xử lý trung tâm VCCS",
+            "Tính năng tăng âm lượng",
+            "Nút khởi động nhanh máy tính"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card BPU (Baseband Processing Unit) trong máy vô tuyến R&S có vai trò gì?",
+        "o": [
+            "Khuếch đại tín hiệu trước khi ra anten",
+            "Xử lý tín hiệu băng gốc, chuyển đổi A/D và D/A, mã hóa/giải mã âm thanh, và đóng gói IP",
+            "Cung cấp điện áp 48V cho toàn khối",
+            "Tạo sóng mang trung tần"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Phân hệ ghi âm thường trích xuất tín hiệu âm thanh từ VCCS thông qua cổng nào?",
+        "o": [
+            "Cổng ra mạng IP bằng giao thức RTSP hoặc ED-137 (với hệ thống số) hoặc qua các cổng Audio Analogue",
+            "Cổng ra ăng ten vô tuyến",
+            "Cổng USB của bàn phím",
+            "Cổng nguồn DC"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ thống vô tuyến R&S Series 4200 sử dụng loại giao thức nào để truyền thoại trên nền mạng IP (VoIP)?",
+        "o": [
+            "SIP",
+            "ED-137",
+            "H.323",
+            "MGCP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Card giao tiếp vô tuyến của hệ thống Sitti thường có tên là:",
+        "o": [
+            "LIM",
+            "RIM",
+            "RVF / Radio Interface",
+            "CPU"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Nút 'IDA' ở thanh công cụ bên phải mở ra công cụ gì?",
+        "o": [
+            "Bàn phím số để bấm số điện thoại trực tiếp (Dial pad)",
+            "Nghe lại ghi âm Instant Recorder",
+            "Cài đặt đồng hồ",
+            "Bảng điều khiển tần số"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khái niệm 'Main/Standby Switchover' trong hệ thống VCCS đề cập đến tính năng nào?",
+        "o": [
+            "Tự động chuyển đổi từ card xử lý chính sang card dự phòng khi phát hiện sự cố mà không làm gián đoạn liên lạc.",
+            "Tắt toàn bộ hệ thống để bảo dưỡng.",
+            "Chuyển đổi tần số từ VHF sang HF.",
+            "Thay đổi độ sáng màn hình điều khiển."
+        ],
+        "a": 0
+    },
+    {
+        "q": "Khi đo kiểm công suất bằng thiết bị đo (ví dụ: máy đo Bird), để hệ thống R&S 4200 phát sóng theo chế độ đo (Continuous Wave), kỹ thuật viên nên sử dụng chức năng nào trong phần mềm quản lý?",
+        "o": [
+            "Bật PTT liên tục (Test PTT)",
+            "Chỉnh Squelch về 0",
+            "Tăng âm lượng tối đa",
+            "Cắm cáp mạng vào cổng PTT"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Việc cập nhật Firmware cho thiết bị R&S Series 4200 có thể được thực hiện thông qua giao diện nào?",
+        "o": [
+            "Qua cổng âm thanh (Audio Port)",
+            "Qua giao diện Web Server nội bộ bằng trình duyệt kết nối mạng LAN",
+            "Cắm cáp quang trực tiếp",
+            "Gửi lệnh bằng sóng vô tuyến"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong VCCS Sitti, giao thức ED-137 dùng để làm gì?",
+        "o": [
+            "Đồng bộ thời gian.",
+            "Giám sát lỗi phần cứng.",
+            "Truyền thoại vô tuyến trên nền IP (VoIP).",
+            "Nén dữ liệu."
+        ],
+        "a": 2
+    },
+    {
+        "q": "Card trung tâm đóng vai trò điều khiển và chuyển mạch lõi trong phân hệ mạng của VCCS 3020X thường có tên gọi mã hiệu là gì?",
+        "o": [
+            "Card XBONE / XBURST",
+            "Card COMSW (Communication Switch)",
+            "Card CPU-Central",
+            "Card MAIN-CTRL"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Trong cấu hình VCCS IP, khái niệm 'Payload Type' thường dùng để làm gì?",
+        "o": [
+            "Mã hóa địa chỉ IP",
+            "Xác định chuẩn nén âm thanh (Codec, ví dụ G.711 là type 0/8)",
+            "Chỉ định công suất phát của vô tuyến",
+            "Điều khiển độ sáng màn hình"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi thiết lập địa chỉ IP cho một thiết bị trên mạng LAN VCCS nội bộ, tham số 'Subnet Mask' dùng để làm gì?",
+        "o": [
+            "Che giấu địa chỉ IP khỏi bị tấn công",
+            "Chia nhỏ và xác định địa chỉ đó thuộc dải mạng nội bộ nào",
+            "Gán số cổng kết nối phần mềm",
+            "Xác định tốc độ cáp mạng"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Với giao thức ED-137, bản tin 'Radio PTT' từ VCCS gửi đến máy phát Radio thực chất là:",
+        "o": [
+            "Tín hiệu dòng DC 48V",
+            "Bản tin báo hiệu đi kèm hoặc nhúng trong luồng RTP (RTP Header Extension)",
+            "Gửi qua cổng RS-232 độc lập",
+            "Một tần số siêu âm"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trong phần mềm cấu hình hệ thống VCCS, khi tạo một 'Radio Channel' (kênh vô tuyến), các thông số nào là bắt buộc?",
+        "o": [
+            "Địa chỉ IP thiết bị vô tuyến, Port SIP, chuẩn Codec âm thanh",
+            "Số điện thoại công cộng",
+            "Độ cao của ăng-ten",
+            "Trọng lượng thiết bị"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Tính năng Best Signal Selection (BSS) (Lựa chọn tín hiệu tốt nhất) trong hệ thống VCCS yêu cầu cấu hình yếu tố gì trên máy thu vô tuyến?",
+        "o": [
+            "Cấu hình tần số khác nhau",
+            "Cấu hình máy thu truyền kèm thông tin đo đạc cường độ/độ nhiễu tín hiệu (RSSI/Signal Quality) trong luồng VoIP",
+            "Cấu hình tăng công suất máy thu",
+            "Không cần cấu hình gì"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Lệnh nào dùng để Export cấu hình mạng toàn hệ thống?",
+        "o": [
+            "Network > Export",
+            "System > Config > Backup",
+            "Database > Export > Network",
+            "File > Save As"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Để có thể nghe được âm thanh Sidetone (Tiếng vọng phản hồi chứng tỏ thiết bị đang phát sóng thực sự) với chuẩn ED-137, Sidetone thường được xử lý ở đâu?",
+        "o": [
+            "Mạch tự tạo trên CWP",
+            "Máy phát vô tuyến tự tạo và gửi ngược lại luồng RTP Sidetone về VCCS",
+            "Tủ trung tâm VCCS tự sinh ra",
+            "Micro của KSV tự phát"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Khi cấu hình liên kết điện thoại Hotline giữa hai VCCS IP, giao thức nào thường dùng để thiết lập cuộc gọi điện thoại IP (Call Setup)?",
+        "o": [
+            "FTP",
+            "SIP (Session Initiation Protocol)",
+            "RTP",
+            "SNMP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Trên giao diện quản trị (ví dụ TMCS, MMS), một cảnh báo báo lỗi 'Link Down' trên cổng mạng của card vô tuyến có thể do nguyên nhân nào?",
+        "o": [
+            "Rút nhầm dây cáp mạng LAN",
+            "Lỗi thiết bị Switch mạng",
+            "Card giao tiếp bị lỗi phần cứng",
+            "Tất cả các nguyên nhân trên"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Tính năng 'BSS Delay' (Độ trễ BSS) trong cấu hình VCCS có ý nghĩa gì?",
+        "o": [
+            "Tăng âm lượng sau một khoảng thời gian",
+            "Hệ thống chờ một vài mili-giây để nhận đủ các luồng tín hiệu từ các trạm thu khác nhau trước khi so sánh và đưa ra âm thanh tốt nhất",
+            "Tạo tiếng vọng cho âm thanh",
+            "Thời gian chờ trước khi ngắt máy"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Thiết bị VCCS Liberty Star-3: Tính năng giám sát Voice Quality (QoS) được cấu hình ở đâu?",
+        "o": [
+            "System > QoS",
+            "Network > Voice > Quality",
+            "Diagnostic > VoIP > QoS",
+            "Admin > QoS Settings"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Module điều khiển nào được dùng để kết nối với các thiết bị bên ngoài trong hệ thống R&S Series 4200?",
+        "o": [
+            "VU",
+            "EXU",
+            "PSU",
+            "BPU"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Các thiết bị R&S Series 4200 có thể được cấp nguồn bởi dải điện áp DC là bao nhiêu?",
+        "o": [
+            "12 VDC đến 24 VDC",
+            "24 VDC đến 48 VDC",
+            "18 VDC đến 36 VDC",
+            "48 VDC đến 72 VDC"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Phương thức làm mát của máy phát (TX) R&S Series 4200 loại công suất 50W là gì?",
+        "o": [
+            "Làm mát bằng nước",
+            "Làm mát đối lưu tự nhiên",
+            "Quạt làm mát",
+            "Làm mát bằng khí nén"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Tần số điều hành vô tuyến của thiết bị R&S Series 4200 có thể thiết lập bước nhảy tần số (Channel Spacing) là bao nhiêu?",
+        "o": [
+            "Chỉ 25 kHz",
+            "Chỉ 8.33 kHz",
+            "Cả 8.33 kHz và 25 kHz",
+            "12.5 kHz"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Thẻ RF (Radio Frequency) trong R&S Series 4200 có chức năng chính là gì?",
+        "o": [
+            "Chuyển đổi tín hiệu IP thành Analog",
+            "Thực hiện chức năng thu/phát và điều chế/giải điều chế tín hiệu vô tuyến",
+            "Cấp nguồn điện cho toàn hệ thống",
+            "Kết nối trực tiếp tới VCS qua ISDN"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Đèn LED trạng thái 'ALARM' trên mặt trước của R&S Series 4200 có màu gì khi hệ thống hoạt động bình thường, không có lỗi?",
+        "o": [
+            "Sáng màu đỏ",
+            "Nhấp nháy màu đỏ",
+            "Nhấp nháy màu vàng",
+            "Tắt hoàn toàn"
+        ],
+        "a": 3
+    },
+    {
+        "q": "Phần mềm được hãng R&S khuyến nghị dùng để quản lý cấu hình và giám sát các trạm vô tuyến Series 4200 từ xa là gì?",
+        "o": [
+            "R&S®RCMS II",
+            "Wireshark",
+            "Cisco Packet Tracer",
+            "SolarWinds"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Một trong những lợi ích của việc cấu hình hệ thống R&S Series 4200 chạy dưới chế độ 'Main/Standby' là gì?",
+        "o": [
+            "Tăng công suất phát gấp đôi",
+            "Tự động chuyển đổi sang máy dự phòng khi máy chính gặp sự cố",
+            "Phát cùng lúc trên nhiều dải tần",
+            "Giảm điện năng tiêu thụ xuống một nửa"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Giao diện cổng E&M trên thiết bị R&S Series 4200 chủ yếu được sử dụng để làm gì?",
+        "o": [
+            "Truyền dữ liệu tốc độ cao",
+            "Kết nối nguồn điện 220V",
+            "Kết nối thoại vô tuyến chuẩn Analog 4-wire tới hệ thống VCS cũ",
+            "Đồng bộ thời gian GPS"
+        ],
+        "a": 2
+    },
+    {
+        "q": "Để kiểm tra mức tín hiệu thu sóng (RSSI) hoặc chất lượng kênh truyền, có thể kiểm tra ở phần nào trên giao diện cấu hình của R&S 4200?",
+        "o": [
+            "Phần Network Settings",
+            "Phần Audio Levels/Metrics",
+            "Phần Power Supply",
+            "Phần User Management"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Điều gì có thể gây ra cảnh báo VSWR cao (High VSWR Alarm) trên hệ thống máy phát R&S 4200?",
+        "o": [
+            "Lỗi nguồn điện cấp DC",
+            "Đứt hoặc lỏng cáp ăng-ten, hỏng ăng-ten, hoặc trở kháng không phối hợp tốt",
+            "Lỗi phần mềm điều khiển từ xa",
+            "Không nhận được IP từ máy chủ DHCP"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Chức năng Climax (Offset carrier operation) trong R&S 4200 được sử dụng trong trường hợp nào?",
+        "o": [
+            "Khi có nhiều máy phát phát cùng một tần số ở các vị trí địa lý khác nhau để tránh nhiễu triệt tiêu",
+            "Khi máy bay bay ở độ cao quá cao",
+            "Khi cần tăng cường độ bảo mật mã hóa",
+            "Khi mất kết nối mạng IP"
+        ],
+        "a": 0
+    },
+    {
+        "q": "Hệ số công suất phát mặc định của một máy phát R&S 4200 VHF cho điều hành bay dân dụng thường được cấu hình trong khoảng nào?",
+        "o": [
+            "1W đến 5W",
+            "10W đến 50W",
+            "100W đến 500W",
+            "1000W đến 5000W"
+        ],
+        "a": 1
+    },
+    {
+        "q": "Để tránh việc máy vô tuyến liên tục bị mở Squelch bởi nhiễu nền, kỹ sư cần thao tác gì trên giao diện R&S 4200?",
+        "o": [
+            "Tăng công suất phát",
+            "Giảm âm lượng loa",
+            "Thay đổi cáp nguồn",
+            "Điều chỉnh tăng ngưỡng Squelch Threshold"
+        ],
+        "a": 3
+    }
+]
