@@ -1,12 +1,2487 @@
 [
   {
-    "q": "Dữ liệu chuyên ngành Kíp trưởng new đang được đội ngũ Admin cập nhật. Vui lòng quay lại sau!",
+    "q": "Tại các Công ty Quản lý bay khu vực, công tác Bảo đảm kỹ thuật trực tiếp cho các Hệ thống trang thiết bị bảo đảm hoạt động bay được thực hiện bởi:",
     "o": [
-      "Xác nhận",
-      "Đồng ý",
-      "Chấp nhận",
-      "Đã hiểu"
+      "Phó Giám đốc phụ trách kỹ thuật",
+      "Trung tâm bảo đảm kỹ thuật",
+      "Phòng Kỹ thuật",
+      "Kíp trực kỹ thuật"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Cơ cấu tổ chức các Đội thuộc TT BĐKT gồm:",
+    "o": [
+      "Phó trưởng TT phụ trách Đội, đội phó, các kíp trực",
+      "Đội trưởng, đội phó, các kíp trực",
+      "Phó trưởng TT phụ trách Đội, đội phó, các nhân viên hỗ trợ kỹ thuật, các kíp trực",
+      "Đội trưởng, đội phó, các nhân viên hỗ trợ kỹ thuật, các kíp trực"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Đội có thể cơ cấu thêm các:",
+    "o": [
+      "Tổ",
+      "Nhóm",
+      "Trạm",
+      "Đài"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trung tâm Bảo đảm kỹ thuật là đơn vị cơ sở trực thuộc:",
+    "o": [
+      "Phòng Kỹ thuật",
+      "Ban Kỹ thuật",
+      "Công ty QLB",
+      "Tổng Công ty QLB"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trung tâm Bảo đảm kỹ thuật là đơn vị cơ sở trực tiếp cung cấp dịch vụ:",
+    "o": [
+      "Thông tin, Dẫn đường, Giám sát",
+      "Thông tin, Dẫn đường, Giám sát, Kỹ thuật khí tượng",
+      "Thông tin, Dẫn đường, Giám sát, Kỹ thuật khí tượng, Tin tức hàng không",
+      "Thông tin, Dẫn đường, Giám sát, Kỹ thuật khí tượng, Tin tức hàng không, Tìm kiếm cứu nạn"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Nội dung nào sau đây không là nhiệm vụ của Trung tâm bảo đảm kỹ thuật",
+    "o": [
+      "Quản lý và khai thác, bảo trì bảo dưỡng có hiệu quả các trang thiết bị trong phạm vi trách nhiệm của Công ty được giao",
+      "Trực tiếp quản lý công tác bảo đảm kỹ thuật đối với các Đài KSKL sân bay địa phương",
+      "Thường xuyên theo dõi tình trạng kỹ thuật của các thiết bị được giao quản lý, báo cáo kịp thời các sự cố kỹ thuật theo quy định của Tổng công ty và Công ty.",
+      "Tham mưu cho Giám đốc về công tác tổ chức, quản lý kỹ thuật."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Tổ chức việc giao, nhận ca đúng quy định do ai thực hiện",
+    "o": [
+      "Kíp trưởng CNS",
+      "Trực chính",
+      "Trực lãnh đạo, giám sát Đội",
+      "Trực lãnh đạo, giám sát Cơ sở"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Nội dung nào sau đây không là Trách nhiệm và quyền hạn của Trưởng cơ sở",
+    "o": [
+      "Tổ chức, điều hành chung tất cả các hoạt động của TTBĐKT",
+      "Chịu sự chỉ đạo trực tiếp của Giám đốc; Chịu trách nhiệm trước Giám đốc và trước pháp luật về tất cả hoạt động của đơn vị",
+      "Quản lý, bố trí, sắp xếp nhân sự, cơ cấu tổ chức, đảm bảo đáp ứng đúng tiêu chuẩn chức danh công việc và quản lý, khai thác hiệu quả toàn bộ cơ sở hạ tầng, hệ thống kỹ thuật, trang thiết bị được giao nhằm hoàn thành chức trách, nhiệm vụ của đơn vị",
+      "Được quyền đề xuất, kiến nghị với Giám đốc xem xét, quyết định về các giải pháp, cơ chế, chính sách, chế độ quản lý, cơ cấu tổ chức và các vấn đề kỹ thuật chuyên ngành của TTBĐKT",
+      "Cả A, B, C và D"
+    ],
+    "a": 4
+  },
+  {
+    "q": "Quy định Quản lý kỹ thuật của Tổng công ty Quản lý bay Việt Nam được ban hành tại quyết định:",
+    "o": [
+      "Số 4988/QĐ-QLB ngày 21/10/2019",
+      "Số 4988/QĐ-QLB ngày 21/10/2020",
+      "Số 5199/QĐ-QLB ngày 14/10/2022",
+      "Số 5199/QĐ-QLB ngày 14/10/2023"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mục địch của Quy định Quản lý kỹ thuật:",
+    "o": [
+      "Thống nhất công tác quản lý kỹ thuật trong toàn TCT",
+      "Hướng dẫn các quy trình xử lý sự cố",
+      "Cung cấp tài liệu tham khảo trong quá trình khai thác hệ thống",
+      "Cung cấp tài liệu tham khảo trong quá trình bảo dưỡng hệ thống"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Cơ sở cung cấp dịch vụ bảo đảm hoạt động bay là:",
+    "o": [
+      "Ban Kỹ thuật; Trung tâm BĐKT; Phòng Kỹ thuật; Phòng BĐKT",
+      "Trung tâm BĐKT; Phòng BĐKT",
+      "Trung tâm BĐKT; Phòng BĐKT; Phòng kỹ thuật",
+      "Trung tâm BĐKT; Phòng BĐKT; Đài KSKL tại sân bay địa phương hoặc Xưởng dịch vụ kỹ thuật"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo Quy định Quản lý kỹ thuật, hệ thống kỹ thuật, thiết bị bảo đảm hoạt động bay được phân thành\"",
+    "o": [
+      "2 nhóm",
+      "3 nhóm",
+      "4 nhóm",
+      "5 nhóm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thiết bị nào sau đây không thuộc nhóm 1:",
+    "o": [
+      "Thiết bị thu phát sóng cực ngắn không-địa (VHF A/G)",
+      "Hệ thống xử lý dữ liệu ra đa, xử lý dữ liệu bay (RDP/FDP)",
+      "Thiết bị vô tuyeeys chuyển tiếp (VIBA)",
+      "Hệ thống quản lý tin tưc hàng không (AIM)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ thống quản lý không lưu tự động ATM là thiết bị thuộc nhóm:",
+    "o": [
+      "Nhóm 1",
+      "Nhóm 2",
+      "Nhóm 3",
+      "Không thuộc nhóm nào"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thiết bị thu phát sóng cực ngắn điều tần liên lạc mặt đất-mặt đất hiệp đồng bay (VHF FM G/G) là thiết bị thuộc nhóm:",
+    "o": [
+      "Nhóm 1",
+      "Nhóm 2",
+      "Nhóm 3",
+      "Không thuộc nhóm nào"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thiết bị PCCC là thiết bị thuộc nhóm:",
+    "o": [
+      "Nhóm 1",
+      "Nhóm 2",
+      "Nhóm 3",
+      "Không thuộc nhóm nào"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Thiết bị phải đáp ứng các tiêu chuẩn, tính năng kỹ thuật tại các tài liệu nào:",
+    "o": [
+      "Tiêu chuẩn của tổ chức hàng không dân dụng quốc tế ICAO",
+      "Tiêu chuẩn cơ sở, quy định liên quan do cơ quan quản lý nhà nước ban hành",
+      "Tài liệu kỹ thuật của nhà sản xuất",
+      "Các quy định kỹ thuật liên quan do TCT ban hành",
+      "Cả A, B, C và D"
+    ],
+    "a": 4
+  },
+  {
+    "q": "Điều kiện để đơn vị quản lý thiết bị thực hiện đưa thiết bị nhóm 1 vào khai thác phải đáp ứng:",
+    "o": [
+      "Có giấy phép của Cảng vụ",
+      "Có giấy phép của Cục HKVN",
+      "Có giấy phép của Bộ GTVT",
+      "Có giấy phép của ICAO"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Việc tiến hành hoạt động thử của thiết bị nhóm 1, các đơn vị cần thực hiện:",
+    "o": [
+      "Có văn bản báo cáo TCT sau khi hoàn thành thử nghiệm",
+      "Có văn bản báo cáo cục hKVN sau khi hoàn thành thử nghiệm",
+      "Có văn bản báo cáo TCT, cục HKVN xem xét, chấp thuận theo quy định quản lý hiện hành của nhà nước",
+      "Nghiêm cấm các hoạt động thử nghiệm"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi dừng, tạm dừng khai thác các thiết bị, đơn vị cần thực hiện:",
+    "o": [
+      "Cập nhật trong sổ giao ca, lý lịch thiết bị về thời gian, lý do dừng thiết bị",
+      "Cập nhật trong số giao nhận ca",
+      "Cập nhật trong số lý lịch thiết bị",
+      "Cả A, B, C đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Định kỳ hằng năm, đơn vị cơ sở quản lý thiết bị chủ động rà soát, kiểm tra, đánh giá chất lượng hiện trạng các thiết bị có thời gian khai thác trên bao nhiêu năm đề có các đề xuất phương án phù hợp?",
+    "o": [
+      "Tất cả các thiết bị",
+      "Không cần thực hiện",
+      "Thiết bị có thời gian khai thác trên 1/3 thời hạn sử dụng",
+      "Thiết bị có thời gian khai thác trên 2/3 thời hạn sử dụng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Định kỳ mỗi tháng, các đơn vị kỹ thuật phải lập danh sách ca trực trước một tuần và được thông qua bởi",
+    "o": [
+      "Kíp trưởng CNS",
+      "Đài trưởng",
+      "Đội trưởng",
+      "Cán bộ phụ trách CSCCDV BĐ HĐB, đàim, trạm độc lập"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Việc giao ca, nhận ca cần được thực hiện đúng vị trí và thực hiện trước ít nhất bao nhiêu phú so với thời gian bắt đầu của ca mới?",
+    "o": [
+      "5 phút",
+      "10 phút",
+      "15 phút",
+      "20 phút"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Nếu có thay đổi danh sách trực ca thì cần phải đảm bảo các yêu cầu:",
+    "o": [
+      "Sự đồng ý của cấp trên trực tiếp",
+      "Phiếu đổi ca trực",
+      "Sự đồng ý của cấp trên trực tiếp và thể hiện bằng phiếu đổi ca trực",
+      "Do các cá nhân tự thống nhất và báo cáo lại cấp trên trực tiếp"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mỗi máy phát điện dự phòng phải được chạy kiểm tra định kỹ bao nhiêu lần trong tháng?",
+    "o": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Lịch chạy kiểm tra định kỳ đối với máy phát điện được phê duyệt bởi",
+    "o": [
+      "Giám đốc đơn vị cơ sở",
+      "Trưởng TT BĐKT",
+      "Trưởng phòng KT",
+      "Đội trưởng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thiết bị cung cấp dịch vụ CNS phải được ghi dữ liệu chính xác, đầy đủ thông tin về các cuộc liên lạc thoại, liên lạc dữ liệu, dữ liệu và hình ảnh của các dịch vụ do mình cung cấp. Thời gian lưu trữ tối thiểu là",
+    "o": [
+      "15 ngày",
+      "30 ngày",
+      "45 ngày",
+      "60 ngày"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hướng dẫn xử lý sự cố kỹ thuật tại đơn vị được xây dựng và trình duyệt bởi:",
+    "o": [
+      "Phòng Kỹ thuật",
+      "Trung tâm BĐKT",
+      "Ban Kỹ thuật",
+      "Đội Kỹ thuật"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi xảy ra việc can nhiễu tần số vô tuyến điện ảnh hướng đến an toàn hoạt động bay và cung cấp dịch vụ bảo đảm hoạt động bay, đơn vị cơ sở cần thực hiện thông báo nhiễu đến:",
+    "o": [
+      "Thông báo nhiễu có hại đến Trung tâm kiểm soát tần số khu vực theo cách thức nhanh chóng, trực tiếp bằng điện thoại, cung cấp các thông tin về hiện tượng nhiễu có hại theo danh sách đầu mối phối hợp đã thống nhất.",
+      "Thông báo nhiễu có hại cho Ban kỹ thuật theo cách thức nhanh chóng, trực tiếp bằng điện thoại, cung cấp các thông tin về hiện tượng nhiễu có hại",
+      "Thông báo nhiễu có hại cho Ban An toàn Chất lượng theo cách thức nhanh chóng, trực tiếp bằng điện thoại, cung cấp các thông tin về hiện tượng nhiễu có hại",
+      "Thông báo nhiễu có hại cho P. TGĐ phụ trách kỹ thuật theo cách thức nhanh chóng, trực tiếp bằng điện thoại, cung cấp các thông tin về hiện tượng nhiễu có hại"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Để bảo đảm an toàn hiết bị, trong điều kiện thông thường, phòng thiết bị có cấu kiện điện tử phải duy trì nhiệt độ trong dải từ:",
+    "o": [
+      "18 - 20 độ C",
+      "18 - 25 độ C",
+      "20 - 25 độ C",
+      "20 - 28 độ C"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Việc kiểm tra công tác tổ chức ca kíp (duy trì kỷ luật lao động, ghi chép số sách, vệ sinh công nghiệp trong ca kíp trực, quản lý tài sản được bàn giao cho kíp trực) được cấp Đội/Đài/Trạm thực hiện với tần suất",
+    "o": [
+      "Tối thiểu 01 lần/tuần",
+      "Tối thiểu 01 lần/tháng",
+      "Tối thiểu 02 lần/tuần",
+      "Tối thiểu 02 lần/tháng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Việc kiểm tra tình trạng hoạt động của các trang thiết bị kỹ thuật được cấp Đội/Đài/Trạm thực hiện với tần suất",
+    "o": [
+      "Tối thiểu 01 lần/tuần",
+      "Tối thiểu 01 lần/tháng",
+      "Tối thiểu 02 lần/tuần",
+      "Tối thiểu 02 lần/tháng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Vụ việc mức E có tính chất như sau:",
+    "o": [
+      "Ảnh hưởng trực tiếp đến an toàn, hoặc gây khó khăn cho tổ bay tiếp theo sau khi xảy ra sự cố.",
+      "Không ảnh hưởng đến hoạt động bay và không ảnh hưởng đến an toàn bay, hoặc là kết quả sau khi xem xét đánh giá, giảm mức độ của sự cố loại mức C.",
+      "Có ảnh hưởng tới quá trình cung cấp dịch vụ hàng không tại cảng hàng không, sân bay nhưng không ảnh hưởng đến an toàn hàng không."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Vụ việc mức A có tính chất như sau:",
+    "o": [
+      "Có ảnh hưởng tới quá trình cung cấp dịch vụ hàng không tại cảng hàng không, sân bay nhưng không ảnh hưởng đến an toàn hàng không.",
+      "Không ảnh hưởng đến hoạt động bay và không ảnh hưởng đến an toàn bay, hoặc là kết quả sau khi xem xét đánh giá, giảm mức độ của sự cố loại mức E.",
+      "Tàu bay bị mất tích hoặc hoàn toàn không thể ltiếp cận được (tàu bay được coi là mất tích khi cuộc tìm kiếm chính thức được coi là kết thúc mà vị trí của các mảnh vỡ của tàu bay vẫn không xác định được)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Vụ việc mức B có tính chất như sau:",
+    "o": [
+      "Có ảnh hưởng tới quá trình cung cấp dịch vụ hàng không tại cảng hàng không, sân bay nhưng không ảnh hưởng đến an toàn hàng không.",
+      "Tàu bay bị mất tích hoặc hoàn toàn không thể tiếp cận được (tàu bay được coi là mất tích khi cuộc tìm kiếm chính thức được coi là kết thúc mà vị trí của các mảnh vỡ của tàu bay vẫn không xác định được)",
+      "Vụ việc xảy ra với những tình huống cho thấy tai nạn gần xảy ra"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Vụ việc mức C có tính chất như sau:",
+    "o": [
+      "Có ảnh hưởng tới quá trình cung cấp dịch vụ hàng không tại cảng hàng không, sân bay nhưng không ảnh hưởng đến an toàn hàng không.",
+      "Khoảng cách thực tế giữa tàu bay và mặt đất hoặc chướng ngại vật bị vi phạm nhưng lớn hơn hoặc bằng 50% và nhỏ hơn 80% giá trị khoảng cách an toàn",
+      "Vụ việc xảy ra với những tình huống cho thấy tai nạn gần xảy ra"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Vụ việc mức D có tính chất như sau:",
+    "o": [
+      "Có ảnh hưởng tới quá trình cung cấp dịch vụ hàng không tại cảng hàng không, sân bay nhưng không ảnh hưởng đến an toàn hàng không.",
+      "Khoảng cách thực tế giữa tàu bay và mặt đất hoặc chướng ngại vật bị vi phạm nhưng lớn hơn hoặc bằng 50% và nhỏ hơn 80% giá trị khoảng cách an toàn",
+      "Có ảnh hưởng đến hoạt động bay nhưng chưa đến mức độ theo phân loại mức C"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy chế báo cáo an toàn hàng không của Cục Hàng không, báo cáo ban đầu là gì?",
+    "o": [
+      "Báo cáo nhanh về tai nạn, sự cố B và C",
+      "Báo cáo nhanh về tai nạn, sự cố và vụ việc",
+      "Báo cáo sơ bộ về tai nạn và sự cố hàng không"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy chế báo cáo an toàn hàng không của Cục Hàng không, báo cáo giảng bình là gì?",
+    "o": [
+      "Báo cáo việc giảng bình về tai nạn và sự cố hàng không",
+      "Báo cáo việc giảng bình về tai nạn, sự cố và vụ việc",
+      "Báo cáo việc giảng bình về tai nạn và sự cố loại B và C"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo cơ chế phân cấp hiện nay của QLBMN, người Trực chính sẽ gửi Báo cáo ban đầu (bản giấy) ngay lập tức hay ngay khi có thể đến ai?",
+    "o": [
+      "Lãnh đạo Đội và Trực giám sát Trung tâm BĐKT",
+      "Trực giám sát Trung tâm BĐKT",
+      "Trực ban An toàn Tổng công ty",
+      "Trực ban Giám Đốc, phòng Kỹ thuật, phòng An toàn Công ty"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo cơ chế phân cấp hiện nay của QLBMN, người Trực chính sẽ thực hiện Báo cáo ban đầu (bằng điện thoại) ngay lập tức hay ngay khi có thể đến ai?",
+    "o": [
+      "Trực giám sát Trung tâm BĐKT, lãnh đạo Đội.",
+      "Trực ban An toàn Tổng công ty.",
+      "Trực ban Giám Đốc, phòng Kỹ thuật, phòng An toàn Công ty.",
+      "Lãnh đạo Đội, Trực giám sát Trung tâm BĐKT, Trực ban Giám Đốc công ty, Trực ban An toàn Tổng công ty."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo ban đầu thực hiện từ cơ sở gửi đến TCT đối với tai nạn, sự cố nào?",
+    "o": [
+      "Tai nạn, sự cố B và C",
+      "Tai nạn, sự cố B, C và D.",
+      "Tai nạn, sự cố B, C, D và E"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo ban đầu do ai thực hiện từ cơ sở gửi đến TCT?",
+    "o": [
+      "Kíp trưởng hay Trực chính",
+      "Đội trưởng hay Đài trưởng",
+      "Cán bộ (lãnh đạo) trung tâm BĐKT",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo cơ chế phân cấp hiện nay của QLBMN, Báo cáo ban đầu (bản giấy) sẽ được lãnh đạo Đội gửi đến những bộ phận nào?",
+    "o": [
+      "Phòng Kỹ thuật, An toàn của công ty",
+      "Ban An toàn TCT và Ban Giám đốc công ty",
+      "Tất cả các câu trên là đúng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo sơ bộ thực hiện từ cơ sở gửi đến TCT đối với tai nạn, sự cố, vụ việc nào?",
+    "o": [
+      "Tai nạn, sự cố B và C",
+      "Tai nạn, sự cố B, C và D.",
+      "Tai nạn, sự cố B, C, D và E"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo sơ bộ do ai thực hiện từ cơ sở gửi đến TCT?",
+    "o": [
+      "Cán bộ (lãnh đạo) trung tâm BĐKT lập và trình Giám Đốc ký gửi TCT",
+      "Phòng An toàn lập và trình Giám Đốc ký gửi TCT",
+      "Phòng Kỹ thuật lập và trình Giám Đốc ký gửi TCT",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo giảng bình thực hiện từ cơ sở gửi đến TCT đối với tai nạn, sự cố, vụ việc nào?",
+    "o": [
+      "Tai nạn, sự cố B và C",
+      "Tai nạn, sự cố B, C và D.",
+      "Tai nạn, sự cố B, C, D và E"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo giảng bình về kỹ thuật do ai thực hiện, trình Giám đốc công ty ký và gửi đến TCT?",
+    "o": [
+      "Trung tâm BĐKT lập",
+      "Phòng An toàn lập",
+      "Phòng Kỹ thuật lập",
+      "Tất cả các câu trên đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo sơ bộ thực hiện từ cơ sở gửi đến TCT trong thời hạn tối đa là bao lâu kể từ khi xảy ra sự cố C và D?",
+    "o": [
+      "Ngay lập tức, sớm nhất có thể",
+      "24 giờ",
+      "48 giờ",
+      "72 giờ"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo sơ bộ thực hiện từ cơ sở gửi đến TCT trong thời hạn tối đa là bao lâu kể từ khi xảy ra vụ việc E?",
+    "o": [
+      "Ngay lập tức, sớm nhất có thể",
+      "24 giờ",
+      "48 giờ",
+      "72 giờ"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo giảng bình thực hiện từ cơ sở gửi đến TCT trong thời hạn tối đa là bao lâu kể từ khi xảy ra sự cố B, C và D?",
+    "o": [
+      "15 ngày",
+      "30 ngày",
+      "35 ngày",
+      "50 ngày"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo Quy định báo cáo an toàn hàng không của TCT QLBVN, báo cáo giảng bình thực hiện từ cơ sở gửi đến TCT trong thời hạn tối đa là bao lâu kể từ khi xảy ra vụ việc hàng không (E)?",
+    "o": [
+      "15 ngày",
+      "30 ngày",
+      "35 ngày",
+      "Không yêu cầu"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 Phòng thiết bị có cấu kiện điện tử trong điều kiện thông thường cần duy trì nhiệt độ bao nhiêu",
+    "o": [
+      "20°C đến 25 °C",
+      "26°C đến 30 °C",
+      "25°C đến 30 °C",
+      "Không yêu cầu"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 Phòng thiết bị có cấu kiện điện tử trong điều kiện thông thường cần duy trì độ ẩm tương đối là",
+    "o": [
+      "40% đến 80%",
+      "50% đến 95%",
+      "60% đến 95%",
+      "Không yêu cầu"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 Các hệ thống sau đây thuộc nhóm thiết bị số mấy: Hệ thống chuyển mạch thoại VCCS; Hệ thống radar giám sát sơ cấp PSR; Hệ thống xử lý dữ liệu ADS-B",
+    "o": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 thời hạn báo cáo đối với sự cố kỹ thuật mức A là bao lâu kể từ khi xảy ra sự cố",
+    "o": [
+      "trong vòng 12 giờ",
+      "trong vòng 24 giờ",
+      "trong vòng 48 giờ",
+      "không quy định"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 thời hạn sử dụng thiết bị đối với các thiết bị sử dụng các sản phẩm máy tính thương mại, thời hạn sử dụng thiết bị là bao lâu:",
+    "o": [
+      "10 năm",
+      "15 năm",
+      "20 năm",
+      "không quy định"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 thời gian giao nhận ca phải thực hiện trước ít nhất bao lâu so với thời gian bắt đầu của ca mới:",
+    "o": [
+      "15 phút",
+      "20 phút",
+      "30 phút",
+      "không quy định"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo quy định Quản lý kỹ thuật của TCT QLBVN Số 5199/QĐ-QLB ngày 14/10/2022 thời gian lưu trữ thông tin cung cấp dịch vụ CNS đối với các kênh liên lạc trực thoại không lưu (kênh riêng, điện thoại); dữ liệu, hình ảnh nhận được từ các hệ thống radar giám sát sơ cấp, thứ cấp là bao lâu",
+    "o": [
+      "tối thiểu 30 ngày",
+      "tối thiểu 20 ngày",
+      "tối thiểu 15 ngày",
+      "không quy định"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Xác suất phát hiện SSR theo tiêu chuẩn EUROCONTROL specification for ATM Surveillance System Performance",
+    "o": [
+      ">89%",
+      "≥97%",
+      "≥99%",
+      "≥93%"
+    ],
+    "a": 1
+  },
+  {
+    "q": "CHANGE-OVER RF dùng loại RELAY nào?",
+    "o": [
+      "SPDT Single Pole Double Throw",
+      "DPDT DOUBLE Pole Double Throw",
+      "SPST Single Pole Single Throw",
+      "DPST DOUBLE Pole Single Throw"
+    ],
+    "a": 1
+  },
+  {
+    "q": "NTP IP",
+    "o": [
+      "20.10.10.100",
+      "20.10.10.254",
+      "200.1.1.100",
+      "200.10.110.101"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Phần mềm Backup / Restore máy server new RHP",
+    "o": [
+      "Norton Ghost.",
+      "Acronis True Image",
+      "Backup và Restore Windows 10, EaseUS Todo Backup",
+      "Clone zilla"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Hệ điều hành server new RHP radar SSR",
+    "o": [
+      "Win 10",
+      "Kali Linux",
+      "Leonardo Linux",
+      "Win7"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Lợi ích của ra đa giám sát thứ cấp so với ra đa giám sát sơ cấp là:",
+    "o": [
+      "Tăng được công suất phát đối với cùng một cự ly; Cường độ tín hiệu trả lời không phụ thuộc kích thước hoặc vật liệu của mục tiêu;",
+      "Không bị ảnh hưởng bởi tín hiệu không mong muốn từ mặt đất;",
+      "Có mã cốt chỉ thị tốc độ tàu bay và không có mã cốt đặc biệt về khẩn nguy, hỏng hóc thông tin, can thiệp bất hợp pháp;",
+      "Tất cả các mục trên."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn ICAO, tần số trả lời trong ra đa thứ cấp là:",
+    "o": [
+      "1030 MHz;",
+      "1090 MHz;",
+      "1900 MHz",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "SIC của một hệ thống giám sát có nghĩa là:",
+    "o": [
+      "Mã nhận dạng hệ thống",
+      "Mã nhận dạng khu vực",
+      "Mã nhận dạng thiết bị",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "SAC của một hệ thống giám sát có nghĩa là:",
+    "o": [
+      "Mã nhận dạng khu vực",
+      "Mã nhận dạng hệ thống",
+      "Mã nhận dạng thiết bị",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong kỹ thuật radar, thuật ngữ BITE được viết tắt cho:",
+    "o": [
+      "Built-in test equypment",
+      "Biolar in the equypment",
+      "Batch Intergy Test Electronic",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Mực bay FL300 tương ứng với độ cao:",
+    "o": [
+      "300 km",
+      "30000 m",
+      "30 km",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Số lần thu tín hiệu trả lời của ra đa giám sát thứ cấp so với vận tốc quét của ăng ten là:",
+    "o": [
+      "Tỷ lệ thuận;",
+      "Tỷ lệ nghịch;",
+      "Độc lập.",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống ra đa Mode S giống với hệ thống ra đa Mode A và C đặc điểm nào sau đây",
+    "o": [
+      "Tần số hỏi và tần số trả lời",
+      "Tần số hỏi",
+      "Lượng dữ liệu truyền đi",
+      "Tần số trả lời"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Phương pháp chế áp búp sóng phụ máy hỏi của radar thứ cấp là:",
+    "o": [
+      "KSLS",
+      "IISLS",
+      "RSLS",
+      "Tất cả đáp án đều đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Kỹ thuật nào sau đây được sử dụng để khắc phục các nhược điểm của Radar thứ cấp:",
+    "o": [
+      "FRUIT",
+      "GARBLING",
+      "Nén xung",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "ASTERIX là:",
+    "o": [
+      "Định dạng cấu trúc bản tin giám sát",
+      "Định dạng tốc độ truyền dữ liệu radar",
+      "Định dạng tốc độ truyền dữ liệu giám sát",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Loại ASTERIX nào sau đây có thể được sử dụng để định dạng bản tin giám sát truyền từ hệ thống radar thứ cấp đến trung tâm quản lý không lưu:",
+    "o": [
+      "CAT 10",
+      "Cat 43, 38",
+      "CAT 34,48",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Loại ASTERIX nào sau đây có thể được sử dụng để định dạng bản tin giám sát truyền từ hệ thống radar thứ cấp đến trung tâm quản lý không lưu:",
+    "o": [
+      "CAT 1",
+      "CAT 2",
+      "CAT 34,48",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Loại ASTERIX nào sau đây có thể được sử dụng để định dạng bản tin giám sát truyền từ hệ thống radar thứ cấp đến trung tâm quản lý không lưu:",
+    "o": [
+      "CAT 10",
+      "Cat 43, 38",
+      "CAT 19, 21",
+      "Không có đáp án nào đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "FRUIT là hiện tượng:",
+    "o": [
+      "Tín hiệu trả lời của máy bay không đến được máy thu do suy hao",
+      "Tín hiệu trả lời của máy bay không đến được máy thu do nhiễu",
+      "Một máy bay cùng lúc nằm trong búp sóng chính của nhiều đài radar",
+      "Nhiều máy bay cùng lúc nằm trong búp sóng chính của một đài radar"
+    ],
+    "a": 2
+  },
+  {
+    "q": "GARBLING là hiện tượng:",
+    "o": [
+      "Máy bay bay qua đỉnh mù của đài radar",
+      "Transponder của máy bay gửi thông tin trả lời sai hoặc thiếu",
+      "Hai hay nhiều máy bay có khoảng cách và góc phương vị giống nhau nhưng khác nhau về độ cao",
+      "Hai hay nhiều máy bay có độ cao và góc phương vị giống nhau nhưng khác nhau về khoảng cách"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M các xung phát P1. P2, P3 được điều chế dao động cao tần ở khối nào?",
+    "o": [
+      "DRIVER AND TEST GENERATOR.",
+      "TX ASSY.",
+      "RF AMPLIFIER.",
+      "LIC."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M khối LIC được dùng để làm gì?",
+    "o": [
+      "Bảo vệ máy thu đối với bất kỳ một tín hiệu lớn nào ở đầu vào máy thu.",
+      "Chèn một tín hiệu vào máy thu kênh tổng và kênh hiệu để cho phép tự động điều khiển hệ số khuếch đại cả hai giản đồ thu và theo dõi hoạt động của máy thu. (BITE ON-LINE).",
+      "Chèn một tín hiệu vào máy thu kênh tổng và kênh hiệu, cho phép tìm lỗi 2 kênh máy thu. (BITE OFF-LINE).",
+      "Tất cả các đáp án đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M tín hiệu từ khối MIXER PIF sang khối APACOR có tần số là bao nhiêu?",
+    "o": [
+      "1030 MHz.",
+      "1090 MHz.",
+      "60 MHz.",
+      "30 MHz."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M khối APACOR được dùng để làm gì?",
+    "o": [
+      "Hiệu chỉnh pha kênh tổng Σ và kênh hiệu Δ.",
+      "Chỉnh biên độ máy thu kênh tổng Σ và hiệu Δ.",
+      "Tự động điều chỉnh hệ số khuếch đại để giữ hệ số khuếch đại toàn tuyến máy thu tổng Σ và hiệu Δ không đổi.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M khi tín hiệu đầu vào khối LOG IF thay đổi 1dB thì tạo ra sự thay đổi ở đầu ra của khối này là bao nhiêu?",
+    "o": [
+      "10mV.",
+      "20mV.",
+      "30mV.",
+      "40mV"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M khối COS được dùng để làm gì?",
+    "o": [
+      "Tạo tín hiệu Σ/Δ.",
+      "Tạo tín hiệu Σ/Ω.",
+      "Tạo điện áp hiệu chỉnh cho mạch vòng điều chỉnh AGC của cả hai kênh máy thu Σ và Δ.",
+      "Tất cả các đáp án đều đúng."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M tín hiệu nào cho phép xác định vị trí của mục tiêu so với trục chính của anten?",
+    "o": [
+      "LogΣ/Δ.",
+      "LogΣ/Ω.",
+      "SIGN.",
+      "LogΣ."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M tín hiệu LogΣ/Δ được đưa đến Controller/Extractor để làm gì?",
+    "o": [
+      "Phát hiện thông tin đơn xung.",
+      "Xử lý thông tin để loại bỏ thông tin thu từ búp sóng phụ.",
+      "Xác định vị trí của trả lời là bên trái hay bên phải so với trục chính của an ten.",
+      "Xác định thông tin góc phương vị."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M tín hiệu LogΣ/Ω được đưa đến Controller/Extractor để làm gì?",
+    "o": [
+      "Phát hiện thông tin đơn xung.",
+      "Loại bỏ thông tin thu từ búp sóng phụ.",
+      "Xác định vị trí của trả lời là bên trái hay bên phải so với trục chính của an ten.",
+      "Xác định thông tin góc phương vị."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M độ rộng của các xung P1, P2, P3 khi đi từ DRIVER & TEST GENERATOR đến máy phát là bao nhiêu?",
+    "o": [
+      "0,8 µs.",
+      "1 µs.",
+      "1,1 µs.",
+      "1,2 µs."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Những bộ phận nào sau đây thực hiện việc chuyển đổi kênh trong Ra đa thứ cấp SIR-M hai kênh?",
+    "o": [
+      "SWIT-1 và RF PART.",
+      "DRIVER & TEST GENERATOR.",
+      "SWIT-1 và RF CHANGE OVER.",
+      "RF PART và CHANGE OVER ASSY."
+    ],
+    "a": 2
+  },
+  {
+    "q": "12. Công suất đỉnh danh định tại đầu ra máy phát trong Ra đa thứ cấp SIR-M là bao nhiêu?",
+    "o": [
+      "a. 500 W.",
+      "b. 1000 W.",
+      "c. 1500 W.",
+      "d. 2000 W."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào sau đây thực hiện hiệu chỉnh pha kênh Tổng, kênh Hiệu và vị trí mục tiêu so với búp sóng chính anten?",
+    "o": [
+      "MIXER-PIF.",
+      "LIC.",
+      "RF AMPLIFIER.",
+      "PHADE."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chức năng khối PRESELECTOR FILTER trong Ra đa thứ cấp SIR-M là gì?",
+    "o": [
+      "Cho phép loại bỏ tần số ảnh, tần số không mong muốn lọt vào máy thu.",
+      "Lọc tần số nằm ngoài dải hoạt động của tín hiệu phát khi máy phát hoạt động.",
+      "Cách ly máy thu khỏi tín hiệu phát khi máy phát hoạt động.",
+      "Cả ba đáp án trên đều đúng."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào thực hiện chuyển đổi tín hiệu RF thu được của kênh đẳng hướng xuống tín hiệu trung tần?",
+    "o": [
+      "MIXER-PIF.",
+      "RF AMPLIFIER.",
+      "LIC.",
+      "RECEIVER."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào cung cấp tín hiệu 1030 MHz chuẩn cho máy phát và máy thu?",
+    "o": [
+      "MIXER-PIF.",
+      "RF AMPLIFIER.",
+      "Driver and Test Generator.",
+      "RECEIVER."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào tạo ra xung kiểm tra 1090 MHz để sử dụng trong ON/OFF-LINE BITE của máy thu?",
+    "o": [
+      "Driver and Test Generator.",
+      "MIXER-PIF.",
+      "RF AMPLIFIER.",
+      "APACOR."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, việc lấy mẫu các xung RF của máy phát để kiểm tra việc lập trình phát chính xác được thực hiện tại khối nào sau đây?",
+    "o": [
+      "RF AMPLIFIER.",
+      "Driver and Test Generator.",
+      "RF PARTS.",
+      "MIXER-PIF."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào thực hiện nén biên độ tín hiệu trung tần 60MHz thu được?",
+    "o": [
+      "MIXER-PIF.",
+      "LOG-IF.",
+      "Driver and Test Generator.",
+      "RECEIVER."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, AGC được thực hiện tại khối nào?",
+    "o": [
+      "MIXER-PIF.",
+      "APACOR.",
+      "RF PARTS.",
+      "RECEIVER."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối nào thực hiện chuyển đổi tương tự/số tín hiệu thị tần tuyến thu?",
+    "o": [
+      "MIXER-PIF.",
+      "EDF.",
+      "MIS-1.",
+      "RECEIVER."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, việc đo công suất phát và công suất phản hồi được thực hiện tại khối nào?",
+    "o": [
+      "MIXER-PIF.",
+      "EDF.",
+      "MIS-1.",
+      "RECEIVER."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, khối xử lý MPU có bộ nhớ không?",
+    "o": [
+      "Không có bộ nhớ.",
+      "Chỉ có bộ nhớ chương trình.",
+      "Chỉ có bộ nhớ dữ liệu.",
+      "Có cả bộ nhớ chương trình và bộ nhớ dữ liệu tách biệt."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, bộ nhớ PRM có dung lượng bao nhiêu?",
+    "o": [
+      "32K x 24 bit.",
+      "64K x 24 bit.",
+      "32K x 12 bit.",
+      "64K x 12 bit."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong Ra đa thứ cấp SIR-M, bộ nhớ DPM có thể được truy nhập như thế nào?",
+    "o": [
+      "Chỉ 1 bộ xử lý MPU được truy nhập.",
+      "2 bộ xử lý MPU tách biệt có thể truy nhập đồng thời.",
+      "3 bộ xử lý MPU tách biệt có thể truy nhập đồng thời.",
+      "4 bộ xử lý MPU tách biệt có thể truy nhập đồng thời."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hệ thống ra đa Mode S khác với hệ thống ra đa Mode A và C đặc điểm nào sau đây",
+    "o": [
+      "Cự ly hoạt động của hệ thống ra đa Mode S lớn hơn cự ly hoạt động của hệ thống ra đa Mode A và C",
+      "Tần số hỏi",
+      "Mode S có thể truyền nhiều dữ liệu hơn",
+      "Tần số trả lời"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Tổn hao truyền sóng vô tuyến điện trong không gian tự do tỷ lệ với bước sóng làm việc thế nào?",
+    "o": [
+      "Tỷ lệ thuận với bình phương của bước sóng",
+      "Tỷ lệ nghich với bình phương của bước sóng",
+      "Độc lập với nhau"
+    ],
+    "a": 1
+  },
+  {
+    "q": "SSR SIR-M hiện đang sử dụng những chế độ hỏi nào trong Radar thứ cấp?",
+    "o": [
+      "1 và A",
+      "A và C",
+      "3 và A",
+      "3 và C"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn khuyến cáo thực hành của ICAO, sai số cho phép của tần số trả lời trong Radar thứ cấp là bao nhiêu?",
+    "o": [
+      "± 0,1 MHz",
+      "± 1 MHz",
+      "± 3 MHz",
+      "± 0,2 MHz"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Theo tiêu chuẩn khuyến cáo thực hành của ICAO, sai số cho phép của tần số hỏi trong Radar thứ cấp là bao nhiêu?",
+    "o": [
+      "± 0,1 MHz",
+      "± 1 MHz",
+      "± 3 MHz",
+      "± 0,2 MHz"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Khi nào máy bay phát xung SPI trong Radar thứ cấp?",
+    "o": [
+      "Phát thường xuyên",
+      "Phát khi vi phạm phân cách",
+      "Phát khi máy thu tín hiệu hỏi bị báo động",
+      "Phát khi tổ lái có yêu cầu"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chế độ C trong Radar thứ cấp sử dụng để làm gì?",
+    "o": [
+      "Nhận biết máy bay",
+      "Hỏi độ cao máy bay",
+      "Hỏi tốc độ máy bay",
+      "Hỏi tổ lái về tình trạng máy bay"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Ghép kênh OCM truyền tín hiệu radarCM vè HAN qua card nào?",
+    "o": [
+      "CCM 10",
+      "V.35",
+      "FXS/FXO",
+      "DUAL DATA"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Bộ chia đường truyền CADMOS xuất tín hiệu radarCM ở dạng giao thức nào?",
+    "o": [
+      "ethernet IP",
+      "Serial Async.",
+      "Serial Sync.",
+      "ISDN 64K"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Switch LAN 24port radarCM gồm các VLAN nào?",
+    "o": [
+      "Config VLAN, System VLAN",
+      "Config VLAN, OUT_VLAN",
+      "System VLAN, OUT_VLAN",
+      "RHP VLAN, OUT_VLAN"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Ưu điểm chính của đo góc bằng phương pháp biên độ - pha?",
+    "o": [
+      "Thiết bị gọn nhẹ",
+      "Xác định tốt góc phương vị của mục tiêu bay tiếp tuyến",
+      "Chỉ cần một tín hiệu xung phản xạ là đủ tin tức để xác định góc phương vị",
+      "Giải pháp kỹ thuật đơn giản"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Để khử tín hiệu trả lời nhầm ở máy hỏi ta sử dụng mạch tự động điều chỉnh hệ số khuếch đại theo thời gian (STC) hoặc mạch cắt nền theo thời gian (TVBC) với mục đích gì?",
+    "o": [
+      "Khoá máy thu ở vùng gần đài",
+      "Loại bỏ nhiễu không đồng bộ ở vùng gần đài",
+      "Làm giảm giả tạo độ nhạy máy thu ở vùng gần đài",
+      "Lắc tần số lặp lại (Staggering)"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Để tách tín hiệu trả lời đồng bộ bị trùng một phần lên nhau ta sử dụng phương pháp nào?",
+    "o": [
+      "Giữ chậm tín hiệu trả lời 21µs, sau đem so sánh với tín hiệu thu được",
+      "Giữ chậm tín hiệu trả lời 20,3µs",
+      "Giám sát tần số lặp lại"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong các hệ thống Radar sau đây, hệ thống nào sử dụng phương pháp biên độ - pha để đo góc phương vị?",
+    "o": [
+      "Radar sơ cấp",
+      "Radar thứ cấp thông thường",
+      "Cả Radar sơ cấp và Radar thứ cấp thông thường",
+      "Radar thứ cấp đơn xung"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Làm thế nào để khắc phục hiện tượng đa trị cự ly trong Radar thứ cấp?",
+    "o": [
+      "Giám sát tần số lặp lại",
+      "Nén cánh sóng phụ khi thu (RSLS)",
+      "Lắc tần số lặp lại (Staggering)",
+      "Đặt ngưỡng kiểm soát độ nhạy theo thời gian STC hợp lý"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Số lần thu tín hiệu trả lời tỷ lệ thế nào với tần số lặp lại của Radar?",
+    "o": [
+      "Tỷ lệ nghịch với tần số lặp lại của Radar",
+      "Tỷ lệ nghịch với bình phương của tần số lặp lại của Radar",
+      "Tỷ lệ thuận với tần số lặp lại của đài Radar",
+      "Tỷ lệ thuận với căn bậc hai của tần số lặp lại của Radar"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Công suất tín hiệu ở đầu vào máy thu trong Radar thứ cấp PThu tỷ lệ thế nào với khoảng cách R từ đài Radar đến máy bay?",
+    "o": [
+      "Tỷ lệ thuận với khoảng cách R từ đài Radar đến máy bay",
+      "Tỷ lệ nghịch với bình phương của khoảng cách R từ đài Radar đến máy bay",
+      "Tỷ lệ nghịch với khoảng cách R từ đài Radar đến máy bay",
+      "Tỷ lệ thuận với căn bậc hai của khoảng cách R từ đài Radar đến máy bay"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Công suất tín hiệu ở đầu vào máy thu trong Radar thứ cấp PThu tỷ lệ thế nào với suy hao không gian?",
+    "o": [
+      "Tỷ lệ thuận với suy hao không gian",
+      "Tỷ lệ thuận với bình phương suy hao không gian",
+      "Tỷ lệ nghịch với suy hao không gian",
+      "Tỷ lệ thuận với căn bậc hai của suy hao không gian"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Công suất tín hiệu ở đầu vào của máy thu trong Radar thứ cấp P_x001f_Thu tỷ lệ thế nào với công suất phát PPhát của bộ phát đáp trên máy bay?",
+    "o": [
+      "Tỷ lệ nghịch với công suất phát PPhát.",
+      "Tỷ lệ thuận với công suất phát PPhát",
+      "Tỷ lệ nghịch với bình phương công suất phát PPhát",
+      "Tỷ lệ thuận với căn bậc hai của công suất phát PPhát"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn của ICAO, có tối đa bao nhiêu xung mang thông tin trong tín hiệu trả lời của Radar thứ cấp?",
+    "o": [
+      "8 xung",
+      "12 xung",
+      "16 xung",
+      "24 xung"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn của ICAO, khoảng cách giữa hai xung khung F1, F2 trong tín hiệu trả lời của máy bay tới Radar thứ cấp là bao nhiêu?",
+    "o": [
+      "21 µ21 µss",
+      "35,45 µs",
+      "25,45 µs",
+      "20,3 µs"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Theo tiêu chuẩn của ICAO, biên độ của xung P1 so với xung P2 trong Radar thứ cấp ở cánh sóng phụ sẽ thế nào?",
+    "o": [
+      "P2 nhỏ hơn P1 là 9 dB",
+      "P2 lớn hơn hoặc bằng P1",
+      "Cả ba câu trên đều sai",
+      "P2 nhỏ hơn P1 là1 dB"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn của ICAO, khoảng cách giữa các xung mang thông tin trong tín hiệu trả lời là bao nhiêu?",
+    "o": [
+      "2,45 µs",
+      "1,45 µs",
+      "2 µs",
+      "1 µs"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo tiêu chuẩn của ICAO, khoảng cách giữa mỗi xung và xung khung đầu tiên trong nhóm xung trả lời không được sai lệch quá bao nhiêu?",
+    "o": [
+      "± 0,05 µs",
+      "± 0,10 µs",
+      "± 0,15 µs",
+      "± 0,20 µs"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Hệ thống VHF Cà Mau đang sử dụng tần số nào?",
+    "o": [
+      "120.9 MHz",
+      "121.5 MHz",
+      "128.175 MHz",
+      "133.85 MHz",
+      "Cả 4 phương án 1, 2,3 và 4"
+    ],
+    "a": 4
+  },
+  {
+    "q": "Cách sử dụng tần số trong hệ thống VHF Cà Mau?",
+    "o": [
+      "120.9 MHz tần số chính; 133.85 MHz dự phòng phân khu 3, phân khu 7",
+      "121.5 MHz tần số khẩn nguy phân khu 3, phân khu 7; 128.175 MHz tần số chính phân khu 7",
+      "P/A lựa chọn 1 và 2 đúng.",
+      "P/A lựa chọn 1 và 2 sai."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Sử dụng đường truyền trong hệ thống VHF Cà Mau?",
+    "o": [
+      "Mux 2100, V35 VNPT",
+      "Mux 2100, E1 VNPT",
+      "Mux 2100, E1 VNPT/ VIETTEL",
+      "MUX CX900 VSAT",
+      "P/A lựa chọn 1,3 và 4 đúng"
+    ],
+    "a": 4
+  },
+  {
+    "q": "Dung lượng kênh truyền VHF Cà Mau?",
+    "o": [
+      "16 Kbps",
+      "32 Kps",
+      "64 Kbps",
+      "P/A lựa chọn 2 và 3 đúng",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Băng tần thoại VHF",
+    "o": [
+      "3 Khz",
+      "6 Khz",
+      "8 Khz",
+      "10 Khz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Chủng loại VHF tại Cà Mau?",
+    "o": [
+      "PARK AIR T6TR",
+      "JOTRON TR 7750",
+      "SU 250, EU230",
+      "Tất cả P/A đều đúng"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Phương vị anten VHF Cà Mau?",
+    "o": [
+      "230 độ W-S",
+      "60 độ E-N",
+      "khoảng 230 độ W-S (phân khu 3), 60 độ E-N (phân khu 7)",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF Cà Mau có sử dụng chống sét trên cáp RF không?",
+    "o": [
+      "Có",
+      "Không",
+      "Chỉ máy Main",
+      "Chỉ máy Standby"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 và 121.5 Mhz Cà Mau kết nối điều khiển xa từ?",
+    "o": [
+      "ACC HCM",
+      "ATC HN",
+      "P/A 1, 2 đúng",
+      "P/A 1, 2 sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 120.9 Mhz có sử dụng chuyển mạch Main/Standby local tại đầu Cà Mau không?",
+    "o": [
+      "Có",
+      "Không",
+      "Không, main và standby đấu nối độc lập",
+      "Role ngoài"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 120.9 Mhz có sử dụng chuyển mạch Tx/Rx qua relay ngoài không?",
+    "o": [
+      "Không",
+      "Không, do máy transceiver",
+      "có",
+      "Role ngoài"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 133.85 Mhz, sử dụng APM nhằm mục đích gi?",
+    "o": [
+      "Khuếch đại tín hiệu",
+      "Tạo tín hiệu điều khiển phát",
+      "Chọn máy Main/ Standby",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 133.85 Mhz, sử dụng ADC nhằm mục đích gi?",
+    "o": [
+      "Bù trễ tín hiệu phát",
+      "Bù trễ tín hiệu thu",
+      "Tất cả P/A đều sai",
+      "Tất cả P/A đều đúng"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 133.85 Mhz có sử dụng chuyển mạch phát Main/ Stadby qua relay ngoài không?",
+    "o": [
+      "Không",
+      "Không, sử dụng hai anten độc lập",
+      "Rơle ngoài",
+      "có"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 133.85 Mhz, có sử dụng chuyển mạch thu Main/ Stadby không?",
+    "o": [
+      "Rơle ngoài",
+      "có",
+      "sử dụng bộ chia tín hiệu thu 1: 2",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 121.5 Mhz, có sử dụng chuyển mạch thu Main/ Stadby không?",
+    "o": [
+      "Rơle ngoài",
+      "Có",
+      "Điode pin",
+      "Sử dụng bộ chia hiệu 1: 2"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 121.5 Mhz, có sử dụng chuyển mạch phát Main/ Stadby local tại Cà Mau không?",
+    "o": [
+      "Có",
+      "Không, sử dụng hai anten độc lập",
+      "Không",
+      "Relay ngoài"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Chức năng của krone switch trong hệ thống VHF 120.9 và 121.5 Mhz là gì?",
+    "o": [
+      "Chuyển đổi tự đông phát Main/ Standby",
+      "Chọn máy TX/RX",
+      "Chọn máy Main/ Standby Rx",
+      "Chuyển đổi quyền điều khiển về ACC Hà Nội khi cần thiết"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 128.175 Mhz có sử dụng chuyến Main/ Standby local tại Cà Mau không?",
+    "o": [
+      "Không, sử dụng anten độc lập",
+      "Relay ngoài",
+      "Krone switch",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 128.175 Mhz chuyến mạch TX/ RX bằng cách nào?",
+    "o": [
+      "Diode pin",
+      "Sử dụng anten độc lặp",
+      "Rơle ngoài",
+      "P/ A 1 và 3 sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 128.175 Mhz, 2 contact phụ ở ngoài dùng để làm gì?",
+    "o": [
+      "Dùng dự phòng cho Relay TX/RX",
+      "Dùng để Key chế độ Local mặt máy",
+      "Dùng để Key chế độ Remote",
+      "Dùng chọn TX Standby"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Máy VHF 120.9 Mhz PARK AIR dùng giao tiếp gì cho tín hiệu thoại?",
+    "o": [
+      "RJ45",
+      "RJ11",
+      "DB25, RS232",
+      "DB34, RS449"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy VHF 120.9 Mhz PARK AIR Cà Mau hiện có sử nguồn DC không?",
+    "o": [
+      "Chỉ AC",
+      "Chỉ DC",
+      "Cả AC và DC",
+      "Không"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 120.9 Mhz Cà Mau, dang sử dụng offset bao nhiêu?",
+    "o": [
+      "+ 5 Khz",
+      "- 5 Khz",
+      "0 Khz",
+      "- 2.5 Khz",
+      "+ 2.5 Khz"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VhF 128.175 Mhz hiện có sử, dung Relay Tx/ Rx bên ngoài để dự phòng không?",
+    "o": [
+      "Không",
+      "Có",
+      "Không, chỉ sử main và standby Tx",
+      "Không, chỉ sử main và standby Rx"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 128.175 Mhz, nguồn cấp cho Relay chuyển mạch Tx/ Rx là bao nhiêu?",
+    "o": [
+      "+12 VDC",
+      "+ 48 VDC",
+      "+ 24VDC",
+      "+ 12 VDC",
+      "- 48 VDC"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 128.175 Mhz, Audio input máy phát sử dụng DB giao tiếp loại nao?",
+    "o": [
+      "DB9",
+      "DB15",
+      "DB25",
+      "DB37"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 128.175 Mhz hiện tại có sử dụng tín hiệu SQ để tác động mạch M không?",
+    "o": [
+      "Có",
+      "Không",
+      "Có, tác động mạch E",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 128.175 Mhz, Audio output máy thu sử dụng DB giao tiếp loại nao?",
+    "o": [
+      "DB34",
+      "DB25",
+      "DB9",
+      "DB37"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 128.175 Mhz, ADC có sử tín hiệu cảnh báo Alarm không???",
+    "o": [
+      "Không",
+      "Có",
+      "Tất cả P/A đều sai",
+      "Tất cả P/A đều đúng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 128.175 Mhz Cà Mau chế độ điều khiển phát từ xa ACC HCM, mặt máy SU 250 hoạt động ở chế độ nào?",
+    "o": [
+      "Remote",
+      "Local",
+      "Cả Local và Remote",
+      "Tất cả P/A đều sai"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Cáp feeder kết nối từ chống chống sét RF đến anten VHF Cà Mau thuộc loại nào?",
+    "o": [
+      "BNC",
+      "Cáp 1/2 Inch",
+      "Cáp 7/8 Inch",
+      "Tất cả P/A đều đúng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 128.175 MHz kết nối đường truyền tín hiệu như thế nào?",
+    "o": [
+      "I/O-4/P2 MUX E1 và I/O-2/P1 MUX V35",
+      "I/O-4/P1 MUX E1 và I/O-1/P1 MUX V35",
+      "I/O-4/P1 MUX E1 và I/O-2/P1 MUX V35",
+      "I/O-4/P2 MUX E1 và I/O-2/P2 MUX V35"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF Cà Mau kết nối với đường truyền VSAT qua card nào?",
+    "o": [
+      "V35 EU",
+      "MULTI I/O",
+      "DUAL ANALOG VOICE",
+      "Tất cả P/A đều đúng"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 128.175 Mhz hiện tại, lắp krone dây nhảy nguồn 24VDC, mass để làm gì?",
+    "o": [
+      "Cấp nguồn cho Relay và mass cho PTT main/ stanby",
+      "Cấp nguồn cho Relay và mass cho PTT dự phòng",
+      "P/A 1 và 2 đều đúng",
+      "P/A 1 và 2 đều sai"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Ở trạng thái hoạt động bình thường, VHF Cà Mau, chọn máy main/ standby bởi?",
+    "o": [
+      "ACC HCM",
+      "Radar Cà Mau",
+      "P/A 1 và 2 đều sai",
+      "ATC HN"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 121.5 Mhz kết nối đường VSAT ở vị trí nào?",
+    "o": [
+      "S4P1",
+      "S4P2",
+      "S5P1",
+      "S5P2"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 120.9 Mhz kết nối đường VSAT ở vị trí nào?",
+    "o": [
+      "S4P1",
+      "S4P2",
+      "S5P1",
+      "S5P2"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VSAT Cà Mau hiện đang sử dụng Thaicom mấy?",
+    "o": [
+      "Thaicom 4",
+      "Thaicom 6",
+      "Thaicom 7",
+      "Thaicom 5"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF Cà Mau kết nối ACC HCM có qua hệ thống VCCS không?",
+    "o": [
+      "Không",
+      "Có",
+      "P/A 1 và 2 đều sai",
+      "VCCS 3020X"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF Cà Mau, đường truyền cáp quang V35 sử dụng thiết bị quang điện nào?",
+    "o": [
+      "Optix Metro 100",
+      "LIGHTSMART PE150",
+      "MST30AV",
+      "Loại khác"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF Cà Mau, đường truyền cáp quang E1 sử dụng thiết bị quang điện nao?",
+    "o": [
+      "Optix Metro 100",
+      "LIGHTSMART PE150",
+      "MST30AV",
+      "Loại khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF Cà Mau, đường truyền OCM 1000 sử dụng thiết bị quang điện nao?",
+    "o": [
+      "Optix Metro 100",
+      "LIGHTSMART PE150",
+      "MST30AV",
+      "Loại khác"
+    ],
+    "a": 2
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR, hiện đang đặt mức công suất tương đương bao nhiêu dBm?",
+    "o": [
+      "10 dBm",
+      "44 dBm",
+      "47 dBm",
+      "P/A 1 và 3 đều sai"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Mức tín hịệu tiêu chuẩn của các máy VHF thường đặt ở mức",
+    "o": [
+      "-107 dBm",
+      "- 92 dBm",
+      "- 93 dBm",
+      "- 91 dBm",
+      "- 89 dBm"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau hiện đang sử dụng liên lạc A/G nào?",
+    "o": [
+      "AM Voice",
+      "AM Dat (ACARS)",
+      "FM Voice.",
+      "Cả 1, 2."
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau hiện đang sử dụng kỹ thuật điều chế/ giải điều chế?",
+    "o": [
+      "AM - A3E.",
+      "AM MSK.",
+      "FM",
+      "Cả 1, 2."
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau hiện đang hoạt động với phân cách tần số?",
+    "o": [
+      "8.33 kHz",
+      "25 kHz.",
+      "Cả 1 và 2."
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau hoạt động trực tiếp với nguồn vào?",
+    "o": [
+      "AC: (110 ÷ 230) V, (48 ÷ 62) Hz",
+      "DC: + (21.6 ÷ 32) V",
+      "DC: + (47 ÷ 63) V",
+      "Cả 1 và 2"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Khi được cấp đủ 2 nguồn vào AC và DC, máy VHF 120.9 Mhz PA T6TR hoạt động với?",
+    "o": [
+      "Nguồn vào chính là nguồnAC, nguồn DC là nguồn dự phòng.",
+      "Nguồn vào chính là nguồn DC, nguồn AC là nguồn dự phòng."
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau, giá trị Line In chỉnh mức âm tần vào có thể chọn trong khoảng?",
+    "o": [
+      "-40 ÷ 0 dBm (với mỗi bước điều chỉnh là 1dB).",
+      "-40 ÷ 10 dBm (với mỗi bước điều chỉnh là 1dB).",
+      "-30 ÷ 0 dBm (với mỗi bước điều chỉnh là 1dB).",
+      "-30 ÷ 10 dBm (với mỗi bước điều chỉnh là 1dB)."
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau, giá trị Line In chỉnh mức âm tần vào là bao nhiêu?",
+    "o": [
+      "-12dBm",
+      "-10dBm",
+      "-11dBm",
+      "-13dBm"
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau, giá trị Line Out chỉnh mức âm tần vào có thể chọn trong khoảng?",
+    "o": [
+      "-30 ÷ 7 dBm (mỗi bước điều chỉnh là 1 dB).",
+      "-30 ÷ 10 dBm (mỗi bước điều chỉnh là 1 dB).",
+      "-30 ÷ 20 dBm (mỗi bước điều chỉnh là 1 dB).",
+      "-40 ÷ 10 dBm (mỗi bước điều chỉnh là 1 dB)."
+    ],
+    "a": 1
+  },
+  {
+    "q": "VHF 120.9 Mhz PA T6TR Cà Mau, giá trị Line Out chỉnh mức âm tần vào là bao nhiêu?",
+    "o": [
+      "-24dbm",
+      "-23dbm",
+      "-20dbm",
+      "- 21dbm"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Máy phát ParkAir T6TR: thiết bị đang hoạt động bình thường thì sẽ sáng các đèn chỉ thị nào sau đây?",
+    "o": [
+      "Đèn ALARM.",
+      "Đèn TRANSMIT.",
+      "Đèn RECEIVE.",
+      "khi chờ: đèn READY, khi phát: thêm đèn TRANSMIT, khi thu: thêm đèn RECEIVE"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Máy VHF Park Air T6TR: Giá trị Squelch chỉnh ngưỡng Squelch có thể chọn trong khoảng?",
+    "o": [
+      "-114 ÷ -60 dBm (với mỗi bước điều chỉnh là 1 dB).",
+      "-106 ÷ -60 dBm (với mỗi bước điều chỉnh là 1 dB).",
+      "-107 ÷ -60 dBm (với mỗi bước điều chỉnh là 1 dB).",
+      "-108 ÷ -54 dBm (với mỗi bước điều chỉnh là 1 dB)."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy VHF Park Air T6TR: ngoài các đèn chỉ thị, ngoài các bài đo, để kiểm tra, đánh giá các tham số hoạt động của thiết bị từ mặt trước máy thì vào mục nào sau đây?",
+    "o": [
+      "Frequency",
+      "Channel",
+      "Settings",
+      "BIT"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Máy VHF ParkAir T6TR: để chọn kiểu điều chế từ mặt trước máy thì vào những mục nào sau đây:",
+    "o": [
+      "Settings/Mode",
+      "Settings/Mod Depth",
+      "Settings/AM",
+      "Settings/Band Edges."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy VHF Park Air T6TR: để chọn công suất phát từ mặt trước máy thì vào những mục nào sau đây:",
+    "o": [
+      "Settings/Mode Settings/Line in.",
+      "Settings/Mode Settings/Tx Timeout.",
+      "Settings/Band Edges",
+      "Settings/Mode Settings/Power"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Máy VHF Park Air T6TR: để chọn độ sâu điều chế từ mặt trước máy thì vào những mục nào sau đây:",
+    "o": [
+      "Settings/Mode Settings/Power.",
+      "Settings/Mode Settings/Mod Depth.",
+      "Settings/Mode Settings/Line Out.",
+      "Settings/Mode Settings/Tx Timeout."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Thiết bị máy phát TA-7650: Các bước thực hiện khi, thông số VSWR cao hơn 1:3",
+    "o": [
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng.",
+      "Kiểm tra đèn SWR và thông số SWR trên mặt máy, các đầu kết nối với Anten, ACU, bộ lọc. Khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca.",
+      "Lần lượt thực hiện các mục 1, 2, 3."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết Thiết bị máy phát TA-7650: Các bước thực hiện khi, công suất phát giảm một nữa",
+    "o": [
+      "Kiểm tra đèn LOW(sáng vàng) và PA Module trên mặt máy. Thực hiện thay thế máy phát hoặc PA Module, khôi phục lại hoạt động của hệ thống thiết bị VHF. Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca.",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng",
+      "Lần lượt thực hiện các mục 1, 2",
+      "Lần lượt thực hiện các mục 2, 1. (Theo quy trình xử lý đã được phê duyệt)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết Thiết bị máy phát TA-7650: Các bước thực hiện khi, dòng tiêu thụ tổng cao hơn 10A",
+    "o": [
+      "Thực hiện thay thế máy phát hoặc PA Module, khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng.",
+      "Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca",
+      "Lần lượt thực hiện các mục 2, 1, 3. (Theo quy trình xử lý đã được phê duyệt)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết bị máy thu RA-7203: Các bước thực hiện khi, mức dao động nội LO vượt ngưỡng cho phép",
+    "o": [
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng. Thực hiện thay thế máy thu hoặc RF Module, khôi phục lại hoạt động của hệ thống thiết bị VHF. Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca. (Theo quy trình xử lý đã được phê duyệt)",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng. Thực hiện thay thế máy thu hoặc RF Module, khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Thực hiện thay thế máy thu hoặc RF Module, khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thiết bị máy thu RA-7203: Các bước thực hiện khi, dòng IF vượt ngưỡng cho phép",
+    "o": [
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng.",
+      "Thực hiện thay thế máy thu hoặc RF Module, khôi phục lại hoạt động của hệ thống thiết bị VHF. Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca.",
+      "Lần lượt thực hiện các mục 2, 1",
+      "Lần lượt thực hiện các mục 1, 2. (Theo quy trình xử lý đã được phê duyệt)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết bị máy thu RA-7203: Các bước thực hiện khi dòng LNA vượt ngưỡng cho phép",
+    "o": [
+      "Thực hiện thay thế máy thu hoặc RF Module, khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng.",
+      "Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca",
+      "Lần lượt thực hiện các mục 2, 1, 3. (Theo quy trình xử lý đã được phê duyệt)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Thiết bị máy thu RA-7203: Các bước thực hiện khi, các mức điện áp hoạt động 12Vdc, 5Vdc, 3.3Vdc sai số vượt ngưỡng cho phép",
+    "o": [
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng. Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng. Thực hiện thay thế máy thu hoặc RF Module hoặc Power Module, khôi phục lại hoạt động của hệ thống thiết bị VHF."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Thiết bị máy thu RA-7203: Các bước thực hiện khi, nhiệt độ vượt quá ngưỡng cho phép (cao hơn 850C)",
+    "o": [
+      "Thực hiện thay thế máy thu hoặc Power Module, khôi phục lại hoạt động của hệ thống thiết bị VHF.",
+      "Giải trợ thông tin, bằng cách yêu cầu KSVKL chuyển sang khai thác trên máy dự phòng",
+      "Báo cáo cán bộ quản lý trực tiếp và ghi sổ trực ca",
+      "Lần lượt thực hiện các mục 2, 1, 3. (Theo quy trình xử lý đã được phê duyệt)"
+    ],
+    "a": 3
+  },
+  {
+    "q": "VHF 128.175 Mhz Cà Mau kết nối với card loại nào của MUX 2100 E1 và V35?",
+    "o": [
+      "KVC 1M E&M",
+      "KVF 4 FXS",
+      "KLS 2",
+      "Loại khác"
+    ],
+    "a": 0
+  },
+  {
+    "q": "VHF 120.9 Mhz, 121.5 Mhz Cà Mau kết nối với card loại cùa MUX OCM 1000?",
+    "o": [
+      "DUAL DATA CHAN 232",
+      "ADPCM VOICE CHAN",
+      "V.35 LINE INTFC",
+      "CCMC 10"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi được cấp đủ 2 nguồn vào AC và DC, máy thu Jotron RA7203 và bộ nguồn PSU của máy phát Jotron TA7650 hoạt động với:",
+    "o": [
+      "Nguồn vào chính là nguồn AC, nguồn DC là nguồn dự phòng.",
+      "Nguồn vào chính là nguồn DC, nguồn AC là nguồn dự phòng.",
+      "Cả 2 nguồn vào AC, DC đóng vai trò như nhau."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Đầu vào RF của máy thu Jotron RA7203:",
+    "o": [
+      "Nối trực tiếp vào đầu nối Antenna (kiểu N) mặt sau máy thu.",
+      "Nối từ đầu nối Reciever (kiểu BNC) mặt sau máy phát TA7650 đến đầu nối Antenna (kiểu N) mặt sau máy thu.",
+      "Đầu nối Antenna (kiểu N) mặt sau máy phát TA7650 đến đầu nối Antenna (kiểu N) mặt sau máy thu."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Đầu ra RF của máy phát Jotron TA7650 là đầu nối Antenna:",
+    "o": [
+      "Kiểu BNC.",
+      "Kiểu N.",
+      "Cả 1 và 2."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Chuyển mạch Anten thu/ phát giữa máy thu Jotron RA7203 và máy phát Jotron TA7650 theo cấu hình Trainceiver của Hãng sản xuất là:",
+    "o": [
+      "1 relay nằm bên ngoài.",
+      "1 relay nằm bên trong máy thu.",
+      "1 relay nằm bên trong máy phát.",
+      "Các diode PIN nằm bên trong máy phát."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Chuyển mạch chính/ phụ giữa các máy thu Jotron RA7203, các máy phát Jotron TA7650 là:",
+    "o": [
+      "1 relay nằm bên ngoài.",
+      "1 relay nằm bên trong máy thu.",
+      "1 relay nằm bên trong máy phát.",
+      "Các diode PIN nằm bên trong máy phát."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi biết dòng điện I, điện áp U và góc lệch pha φ giữa điện áp và dòng điện thì công thức và đơn vị tính của công suất tác dụng là:",
+    "o": [
+      "P = UI sinφ. đơn vị tính là Va.",
+      "Q = UI sinφ. đơn vị tính là Var.",
+      "P = UI cosφ. đơn vị tính là W."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi biết dòng điện I, điện áp U và góc lệch pha φ giữa điện áp và dòng điện thì công thức và đơn vị tính của công suất phản kháng là:",
+    "o": [
+      "P = UI sinφ. đơn vị tính là Va.",
+      "Q = UI sinφ. đơn vị tính là Var.",
+      "P = UI sinφ. đơn vị tính là Var."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi biết dòng điện I, điện áp U và góc lệch pha φ giữa điện áp và dòng điện thì công thức của công suất biểu kiến là:",
+    "o": [
+      "S=UI.",
+      "S=(p2+Q2)1/2",
+      "Cả 1 và 2."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Các công thức biểu thị quan hệ giữa các đại lượng dây và pha (dòng điện, điện áp) trong mạch điện ba pha nối hình sao đối xứng là:",
+    "o": [
+      "Id = Ip, Ud = 3 Up.",
+      "Id = Ip, Ud = 31/2 Up.",
+      "Id = 3Ip, Ud = Up.",
+      "Id = 31/2 Ip, Ud = Up."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Các công thức biểu thị quan hệ giữa các đại lượng dây và pha (dòng điện, điện áp) trong mạch điện ba pha nối tam giác đối xứng là:",
+    "o": [
+      "Id = Ip, Ud = 3 Up.",
+      "Id = Ip, Ud = 31/2 Up.",
+      "Id = 31/2 Ip, Ud = Up.",
+      "Id = 3Ip, Ud = Up."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Máy cắt điện S6 tại trạm Radar Cà Mau là khí cụ điện cao áp có hai phần GAM và QM trước khi đóng tiếp địa của GAM ta phải.",
+    "o": [
+      "Cắt cầu chì FCO",
+      "Không cần cầu chì FCO",
+      "Đóng xong rồi cắt"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy cắt điện S6 tại trạm Radar Cà Mau là khí cụ điện cao áp:",
+    "o": [
+      "Không có khả năng đóng cắt phụ tải.",
+      "Có khả năng đóng cắt phụ tải.",
+      "Không có khả năng dập hồ quang."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trong bộ cắt, lọc sét lan truyền trên đường cấp nguồn tại trạm radar Cà Mau, các phần tử cắt sét được mắc:",
+    "o": [
+      "Song song với tải.",
+      "Nối tiếp với tải.",
+      "Vừa song song và nối tiếp"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trong bộ cắt, lọc sét lan truyền trên đường cấp nguồn tại trạm, các phần tử lọc sét được mắc",
+    "o": [
+      "Nối tiếp với tải.",
+      "Song song với tải.",
+      "Cả song song và nối tiêp với tải."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Việc nối đất cho vỏ thiết bị điện tại trạm nhằm:",
+    "o": [
+      "Giảm dòng điện đi qua người khi tiếp xúc với vỏ thiết bị điện bị rò điện.",
+      "Bảo vệ cho thiết bị."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Rơle điện áp tại trạm Radar Cà Mau được:",
+    "o": [
+      "Mắc nối tiếp với đối tượng cần điều khiển, bảo vệ.",
+      "Mắc song song với đối tượng cần điều khiển, bảo vệ.",
+      "Có thể mắc nối tiếp hoặc song song tùy thuộc yêu cầu điều khiển, bảo vệ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ udervoltage của ATS lưới - máy phát có chức năng.",
+    "o": [
+      "Bảo vệ cao áp",
+      "Bảo vệ thấp áp",
+      "Cả 1 và 2."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bộ ATS lưới - máy phát tại Trạm Radar Cà Mau",
+    "o": [
+      "Có khóa liên động cơ khí.",
+      "Có khóa điện.",
+      "Không có khóa liên động và khóa điện",
+      "đáp án 1 và 2."
+    ],
+    "a": 3
+  },
+  {
+    "q": "Khi nhấn nút test trên bộ ATS lưới - máy phát tại Trạm Radar Cà Mau thì hai máy phát điện có tự động khởi động không.",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trên bộ UA khi xoay switch từ Auto về vị trí stop/ man của ATS lưới - máy phát tại Trạm Radar Cà Mau thì hai bộ Moterize.",
+    "o": [
+      "Ở trạng thái ON",
+      "Ở trạng thái OFF",
+      "Bên lưới ON, bên máy phát OFF",
+      "Bên lưới OFF, bên máy phát ON"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ ATS lưới - máy phát tại Trạm Radar Cà Mau. Đang vận hành bằng chế độ Manual Khi một bộ Moterize đang ở vị trí ON nếu nhấn nút OFF trên Moterize này thì Moterize chuyển về.",
+    "o": [
+      "Moterize Ở trạng thái ON",
+      "Moterize Ở trạng thái OFF",
+      "Moterize Ở trạng thái Trip"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi thứ tự pha không đúng Bộ ATS lưới - máy phát tại Trạm Radar Cà Mau sẽ hoạt động như thế nào",
+    "o": [
+      "Ra lệnh khởi động máy phát điện",
+      "Chuyển đổi ATS sang máy phát để cấp nguồn cho tải.",
+      "Đáp án 1 và 2."
+    ],
+    "a": 2
+  },
+  {
+    "q": "Bộ ATS lưới - máy phát tại Trạm Radar Cà Mau. Có thể điều chỉnh thời gian khởi động máy phát, tắt máy phát, thời gian chuyển đổi ATS.",
+    "o": [
+      "Không",
+      "Có"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ ATS lưới - máy phát tại Trạm Radar Cà Mau. Khi hoạt động",
+    "o": [
+      "Cả hai Moterize Ở trạng thái ON",
+      "Cả hai Moterize Ở trạng thái OFF",
+      "ON bên Moterize này OFF Moterize bên kia"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi Bộ ATS lưới- máy phát tại Trạm Radar Cà Mau. Mà hai bộ Moterize bị TRIP sau khi nhất nút OFF mà vẫn không hết TRIP. Muốn RESET TRIP thì",
+    "o": [
+      "Charge cần charge trên bộ Moterize 5 đến 8 lần để cho MCCB về trạng thái OFF",
+      "Nhấn nút OFF trên hai bộ Moterize",
+      "Nhấn nút ON trên hai bộ Moterize"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi Bộ ATS lưới- máy phát tại Trạm Radar Cà Mau. Mà hai bộ Moterize bị kẹt không Reset được thì",
+    "o": [
+      "Tháo hai bộ Moterize ra dùng tay OFF hai MCCB rồi sau đó ON MCCB bên cần cấp nguồn cho tải",
+      "Tháo hai bộ Moterize ra dùng tay OFF hai MCCB rồi sau đó ON hai MCCB cùng lúc",
+      "Nhấn nút TRIP hai MCCB"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bộ ATS máy pháy- máy phát tại Trạm Radar Cà Mau. Có mấy chế độ hoạt động",
+    "o": [
+      "Một",
+      "Hai",
+      "Ba",
+      "Bốn"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để đóng cắt cho phụ tải máy lạnh tại trạm với yêu cầu theo thời gian, hiện tại đang lắp thêm.",
+    "o": [
+      "Áptômát điều khiển Công tắc tơ.",
+      "Timer điều khiển Công tắc tơ.",
+      "Công tắc tơ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Để khởi động từ có thể bảo vệ quá tải cho bơm dầu tại trạm thì ta phải bổ sung",
+    "o": [
+      "Rơle nhiệt.",
+      "Rơle điện áp.",
+      "Rơle dòng điện"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi Rơle nhiệt của bơm dầu đã tác động thì ta.",
+    "o": [
+      "Nhấn nút phục hồi",
+      "không cần nhấn nút phục hồi"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Máy phát điện 3 pha dự phòng tại trạm có công suất 80 kva, điện áp 0,4kv. Hỏi dòng điện tính toán mà máy phát có thể cấp cho tải là bao nhiêu.",
+    "o": [
+      "200 A",
+      "116 A",
+      "120 A"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Trên cả hai bình lọc sơ cấp và thứ cấp của hệ thống nhiên liệu động cơ diesel ở đáy bình đều có một nút (ốc). Tác dụng của nút này là:",
+    "o": [
+      "Ốc xả nước lắng và cặn bẩn",
+      "Ốc xả khí lẫn nhiên liệu.",
+      "Cả hai công dụng trên."
+    ],
+    "a": 0
+  },
+  {
+    "q": "Trên động cơ diesel tại trạm, nếu không có bình lọc gió thì:",
+    "o": [
+      "Cát bụi hút vào lòng xi lanh sẽ pha lẫn với dầu nhớt và được dầu nhớt đưa đi mài mòn các bộ phận cơ mà dầu nhớt đi đến.",
+      "Không có đủ gió để động cơ hoạt động"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Động cơ diesel tại Trạm Radar Cà Mau làm mát bằng phương pháp nào.",
+    "o": [
+      "Làm mát bằng gió",
+      "Làm mát bằng nước",
+      "Cả 1 và 2"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Trên nắp của két nước làm mát của máy phát điện có van an toàn. Van an toàn này sẽ mở khi:",
+    "o": [
+      "Áp suất không khí trong két tăng quá cao hoặc giảm quá thấp",
+      "Áp suất không khí trong két quá thấp",
+      "Áp suất không khí trong két tăng quá cao"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi máy phát điện báo lỗi over crank trước khi khởi động lại máy phát ta phải làm gì.",
+    "o": [
+      "Reset lại máy",
+      "khởi động máy bằng tay",
+      "khởi động máy Auto"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi tần số máy phát điện không đạt yêu cầu thì phải điều chỉnh tần số ở.",
+    "o": [
+      "Mạch điều tốc",
+      "Mạch AVR",
+      "Main board"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi điện áp máy phát điện không đạt yêu cầu thì phải điều chỉnh điện áp ở.",
+    "o": [
+      "Mạch điều tốc",
+      "Mạch AVR",
+      "Main board"
+    ],
+    "a": 1
+  },
+  {
+    "q": "khi có cảnh báo quá nhiệt độ, máy phát tự động shutdown thì ta phải kiểm tra",
+    "o": [
+      "Nước làm mát",
+      "Quạt giải nhiệt",
+      "Tất cả các trường hợp trên"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi có cảnh báo áp suất dầu thấp, máy phát tự động shutdown thì ta phải kiểm tra",
+    "o": [
+      "Các van khóa dầu",
+      "Bồn dầu nổi còn dầu không",
+      "Ống dẫn dầu có rò rỉ không",
+      "Tất cả các trường hợp trên"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Trong thực tế tại Trạm radar Cà Mau, các máy phát điện dự phòng sử dụng đầu phát điện là",
+    "o": [
+      "Máy phát điện không đồng bộ",
+      "Máy phát điện đồng bộ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Các máy phát điện dự phòng tại Trạm radar Cà Mau có chức năng bảo vệ quá tải không?",
+    "o": [
+      "Có",
+      "Không"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Theo khuyến cáo của nhà sản xuất máy phát điện dự phòng trạm radar Cà Mau khi nào thì thay lọc gió.",
+    "o": [
+      "Khi vạch xanh trên ống lọc gió chuyển sang màu vàng",
+      "Khi vạch xanh trên ống lọc gió chuyển sang màu đỏ",
+      "Khi vạch xanh trên ống lọc gió chuyển sang màu đen",
+      "Khi vạch xanh trên ống lọc gió chuyển sang màu trắng"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Theo khuyến cáo của nhà sản xuất máy phát điện dự phòng trạm radar Cà Mau chạy bao nhiêu giờ thì thay lọc dầu, lọc nhớt.",
+    "o": [
+      "250h",
+      "500h",
+      "1000h"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Để hòa hai UPS 30 kva tthì phải thỏa mấy điều kiện.",
+    "o": [
+      "Hai điều kiện",
+      "Ba điều kiện.",
+      "Bốn điều kiện."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Đường cấp nguồn cho tải là Main inverter thì tần số đầu vào và đầu ra của UPS.",
+    "o": [
+      "Độc lập nhau.",
+      "Không độc lập"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Bộ inverter của UPS có chức năng bảo vệ quá tải, ngắn mạch, quá nhiệt không",
+    "o": [
+      "Không có bảo vệ.",
+      "Có bảo vệ."
+    ],
+    "a": 1
+  },
+  {
+    "q": "Bộ RECTIFER của UPS30 kva là bộ",
+    "o": [
+      "Chỉnh lưu",
+      "Nghịch lưu"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Nút TOTAL OFF trên bảng điều khiển của UPS là nút dùng để",
+    "o": [
+      "Nút Reset lại UPS",
+      "Nút dừng khẩn cấp",
+      "Nút tắt còi"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Khi nhấn đồng thời Nút TOTAL OFF và nút ON INVERTER trên bảng điều khiển của UPS để",
+    "o": [
+      "Khôi phục UPS",
+      "Khởi động UPS",
+      "Tắt nguồn đầu ra của UPS",
+      "Cả ba trường họp trên"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Khi đèn Stop operation trên UPS sáng là cảnh báo sau 3 phút UPS sẽ shut down",
+    "o": [
+      "Ăc quy chỉ còn gánh tải 3 phút",
+      "UPS quá nhiệt trên 125%",
+      "UPS quá tải trên 125%",
+      "đáp án 1,2,3"
+    ],
+    "a": 3
+  },
+  {
+    "q": "Đường cấp nguồn Automatic Bypass và mannual Bypass của UPS 30 kva có điện áp, tần số đầu vào và đầu ra.",
+    "o": [
+      "Giống nhau",
+      "Khác nhau"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Các ắc quy của UPS 30kva tại trạm được kết nối",
+    "o": [
+      "Song Song",
+      "Vừa song và nối tiếp",
+      "Nối tiếp"
+    ],
+    "a": 2
+  },
+  {
+    "q": "Khi tháo các ắc quy của UPS 30kva tại trạm thì",
+    "o": [
+      "Tháo cọc dương trước",
+      "Tháo cọc âm trước",
+      "Tháo cọc nào trước cũng được"
+    ],
+    "a": 1
+  },
+  {
+    "q": "Hai UPS tại trạm đang đấu song song nếu tắt INVERTER của UPS1 thì tải được cấp nguồn qua đường",
+    "o": [
+      "UPS2",
+      "Automatic Bypass của UPS1",
+      "Manual Bypass của UPS1"
+    ],
+    "a": 0
+  },
+  {
+    "q": "Hai UPS tại trạm đang đấu song song nếu OFF Q4 của hai UPS thì tải được cấp nguồn qua đường",
+    "o": [
+      "Ắc quy xả INVERTER gánh tải",
+      "Automatic Bypass",
+      "Manual Bypass"
     ],
     "a": 0
   }
 ]
+  
