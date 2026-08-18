@@ -2103,11 +2103,11 @@
   {
     "q": "Trong Radar thứ cấp SIR-M, máy phát 2KWp có 4 bộ khuếch đại công suất độc lập có thể lập trình. Có thể lựa chọn bao nhiêu mức công suất phát khác nhau, chúng được áp dụng cho bao nhiêu sector trong một vòng quét, và có thể điều khiển độc lập cho nhóm xung nào?",
     "o": [
-      "4 mức công suất, 16 sector, các xung P1, P2, P3 ",
-      "Đáp án B",
-      "Đáp án C",
-      "Đáp án D"
+      "5 mức công suất ( 0db-3db-6db-12db và tắt) áp dụng cho 64 Sector, điều khiển độc lập P1,P2,P3",
+      "4 Mức Công suất (0db-3db-6db và tắt), áp dụng cho 128 sector điều khiển như 1 nhóm",
+      "5 mức công suất ( 0db-3db-6db-12db và tắt) áp dụng cho 1 vòng quét, có thể điều khiển độc lập công suất cực đại của nhóm P1-P3 hoặc P2 trong mỗi sector",
+      "3 Mức Công suất (3db-6db-12db), áp dụng cho 256 sector điều khiển độc lập P1,P2,P3 riêng lẻ"
     ],
-    "a": 0
+    "a": 2
   }
 ]
